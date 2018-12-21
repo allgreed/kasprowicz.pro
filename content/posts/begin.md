@@ -1,5 +1,5 @@
 ---
-title: "So... it begins :D"
+title: "So it begins…"
 date: 2018-12-19T19:58:48+01:00
 description: Chancellor on brink of second bailout for banks
 
@@ -25,6 +25,11 @@ Also today I've read [this article](https://motherboard.vice.com/en_us/article/v
 
 ## $ whois allgreed
 TODO
+0x2026
+UTF-16
+ellipsis
+omission from greek
+... …
 
 ## ??? <- title of this section == TODO
 TODO
