@@ -3,7 +3,11 @@ languageCode = "pl"
 
 title = "Hi, I'm Olgierd"
 
-theme = "ananke"
+paginate = 5 # Number of posts to show before paginating
+
+enableRobotsTXT = true # Suggested, enable robots.txt file
+googleAnalytics = "" # Optional, add tracking Id for analytics
+SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [menu]
 

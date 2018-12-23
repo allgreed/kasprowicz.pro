@@ -1,9 +1,10 @@
----
-title: "So it begins…"
-date: 2018-12-19T19:58:48+01:00
-description: Chancellor on brink of second bailout for banks
-
----
++++
+title = "So it begins…"
+date = 2018-12-19T19:58:48+01:00
+description = "Chancellor on brink of second bailout for banks"
+categories = []
+tags = []
++++
 
 > "Chancellor on brink of second bailout for banks"
 >
@@ -24,15 +25,12 @@ For 3 months now, I've been working with [DoomHammer](https://medium.com/@doomha
 Also today I've read [this article](https://motherboard.vice.com/en_us/article/vbanny/we-should-replace-facebook-with-personal-websites). There's something to it - I didn't want to be *just another* Medium writer, another Facebook profile, another ID in a huge database. At the same time I fancy sharing data, sometime personal data, with the world. Dear humans and bots, enjoy.
 
 ## $ whois allgreed
-TODO
-0x2026
-UTF-16
-ellipsis
-omission from greek
-... …
-
-## ??? <- title of this section == TODO
-TODO
+Look closely at the title. It's not 3 dots. It's a single ellipsis character, it's 0x2026 in UTF-16. Right... The question was `whoami` - and the answer is: just a humble hacker.
 
 ## How this was built
+OVH + Free tier hosting + Hugo + After-dark theme + ... h/s/m of customization
+TODO: Fill blank
+TODO: Add links
+
+## ??? <- title of this section == TODO
 TODO
