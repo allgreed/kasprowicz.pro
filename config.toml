@@ -1,6 +1,7 @@
 baseURL = "https://kasprowicz.pro/"
 languageCode = "pl"
 
+theme = "ananke"
 title = "Hi, I'm Olgierd"
 
 paginate = 5 # Number of posts to show before paginating
@@ -8,15 +9,16 @@ paginate = 5 # Number of posts to show before paginating
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+enableGitInfo = true
 
 [menu]
 
   [[menu.main]]
-    name = "github"
+    name = "Github"
     url = "https://github.com/allgreed/"
     weight = -110
 
   [[menu.main]]
-    name = "linkedin"
+    name = "Linkedin"
     url = "https://www.linkedin.com/in/olgierdkasprowicz"
     weight = -100
