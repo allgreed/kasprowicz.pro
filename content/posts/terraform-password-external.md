@@ -1,7 +1,7 @@
 +++
 title = "Hashing passwords on terraform machine"
 date = 2019-01-05T17:58:48+01:00
-description = "bleble"
+description = "How to stay sane and secure when handling passwords in terraform"
 categories = ["security", "terraform"]
 draft = true
 +++
@@ -118,14 +118,10 @@ print(json.dumps(result))
 {{< /highlight >}}
 
 ## Finally
-The solution requires a bit more code and tinkering than naive approach, yet provides required security, therefore I think it was worth the effort.
+This is definitely more code and tinkering than naive approach. All in all I think it's worth the effort given the improved security.
 
 Few tips regarding `external` provider (which you can also obtain by carefully reading the docs):
 
 - external programs should be treated as pure function - they should only depend on arguments provided via stdin, otherwise terraform might plan some actions even though nothing has been changed by you; that's why I've moved the salt generation inside terraform
-- thoose program are ran every time terraform traverses the dependency graph - this should be take into account if your program takes significant time to run; in my case a 1 second delay is added
+- the external program is executed every time terraform traverses the dependency graph - this should be take into account if your program takes significant time to run
 - terraform-only solution is always prefered if possible
-
-Notes:
-- add better description
-- kropki?
