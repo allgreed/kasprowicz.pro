@@ -35,7 +35,7 @@ $(openssl passwd -crypt ${var.kibana_credentials["password"]})
 {{< /highlight >}}
 
 - the password is limited to 8 chars ![](/ble.png)
-- it uses `DES` under the hood, which can be brute-forced swiftly and at a low price; using consumer-grade hardware [(details)](https://en.wikipedia.org/wiki/Data_Encryption_Standard#Chronology)
+- it uses `DES` under the hood, which can be brute-forced swiftly and at a sensible price; using consumer-grade hardware [(details)](https://en.wikipedia.org/wiki/Data_Encryption_Standard#Chronology)
 - sending the password in plaintext to the internet - the hashing occurs on the proxy machine
 
 ### Note
