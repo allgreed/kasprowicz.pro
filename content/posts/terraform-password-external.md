@@ -8,9 +8,11 @@ draft = true
 
 ## Preface
 
-I was doing a terraform setup for Snowplow Analitycs system, I've got some starter PoC code and my job was to make it production grade. Part of it was Kibana to allow the customer to review the gather analytics data. Because of networking I've already had a proxy set up to forward traffic from the internet to Kibana, yet some kind of security measure was required to ensure only our client has access to the data. Long story short... passwords!
+Hello internet! Did you know that there are some problems you cannot tackle by simply heading to Stack Overflow?
 
-This was the original code:
+I was doing a terraform setup for an analytics system. And with big data comes mighty visualization tool - Kibana. Because of networking I've already had a proxy set up to forward traffic from the world to Kibana, yet some kind of security measure was required to ensure only our client has access to it. Long story short... passwords!
+
+I've been given some code to start with and my job was to make it production grade, here's an excerpt from one of the original `.tf` files:
 
 {{< highlight sh >}}
   provisioner "remote-exec" {
