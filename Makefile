@@ -12,9 +12,6 @@ ftp-connect: ## connect to OVH hosting via ftp
 serve: ## fire up development server (drafts included)
 	xdg-open http://localhost:1313/ # this is a hax - the browser opens before hugo dev server does, but the dev server starts so fast that it works ;d
 	hugo serve --buildDrafts
-deploy-drafts: ## deploy drafts to special folder on the server
-	hugo --buildDrafts --destination $(BUILD_ARTIFACTS_FOLDER)
-	ncftpput -R $(FTP_DEPLOY_TARGET) ./drafts $(BUILD_ARTIFACTS_FOLDER)/posts/*
 
 .PHONY: ftp-deploy static
 ftp-deploy: ## deploy to OVH hosting via ftp
