@@ -1,7 +1,7 @@
 +++
-title = "Hashing passwords on terraform machine"
+title = "Hashing passwords on Terraform machine"
 date = 2019-01-05T17:58:48+01:00
-description = "How to stay sane and secure when handling passwords in terraform"
+description = "How to stay sane and secure when handling passwords in Terraform"
 categories = ["security", "terraform"]
 +++
 
@@ -9,7 +9,7 @@ categories = ["security", "terraform"]
 
 Hello, internet! Did you know that there are some problems you cannot tackle by simply heading to Stack Overflow?
 
-I was doing a terraform setup for an analytics system. And with big data comes mighty visualization tool - Kibana. Because of networking, I’ve already had a proxy set up to forward traffic from the world to Kibana, yet some kind of security measure was required to ensure only our client has access to it. Long story short… passwords!
+I was doing a Terraform setup for an analytics system. And with big data comes mighty visualization tool - Kibana. Because of networking, I’ve already had a proxy set up to forward traffic from the world to Kibana, yet some kind of security measure was required to ensure only our client has access to it. Long story short… passwords!
 
 I've been given some code to start with and my job was to make it production grade, here's an excerpt from one of the original `.tf` files:
 
@@ -61,13 +61,13 @@ The password is still sent in plaintext and Terraform doesn't offer an obvious s
 
 ## The attempts
 
-### Generating the digest inside terraform
+### Generating the digest inside Terraform
 
-I've tried crafting my own crypt-compatible function using only terraform. This seemed possible as terraform interpolation syntax has `base64sha512(string)` and `sha512(string)` functions. **I failed.** On one hand the digest-digest's format (part of crypt's digest corresponding to the hashed password) is not only **not** base64, I couldn't find a specification for it, so reimplementing this would require reading and understanding relevant part of `glibc` (not something I wanted to do for this particular thing), on the other hand I've had no idea how to implement multiple function application in terraform.
+I've tried crafting my own crypt-compatible function using only Terraform. This seemed possible as Terraform interpolation syntax has `base64sha512(string)` and `sha512(string)` functions. **I failed.** On one hand the digest-digest's format (part of crypt's digest corresponding to the hashed password) is not only **not** base64, I couldn't find a specification for it, so reimplementing this would require reading and understanding relevant part of `glibc` (not something I wanted to do for this particular thing), on the other hand I've had no idea how to implement multiple function application in Terraform.
 
 ### Using `external` provider
 
-Using the [external data source](https://www.terraform.io/docs/providers/external/data_source.html), which executes an arbitrary program, feeding the input via stdin and capturing stdout for usage inside terraform, I can declare an interface to my hashing script.
+Using the [external data source](https://www.terraform.io/docs/providers/external/data_source.html), which executes an arbitrary program, feeding the input via stdin and capturing stdout for usage inside Terraform, I can declare an interface to my hashing script.
 
 {{< highlight tf >}}
 data "external" "kibana_password_crypt" {
@@ -123,6 +123,6 @@ This is definitely more code and tinkering than naive approach. All in all, I th
 
 Few tips regarding `external` provider (which you can also obtain by carefully reading the docs):
 
-- external programs should be treated as pure function - they should only depend on arguments provided via stdin, otherwise terraform might plan some actions even though nothing has been changed by you; that's why I've moved the salt generation inside terraform
-- the external program is executed every time terraform traverses the dependency graph - this should be taken into account if your program takes significant time to run
-- a terraform-only solution is always prefered if possible
+- external programs should be treated as pure function - they should only depend on arguments provided via stdin, otherwise Terraform might plan some actions even though nothing has been changed by you; that's why I've moved the salt generation inside Terraform
+- the external program is executed every time Terraform traverses the dependency graph - this should be taken into account if your program takes significant time to run
+- a Terraform-only solution is always prefered if possible
