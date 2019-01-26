@@ -123,6 +123,6 @@ This is definitely more code and tinkering than naive approach. All in all, I th
 
 Few tips regarding `external` provider (which you can also obtain by carefully reading the docs):
 
-- external programs should be treated as pure function - they should only depend on arguments provided via stdin, otherwise Terraform might plan some actions even though nothing has been changed by you; that's why I've moved the salt generation inside Terraform
+- external programs should be treated as pure functions - they should only depend on arguments provided via stdin, otherwise Terraform might plan some actions even though nothing has been changed by you; that's why I've moved the salt generation inside Terraform
 - the external program is executed every time Terraform traverses the dependency graph - this should be taken into account if your program takes significant time to run
 - a Terraform-only solution is always prefered if possible
