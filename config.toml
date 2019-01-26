@@ -11,8 +11,10 @@ googleAnalytics = "" # Optional, add tracking Id for analytics
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 enableGitInfo = true
 
-[menu]
+[params]
+show_reading_time = true
 
+[menu]
   [[menu.main]]
     name = "Github"
     url = "https://github.com/allgreed/"
