@@ -28,9 +28,10 @@ Also today I've read [this article](https://motherboard.vice.com/en_us/article/v
 Look closely at the title. It's not 3 dots. It's a single ellipsis character, it's 0x2026 in UTF-16. Right... The question was `whoami` - and the answer is: just a humble hacker.
 
 ## How this was built
-OVH + Free tier hosting + Hugo + After-dark theme + ... h/s/m of customization
-TODO: Fill blank
-TODO: Add links
+domain bought via OVH + Free tier hosting + Hugo + ananke theme + ~3h of customization and scripting, the sources are [here](https://github.com/allgreed/kasprowicz.pro)
 
 ## ??? <- title of this section == TODO
 TODO
+
+**Edit:** I've decided to keep the above secion as is for entire eternity to remind me as well as you, dear reader, that now is better than never.
+
