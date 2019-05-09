@@ -25,23 +25,23 @@ In the mean time I've noticed some chatter going on the hackerspace Slack `#dev_
 ### Life goes on...
 
 ## Thoughts
-### Modularity
-### Scaling (down)
-### Vendor lock-in?
+### Scaling down
 ### Overhead [needs work]
-### Databases
-### State of the art
+### Scaling up
+### Scaling up even further
+Notes:
+- no idea if it's any good for multi DC cluster## State of the art
+### Modularity
+### Vendor lock-in?
 
-## Uncommon how-tos
+## Uncommon how-tos / weird shit
 I had a problem with those
 ### Logs preview
 ### Binding static ports
-### Local Docker setup [needs work]
+### Local Docker setup [needs work] ???
 ### Propper advertising / bind address configuration [needs work]
 ### How to purge jobs form nomad [needs work]
 
-Notes:
-- no idea if it's any good for multi DC cluster
 
 ## Shoutout & goodstuff
 - DO code
