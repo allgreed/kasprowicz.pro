@@ -26,7 +26,7 @@ In the mean time I've noticed some chatter going on the hackerspace Slack `#dev_
 - practice means lab in this case
 
 ### Lab setup
-Nothing fancy - I've spun up 3 ubuntu droplets with Terraform
+Nothing fancy - I've spun up 3 Ubuntu droplets with Terraform:
 
 {{< highlight tf >}}
 resource "digitalocean_droplet" "srv" {
@@ -66,16 +66,59 @@ and added a simple Ansible playbook, mainly for installing Docker:
 - migrated Hackerspace infrastructure to Nomad (choo, choo! it's the hype train)
 - had a few problems that now seams easy, so I'll share what I've found
 
-### Logs preview
+### Logs preview [needs investigation]
 - when I did `docker logs` it failed
+{{< highlight bash >}}
+$ docker logs -f nginx-84552c1e-20df-116a-5194-892edc2f0d06
+Error response from daemon: configured logging driver does not support reading
+{{< /highlight >}}
+- Nomad uses custom logging driver / sth like that [TODO!]
+- screenshot from Nomad on how to get here
 ### Binding static ports
 - needed to go through docs to figure it out :c
+
+{{< highlight terraform >}}
+task "example" {
+  driver = "docker"
+
+  config {
+    port_map = {
+      http = 8080
+    }
+  }
+
+  resources {
+    network {
+      port "http" {
+            static = 80
+        }
+    }
+  }
+}
+{{< /highlight >}}
+
+- equivalent of `docker run -p 80:8080 [...]`
+- dynamic ports aren't so usefull when not using service discovery
 ### How to purge jobs form nomad
 - I've initially created a servie that I wanted to become a system job
+- todo: error message here
+
+{{< highlight sh >}}
+nomad job --purge [job_name]
+{{< /highlight >}}
+
+- dynamic ports aren't so usefull when not using service discovery
+- than reapply the job
+
 ### Propper advertising / bind address configuration [needs work + investigation]
 - simply binding to 0.0.0.0 / 127.0.0.1 didn't work
 - binding to outgoing address with advertising it kindof wokrs, but nomad is not accessible by default via cli (not really a problem) and the services need to be avaible over that interface (problem, because I need to specify machine's IP in the config instead of localhost :C)
 ### Local Docker setup [needs work] ???
+
+<!-- todo: first review -->
+<!-- todo: add some overwiev screenshots + tekst + nomad files -->
+
+<!-- todo: split here -->
 
 ## Let's get prodish!
 ### Ansible role
@@ -99,3 +142,7 @@ Note:
 ## Shoutout & goodstuff
 - DO code
 - [hhes](https://github.com/xaxes) - for ???
+<!-- todo: tidy up - grammarly / sth else -->
+<!-- todo: second review -->
+<!-- todo: third review -->
+<!-- todo: publish -->
