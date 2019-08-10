@@ -1,12 +1,15 @@
 +++
+title = "Stairway to Nixos"
 description = ""
-defat = true
-25 Jul 11 2019 00:50 +0200
+draft = true
+date = 2019-06-11T00:50:00+02:00
+categories = [""]
+tags = ["", ""]
 +++
 
 some inspiration -> https://ian.pw/posts/2019-07-19-nix-nixos-first-impressions.html
 
-## Stairway to Nixos
+## Preface
 
 Every good story has a beginning, middle? and an end. Not necessarely in that order.
 

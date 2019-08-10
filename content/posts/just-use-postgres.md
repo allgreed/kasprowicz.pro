@@ -1,7 +1,10 @@
 +++
+title = "Test"
+date = 2019-07-12T22:07:23+02:00
 description = ""
-Fri 12 Jul 22:07:23 CEST 2019
 draft = true
+categories = [""]
+tags = ["", ""]
 +++
 
 ## Just use Postgres

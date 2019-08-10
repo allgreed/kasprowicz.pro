@@ -3,6 +3,7 @@ title = "Nomad - the journey"
 date = 2019-05-02T14:49:10+01:00
 description = "When docker-compose doesn't quite cut it and k8s is way too much"
 categories = ["nomad"]
+tags = ["", ""]
 draft = true
 +++
 
