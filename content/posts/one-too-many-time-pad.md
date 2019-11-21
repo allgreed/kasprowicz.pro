@@ -28,8 +28,8 @@ $$C_i = M_i \oplus K_i $$
 
 [Crib dragging](https://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html) can be utilised after splitting the message into \\(\left \lceil n \over o \right \rceil\\) chunks. You can even [try it online!](https://www.cribdrag.com/)
 
-We can also split the ciphertext into \\(o\\) chucks, crack them independently and then join. In that case \\(j\\)-th chuck would have the form of:
-$$(M_j \oplus K_j, M\_{2j} \oplus K_j, ...)$$
+We can also split the ciphertext into \\(o\\) chucks by taking every \\(j\\)-th character, where \\(0 < j < o\\), crack them independently and then join. In that case \\(j\\)-th chuck would have the form of:
+$$(M\_{j} \oplus K_j, M\_{o + j} \oplus K_j, M\_{2o + j} \oplus K_j, ...)$$
 
 The only unknown required to compute the key for a chunk is a single plaintext character from said chunk:
 $$ K_j = C_j \oplus M\_{j} $$
@@ -50,9 +50,32 @@ assert all(map(lambda s: len(s) == len(possible_plaintexts), result_spaces))
 
 Drawbacks? The chunk must be long enough for the frequency statistics to be meaningful and the character distribution has to be known; that would fail for a message that is written in more than one language, partly [hog latin](https://en.wikipedia.org/wiki/Pig_Latin), etc.
 
-## ...
+## I'm in space!
 
-## Appendix: On LaTeX in Hugo
+There is another approach we can take to find a known character that does not require knowledge of letter distribution - we can find the spaces!
+
+<!-- REfactor -->
+Knowing that \\( C_j \oplus C\_{o+j} = M_j \oplus K_j \oplus M\_{o+j} \oplus K_j = M_j \oplus M\_{o+j} \\) we've got the xor of the plaintexts, fun fact is that xor is commutative \\( M_j \oplus M\_{o+j} = M\_{o+j} \oplus M\_{j} \\) - doesn't provide much information in itself.
+
+<!-- REfactor -->
+Looking closely at the bit patterns of xored characters we can specify 3 groups: \\(space \oplus a = 0b010xxxxx \\), \\(a \oplus b = 0b000xxxxx \\) and of course \\(a \oplus a = 00000000 \\). I'll refer to the results by S[pace], L[etter] and E[qual] respectively.
+
+## The naïve approach
+
+After finding an \\( p \ne r \ne s \\) such that:
+$$\begin{cases}
+ & \text{} C_p \oplus C\_{r} = L\\\\ 
+ & \text{} C\_{r} \oplus C\_{s} = S
+\end{cases}$$
+
+From the first equation we can derive the conclustion that \\(C_r\\) is not a space and the second equation tells us that one of \\((C_r, C_s)\\) is a space, which combined implies that \\( M\_{s}  \\) is a space. Game over. 
+
+This can be extended to include upercase ASCII characters as well.
+
+
+
+
+## Appendix A: On LaTeX in Hugo
 - official docs
 - massive PITA in the begging
 
