@@ -54,35 +54,63 @@ Drawbacks? The chunk must be long enough for the frequency statistics to be mean
 
 There is another approach we can take to find a known character that does not require knowledge of letter distribution - we can find the spaces!
 
-<!-- REfactor -->
-Knowing that \\( C_j \oplus C\_{o+j} = M_j \oplus K_j \oplus M\_{o+j} \oplus K_j = M_j \oplus M\_{o+j} \\) we've got the xor of the plaintexts, fun fact is that xor is commutative \\( M_j \oplus M\_{o+j} = M\_{o+j} \oplus M\_{j} \\) - doesn't provide much information in itself.
+Knowing that \\( C_j \oplus C\_{o+j} = M_j \oplus K_j \oplus M\_{o+j} \oplus K_j = M_j \oplus M\_{o+j} \\) we've got the xor of the plaintexts. This doesn't provide much information in itself, since xor is commutative - \\( M_j \oplus M\_{o+j} = M\_{o+j} \oplus M\_{j} \\).
 
-<!-- REfactor -->
-Looking closely at the bit patterns of xored characters we can specify 3 groups: \\(space \oplus a = 0b010xxxxx \\), \\(a \oplus b = 0b000xxxxx \\) and of course \\(a \oplus a = 00000000 \\). I'll refer to the results by S[pace], L[etter] and E[qual] respectively.
+Looking closely at the bit patterns of xored characters we can distinguish 2 groups of interest: \\(space \oplus a = 0b0\textbf{1}0xxxxx \\), \\(a \oplus b = 0b0\textbf{0}0xxxxx \\), where \\(a, b \in \\{ a..z \\}, x \in \mathbb{B}\\)
 
-## The naïve approach
-
-After finding an \\( p \ne r \ne s \\) such that:
+After finding \\( p, r, s \\) such that:
 $$\begin{cases}
- & \text{} C_p \oplus C\_{r} = L\\\\ 
- & \text{} C\_{r} \oplus C\_{s} = S
+ & \text{} C_p \oplus C\_{r} = 0b0\textbf{0}0.....\\\\ 
+ & \text{} C\_{r} \oplus C\_{s} = 0b0\textbf{1}0.....
 \end{cases}$$
 
-From the first equation we can derive the conclustion that \\(C_r\\) is not a space and the second equation tells us that one of \\((C_r, C_s)\\) is a space, which combined implies that \\( M\_{s}  \\) is a space. Game over. 
+From the first equation we can derive the conclusion that \\(M_r\\) is **not** a space and the second equation tells us that one of \\((M_r, M_s)\\) is a space, which combined implies that \\( M\_{s}  \\) is a space. Game over.
 
-This can be extended to include upercase ASCII characters as well.
+\\( p, r, s \\) can be found as long as the chunk contains at least 2 distinct non-space characters and a single space.
 
+This method can be extended to include uppercase ASCII characters as well (and maybe even *some* special characters such as "@").
+
+## Proofs
+<!-- add proof for triplets -->
+
+<!-- TODO: refactor - make it more mathy -->
+<!-- TODO: what is solvable? -->
+As for the entire chunk:
+
+0. Sequence consisting of 2 distinc non-space characters and a single space is solvable
+1. Prepending or appending any permitted element to a solvable sequence \\(s \\) creates a solvable sequence \\(s'\\), since the same triplet can be selected from \\(s' \\) as is used to solve \\( s \\)
+
+## The naïve approach
+Why not take every distinct triplet from the ciphertext and check every permutation, huh?
+
+<!-- Add code -->
+
+### Remarks
+
+- todo
+- algorithm complexity
+- it's performing pretty well on sample texts
+<!-- TODO: insert plot -->
+
+## Possible improvements
+
+- todo
+- ensuring that the running time is linear -> just describe some clever heuristics
 
 
 
 ## Appendix A: On LaTeX in Hugo
+- todo
+- sorry for the Javascript
 - official docs
 - massive PITA in the begging
 
 {{< highlight html >}}
 \\( expr \\) <!-- inline expression -->
 $$ expr $$ <!-- block expression -->
+
 exprA\_{exprB} <!-- note the backslash! subscript -->
+\\{ expr \\} <!-- note the double backslash! Set containing expr members -->
 {{< /highlight>}}
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
