@@ -1,11 +1,15 @@
 +++
 title = "One-Too-Many-Time Pad"
 date = 2019-11-19T23:35:17+01:00
-description = ""
-draft = true
+description = "Cracking one-time pad with reused key"
+draft = false
 categories = [""]
 tags = ["university"]
 +++
+
+<!-- TODO: chane the disclaimer to "beta"-->
+<!-- TODO: remove the disclaimer -->
+**Disclaimer**: this is an alpha version, expect updates
 
 ## Prologue
 
@@ -64,14 +68,14 @@ $$\begin{cases}
  & \text{} C\_{r} \oplus C\_{s} = 0b0\textbf{1}0.....
 \end{cases}$$
 
-From the first equation we can derive the conclusion that \\(M_r\\) is **not** a space and the second equation tells us that one of \\((M_r, M_s)\\) is a space, which combined implies that \\( M\_{s}  \\) is a space. Game over.
+From the first equation we can derive the conclusion that \\(M_r\\) is *not* a space and the second equation tells us that one of \\((M_r, M_s)\\) is a space, which combined implies that \\( M\_{s}  \\) is a space. **Game over.**
 
 \\( p, r, s \\) can be found as long as the chunk contains at least 2 distinct non-space characters and a single space.
 
 This method can be extended to include uppercase ASCII characters as well (and maybe even *some* special characters such as "@").
 
 ## Proofs
-<!-- add proof for triplets -->
+todo python proof for triplets
 
 <!-- TODO: refactor - make it more mathy -->
 <!-- TODO: what is solvable? -->
@@ -83,13 +87,13 @@ As for the entire chunk:
 ## The naïve approach
 Why not take every distinct triplet from the ciphertext and check every permutation, huh?
 
-<!-- Add code -->
+todo add code
 
 ### Remarks
 
 - todo
+- it's performing surprisingly well on sample texts
 - algorithm complexity
-- it's performing pretty well on sample texts
 <!-- TODO: insert plot -->
 
 ## Possible improvements
@@ -98,12 +102,11 @@ Why not take every distinct triplet from the ciphertext and check every permutat
 - ensuring that the running time is linear -> just describe some clever heuristics
 
 
-
 ## Appendix A: On LaTeX in Hugo
 - todo
 - sorry for the Javascript
 - official docs
-- massive PITA in the begging
+- massive PITA in the beggining
 
 {{< highlight html >}}
 \\( expr \\) <!-- inline expression -->
