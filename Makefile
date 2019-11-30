@@ -6,12 +6,15 @@ FTP_DEPLOY_TARGET := ovh
 .PHONY: all
 all: static ftp-deploy ## build and deploy!
 
-.PHONY: ftp-connect serve
+.PHONY: ftp-connect serve init
 ftp-connect: ## connect to OVH hosting via ftp
 	ncftp $(FTP_DEPLOY_TARGET)
 serve: ## fire up development server (drafts included)
 	xdg-open http://localhost:1313/ # this is a hax - the browser opens before hugo dev server does, but the dev server starts so fast that it works ;d
 	hugo server -w --buildDrafts --buildFuture
+
+init: ## one time setup
+	direnv allow
 
 .PHONY: ftp-deploy static
 ftp-deploy: ## deploy to OVH hosting via ftp
