@@ -24,3 +24,8 @@ show_reading_time = true
     name = "Linkedin"
     url = "https://www.linkedin.com/in/olgierdkasprowicz"
     weight = -100
+
+  [[menu.main]]
+    name = "3rd paty"
+    url = "/3party"
+    weight = 10
