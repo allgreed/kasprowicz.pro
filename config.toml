@@ -26,6 +26,6 @@ show_reading_time = true
     weight = -100
 
   [[menu.main]]
-    name = "3rd paty"
+    name = "3rd party"
     url = "/3party"
     weight = 10
