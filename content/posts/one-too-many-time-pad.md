@@ -103,17 +103,9 @@ todo add code
 
 
 ## Appendix A: On LaTeX in Hugo
-- todo
-- sorry for the Javascript
-- official docs
-- massive PITA in the beggining
+You can do LaTeX in Hugo! And the experiance is ok-ish after a while. Massive PITA in the beginning though. For the premise of this blog post the capabilities definitely suffice.
 
-{{< highlight html >}}
-\\( expr \\) <!-- inline expression -->
-$$ expr $$ <!-- block expression -->
+If you'd like to put some math on your page - official docs won't do any good. Luckily someone has [written about it](https://divadnojnarg.github.io/blog/mathjax/) already. As for composing the LaTeX I use this [clunky online editor](https://www.codecogs.com/latex/eqneditor.php). It's been there for me since high school and I've grown fond of it ^^.
 
-exprA\_{exprB} <!-- note the backslash! subscript -->
-\\{ expr \\} <!-- note the double backslash! Set containing expr members -->
-{{< /highlight>}}
-
+I'm sorry for the Javascript - this sets a limit on how much I'm going to invade your privacy while you're entertaining yourself reading my blog.
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
