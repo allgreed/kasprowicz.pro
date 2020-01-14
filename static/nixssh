@@ -1,0 +1,8 @@
+users.users.allgreed = {
+    isNormalUser = true;
+    extraGroups = [ "wheel" "docker" ];
+    openssh.authorizedKeys.keys = [
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINKqfsyBaA0RAsa0vyMs499OwkU1IBTKcFwPWuez34/z allgreed@connor"
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII8GU/UML1uxe/IwoPC/+T4RgbzOga9IoUtJtB2Q3dM0 allgreed@terminator"
+    ];
+};
