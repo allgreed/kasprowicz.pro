@@ -75,7 +75,26 @@ From the first equation we can derive the conclusion that \\(M_r\\) is *not* a s
 This method can be extended to include uppercase ASCII characters as well (and maybe even *some* special characters such as "@").
 
 ## Proofs
-todo python proof for triplets
+{{< highlight py >}}
+#!/usr/bin/env python3
+from string import ascii_lowercase
+from itertools import permutations, combinations
+
+def exists_prs_3(seq: str) -> bool:
+    """There exists p,r,s for a given sequence of 3 characters"""
+
+    for permutation in permutations(seq):
+        p, r, s = map(ord, permutation)
+        if (not ((p ^ r) >> 6 & 1)) and (r ^ s) >> 6 & 1:
+            return True
+    else:
+        return False
+
+possible_triplets = map(lambda s: s + (" ",),
+                        combinations(ascii_lowercase, 2))
+
+assert all(map(exists_prs_3, possible_triplets))
+{{< /highlight >}}
 
 <!-- TODO: refactor - make it more mathy -->
 <!-- TODO: what is solvable? -->
