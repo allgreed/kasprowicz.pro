@@ -2,9 +2,6 @@
 description = ""
 +++
 
-<!--add to main menu-->
-<!--write something-->
-<!--populate with yt vidoes-->
 # Olgierd-related 3rd party content
 
 I think the title is a bit misleading, 'cause the first 2 parties never happened. Or at least I wasn't invited to them ^^
