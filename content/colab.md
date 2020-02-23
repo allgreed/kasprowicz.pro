@@ -15,16 +15,21 @@ Those are the basis for establishing an overview of someone's personality. All h
 
 - high extroversion
     - pro: I will talk to people. A lot. I'm all around the place. I'll talk about our project / thing / initiative with strangers. I network. I will take action. No problem with public speaking (if I feel competent about the subject).
-    - con: I might distract others with social interactions. I might dominate the conversation. If I cannot interact with people in a meaningful way across prolonged periods of time I'll get sulky and miserable. Same goes for respect and social validation. I might get overly excited about things.
+    - con: I might distract others with social interactions. I might dominate the conversation. If I cannot interact with people in a meaningful way across prolonged periods of time I'll get sulky and miserable. Same goes for respect / social validation. I might get overly excited about things.
 
 - high neuroticism
-    - pro: unless I'm in hooray-fun-let's-do-stuff mode (see above) I'll be very careful with regards to risks, regulations and compliance. I'll spot tailgaters, breaches and vulnerabilities. I'll suggest and implement a lot of just-in-cases.
-    - con: I might get paranoid, both about stuff directly related to work as well as accompanying social interactions. Might not be a great judge of relevance or business impact at those times.
+    - pro: unless I'm in hooray-fun-let's-do-stuff mode (see above) I'll be very careful with regards to risks, regulations and compliance. I'll spot tailgaters, breaches and vulnerabilities. I'll suggest and implement a lot of just-in-cases. Can't stand long lasting conflict, so I'll try to resolve it right away.
+    - con: I might get paranoid, both about stuff directly related to work as well as accompanying social interactions. Over interpret otherwise non-relevant phenomenons.
 
 - extremely low agreeableness
+    - pro: being nice doesn't stop me - I can tell you an unpopular truth, stand my ground in an argument or make a difficult choice.
+    - con: might seam cold and heartless at times - like I don't care about your feelings or opinion. And that would be correct, sometimes I don't. I might dismiss or fail to notice them. I might also get entangled in an argument far beyond the point where it was reasonable to do so.
+
 - extremely high openness
 - high conscientiousness 
     - break into orderliness and industriousness
+
+<!--TODO - some mixes of the above-->
 
 ## Character
 
@@ -37,7 +42,7 @@ Dr Peterson describes character as an ability to act outside our traits. If afte
 
 - tell the truth or at least don't lie
 - do a good job, no cutting corners (except for the corner-cutting machine!)
-- ???
+- third: do no harm (curing caner == cool, slot machines fw == ok-ish, hellfire == hell no!)
 
 
 ## Misc
