@@ -26,6 +26,7 @@ Those are the basis for establishing an overview of someone's personality. All h
     - con: might seam cold and heartless at times - like I don't care about your feelings or opinion. And that would be correct, sometimes I don't. I might dismiss or fail to notice them. I might also get entangled in an argument far beyond the point where it was reasonable to do so.
 
 - extremely high openness
+
 - high conscientiousness 
     - break into orderliness and industriousness
 
@@ -42,8 +43,18 @@ Dr Peterson describes character as an ability to act outside our traits. If afte
 
 - tell the truth or at least don't lie
 - do a good job, no cutting corners (except for the corner-cutting machine!)
-- third: do no harm (curing caner == cool, slot machines fw == ok-ish, hellfire == hell no!)
+
+### Third: do no harm
+
+I have a strong sense of ethic. I'd like to make the world a better place or at least don't contribute to the evil and malice. I consider 3 types of work with regard to ethics:
+- Angelic goodies - curing cancer. It's really hard to find an ethical downside to that. Sure, someone might use the tech to cure a vicious dictator, but isn't he/she just another human after all?
+- Potentially harmful - slot machines. On one hand a form of entertainment, on the other an object of addition. Yes, gambling addiction is a thing. I'll be asking you bunch of difficult questions and might refuse to complete some tasks - the ones connected with making people more addicted for example. I might ask you to stop a particular edeavour or ask someone else to make you stop if you refuse. All things concidered if you don't actually hurt or attempt to hurt other people we'll be good. Safe and sound.
+- Definitely harmful - [Hellfire missiles](https://en.wikipedia.org/wiki/AGM-114_Hellfire). I can't see how that can be good. I've read about a numerous innocent civilian causalities. I shall not be a part of this.
 
 
 ## Misc
+The above is non-negotiable. These are my traits, my character and my creed. However below are some preferences that you may find useful - if none of them are acceptable than we're probably not a good fit, if some are them are *not* acceptable we can with high probability arrive at a mutually satisfying arrangement ;)
+
+- GNU/Linux > Windows + guest GNU/Linux > MacOs > Windows
+- my ideal work week is 4 days x 7 hours with 1 day remote possibility (that's still 4 days total)
 - cVKi to gówno!!!!!!!
