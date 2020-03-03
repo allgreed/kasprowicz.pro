@@ -26,6 +26,9 @@ Those are the basis for establishing an overview of someone's personality. All h
     - con: might seam cold and heartless at times - like I don't care about your feelings or opinion. And that would be correct, sometimes I don't. I might dismiss or fail to notice them. I might also get entangled in an argument far beyond the point where it was reasonable to do so.
 
 - extremely high openness
+THIS DO!
+    - pro:
+    - con:
 
 - high conscientiousness 
     - break into orderliness and industriousness
@@ -56,5 +59,6 @@ I have a strong sense of ethic. I'd like to make the world a better place or at 
 The above is non-negotiable. These are my traits, my character and my creed. However below are some preferences that you may find useful - if none of them are acceptable than we're probably not a good fit, if some are them are *not* acceptable we can with high probability arrive at a mutually satisfying arrangement ;)
 
 - GNU/Linux > Windows + guest GNU/Linux > MacOs > Windows
+- if you don't respect my judgement enough to let me choose my own personal tools how can you respect it in other areas?
 - my ideal work week is 4 days x 7 hours with 1 day remote possibility (that's still 4 days total)
 - cVKi to gówno!!!!!!!
