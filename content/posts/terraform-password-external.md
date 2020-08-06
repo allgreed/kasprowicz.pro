@@ -1,5 +1,5 @@
 +++
-title = "Hashing passwords on Terraform machine"
+title = "Hashing Passwords on Terraform Machine"
 date = 2019-01-05T17:58:48+01:00
 description = "How to stay sane and secure when handling passwords in Terraform"
 categories = ["security", "terraform"]
