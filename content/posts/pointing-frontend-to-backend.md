@@ -39,7 +39,7 @@ I never actually came around to implement this - but something rubs me the wrong
 
 ## State of the art
 
-Devops is about applying glue, so let's combine almost all of the ideas above.  Therefore let's just assume that api is at `/api` in production and can be set via `REACT_APP_BACKEND_URL` for development. If you're using [axios](https://github.com/axios/axios) as your HTTP library of choice then the code would look something like:
+Devops is about applying glue, so let's combine almost all of the ideas above. Therefore we start with an assumption that api is at `/api` in production and can be set via `REACT_APP_BACKEND_URL` for development. If you're using [axios](https://github.com/axios/axios) as your HTTP library of choice then the code would look something like:
 
 ```js
 function makeApiClient()
