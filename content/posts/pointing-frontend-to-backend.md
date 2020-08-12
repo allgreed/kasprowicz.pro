@@ -99,7 +99,7 @@ server {
 }
 ```
 
-And the whole container can be configured with (Nomad example):
+And finally you can set the backend URL (Nomad example):
 
 ```hcl
 env {
