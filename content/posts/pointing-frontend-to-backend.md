@@ -2,14 +2,14 @@
 title = "Where's your backend, kiddo?"
 date = 2020-07-29T15:25:53+02:00
 description = "Telling frontend where the backend is... with style!"
-draft = true
+draft = false
 categories = [""]
 tags = []
 +++
 
 ## Abstract
 
-You've got your backend, a marvelous piece of code sitting comfortably in a container. And there is a piece of a beautiful frontend. The drop-in shadow on the buttons just makes you want to lick them. Of course it's containerized as well. And the problem arises: how can the frontend know where the backend is? The only problem with static frontends in that regards is that they are... well... static. Seams trivial but this is a surprisingly annoying one.
+You've got your backend, a marvelous piece of code sitting comfortably in a container. And there it is - a beautiful frontend. The drop-in shadow on the buttons just makes you want to lick them. Of course it's containerized as well. And the problem arises: how can the frontend know where the backend is? The only problem with static frontends in that regard is that they are... well... static. Seams trivial but this is a surprisingly annoying one.
 
 ## A nope
 
@@ -25,7 +25,7 @@ And speaking from experience - this approach seamed reasonable until the team I'
 
 ## "runtime config"
 
-Not one of my brightest moments, but I had this idea: what if frontend requested a `config.json` from `$CURRENT_URL/config.json`. The file would then contain the backend URL and some 3rd party services keys (now I know that stuff usually should go through the API anyway and that case was **not** an exception). Hell, we could even create the file via a [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/), how hip of us!
+Not one of my brightest moments, but I had this idea: what if frontend requested a `config.json` from `$CURRENT_URL/config.json`? The file would then contain the backend URL and some 3rd party services keys (now I know that stuff usually should go through the API anyway and that case was **not** an exception). Hell, we could even create the file via a [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/), how hip of us!
 
 In retrospection that sucked. The keys were up for grabs for a malicious actor. And I literally mean that **any** script kiddie capable of writing a `for` loop in Python 2.7 could do us considerable harm by exploiting those credentials that were a hotkey away. The solution also required an (surprise, surprise!) additional request before the content could be rendered, something very frowned upon in the frontend craft. On top of that we had trouble integrating the whole thing into React-Redux lifecycle management - not to say that's inherently cumbersome - simply it caused us a few *jajebieświnie*s. That's a Polish saying for when you are reconsidering your career choice as a programmer.
 
