@@ -29,11 +29,11 @@ Not one of my brightest moments, but I had this idea: what if frontend requested
 
 In retrospection that sucked. The keys were up for grabs for a malicious actor. And I literally mean that **any** script kiddie capable of writing a `for` loop in Python 2.7 could do us considerable harm by exploiting those credentials that were a hotkey away. The solution also required an (surprise, surprise!) additional request before the content could be rendered, something very frowned upon in the frontend craft. On top of that we had trouble integrating the whole thing into React-Redux lifecycle management - not to say that's inherently cumbersome - simply it caused us a few *jajebieświnie*s. That's a Polish saying for when you are reconsidering your career choice as a programmer.
 
-Yet with all it disadvantages it was both a superior way of configuring the frontend than none as well as a better love story than twilight.
+Yet with all it disadvantages it was both a superior way of configuring the frontend than none as well as a better love story than Twilight.
 
 ## `do_shit.sed`
 
-After that I've entertained a thought of postponing the final step of "building" until the container is actually ran. Though an amiable mind could say it's in the likes of [partial evaluation](https://en.wikipedia.org/wiki/Partial_evaluation) it's only as sophisticated as an `sed` script gets. Have the backend URL hardcoded to some #wellknown value and replace it a runtime - with the contents of an environment variable.
+After that I've entertained a thought of postponing the final step of "building" until the container is actually ran. Though an amiable mind could say it's in the likes of [partial evaluation](https://en.wikipedia.org/wiki/Partial_evaluation) it's only as sophisticated as an `sed` script gets. Have the backend URL hardcoded to some #wellknown value and replace it at runtime - with the contents of an environment variable.
 
 I never actually came around to implement this - but something rubs me the wrong way about processing all the `.js` files at runtime inside a Docker container.
 
@@ -111,7 +111,7 @@ env {
 
 The whole piece doesn't yet touch on the issue if `service.example.com` is better than `example.com/service`. Semantically you could argue whenever you should address an infrastructure by services or by hosts (with me being on the service side, especially now with the cloud, kubernetes omnipresence and actual metal often being an afterthought) - but that's not the point. From my humble experience I conclude that if you have to run a more or less unknown app - just let it have it's own subdomain. It's less hassle that way. Some apps (like [the lounge](https://github.com/thelounge/thelounge)) can handle being hosted on a subpath quite gracefully, but why take that risk?
 
-And as always - if you have better approach to the subject feel free to reach out to me and I'll gladly expand my understanding, enhance this post and give you a proper shout-out.
+And as always - if you have a better approach to the subject feel free to reach out to me and I'll gladly expand my understanding, enhance this post and give you a proper shout-out.
 
 ## Footnotes
 
