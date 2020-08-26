@@ -7,9 +7,7 @@ categories = [""]
 tags = []
 +++
 
-## Abstract
-
-You've got your backend, a marvelous piece of code sitting comfortably in a container. And there it is - a beautiful frontend. The drop-in shadow on the buttons just makes you want to lick them. Of course it's containerized as well. And the problem arises: how can the frontend know where the backend is? The only problem with static frontends in that regard is that they are... well... static. Seams trivial but this is a surprisingly annoying one.
+You've got your backend, a marvelous piece of code sitting comfortably in a container. And there it is - a beautiful frontend. The drop-in shadow on the buttons just makes you want to lick them. Of course it's containerized as well. And the problem arises: how can the frontend know where the backend is? The only problem with static frontends in that regard is that they are... well... static. Seams trivial, but this is a surprisingly annoying one - partly because it occurs in the JS-land yet requires a devops mindset to solve reasonably.
 
 ## A nope
 
@@ -64,7 +62,9 @@ REACT_APP_BACKEND_URL=https://jsonplaceholder.typicode.com npm start
 
 So far so good (except for the `REACT_APP_` prefix, but [don't hate the players - hate the game](https://create-react-app.dev/docs/adding-custom-environment-variables/)) , however it looks like we've [already been there](#url-magic). 
 
-Since every problem in computer science can be solved by another layer of indirection[^1] let's have the frontend nginx server redirect the request to wherever the backend actually is. This possibly adds a tiny little bit of latency, but hey, hardware is cheap! So we need a way to parametrize the server configuration with an environment variable... and it magically turns out the official nginx Docker image has a [built-in template utility](https://github.com/docker-library/docs/blob/master/nginx/content.md#using-environment-variables-in-image-configuration-new-in-119) :D
+Since every problem in computer science can be solved by another layer of indirection[^1] how about leaveraging the dynamic part of the frontend container - namely the file server? Therefore let's have the nginx (that's what I'm using) redirect the request from `/api` to wherever the backend actually is. This possibly adds a tiny little bit of latency, but hey, hardware is cheap!
+
+ We also need a way to parametrize the server configuration with an environment variable... and it magically turns out the official nginx Docker image has a [built-in template utility](https://github.com/docker-library/docs/blob/master/nginx/content.md#using-environment-variables-in-image-configuration-new-in-119) :D
 
 So that this:
 ```docker
