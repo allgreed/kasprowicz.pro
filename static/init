@@ -1,4 +1,22 @@
-sudo apt-get update
-sudo apt install -y git python ansible sudo
+#!/usr/bin/env bash
+set -euo pipefail
+
+which git > /dev/null || (echo 'please install git and rerun this script' && exit 1)
+
 git clone https://github.com/allgreed/dotfiles.git ~/Dotfiles
-~/Dotfiles/ansible/run
+
+cd Dotfiles
+git remote set-url --push origin git@github.com:allgreed/dotfiles.git
+
+cd ansible/
+
+nix-shell --run 'make just-dotfiles'
+
+#integrate the non-nixos stuff gracefully
+#```
+#sudo apt-get update
+#sudo apt install -y git python ansible sudo
+#git clone https://github.com/allgreed/dotfiles.git ~/Dotfiles
+#~/Dotfiles/ansible/run
+#```
+
