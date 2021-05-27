@@ -3,5 +3,10 @@
 with pkgs;
 
 mkShell {
-  buildInputs = [ hugo git gnumake ];
+  buildInputs = [
+    hugo
+    git
+    gnumake 
+    ncftp
+  ];
 }
