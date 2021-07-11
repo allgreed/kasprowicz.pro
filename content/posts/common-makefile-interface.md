@@ -4,7 +4,7 @@ date = 2021-07-10T19:29:41+02:00
 description = ""
 draft = true
 categories = [""]
-tags = ["", ""]
+tags = []
 +++
 
 > He had eyes all around his head and spoke magic words that could turn the day sky in night sky and night sky into day sky...
@@ -29,7 +29,7 @@ If the concept above **doesn't** cause you to shake and tremble in search of a c
 
 #### Note: what do I mean by Docker
 
-Obviously no SDLC is the same, though many are alike. You may doodle on a board(white or black), peace of paper, tablet or directly on the walls (deranged Silicon Valley genius style!). You may use [cri-o](https://cri-o.io/), [podman](https://podman.io/), rkt (it this even alive? o.0) or something that doesn't yet exist at the time of writting. My point: your respective parts of SDLC looks somewhat like this or at least you wish they were.
+Obviously no SDLC is the same, though many are alike. You may doodle on a board(white or black), piece of paper, tablet or directly on the walls (deranged Silicon Valley genius style!). You may use [cri-o](https://cri-o.io/), [podman](https://podman.io/), rkt (it this even alive? o.0) or something that doesn't yet exist at the time of writting. My point: your respective parts of SDLC looks somewhat like this or at least you wish they were.
 
 #### Note: but embedded!
 
@@ -44,17 +44,33 @@ Various developers (having different machines, potentially different OSes), devo
 
 > How do you actually run this thing?
 
-And it will turn out that the README is outdated. The wiki page is missing a dependency. For unit tests. The database needs migration. You've confused the order of steps in the instruction. Do you start over? Is the process indempotent?
+And it will turn out that the README is outdated. The wiki page is missing a dependency. For unit tests. The database needs migration. You've confused the order of steps in the instruction. Do you start over? Is the process idempotent?
 
-I've seen things. Particullarly this. Too. Many. Times.
+I've seen things. Particularly this. Too. Many. Times.
 
 At various companies, be it big or small. Developers with or without CS degree . This is a serious problem that I belived we (the people) are capable of solving.
 
-## Missing interface requiremenets
+## The mess
+<!-- TODO: better section title-->
 
-<!-- TODO: inerface requiremenets -->
+Currently the gap is filled by development specific tools, like `yarn` for <abbr title="Single Page Application">SPA</abbr>s (or is it `npm` now?), `maven` for Java apps and `cargo` for Rust. This causes cognitive overhead and prevents standardization.
+
+The problem calls for:
+- technology agnostic interface (so: one tool for JS, Java, Rust...)
+- interoperability with whatever is used underneath
+- self-documenting solution
+
+Furthermore, following standardized features would be required:
+- single (yet tweakable) way of getting the app started with sensible defaults 
+- running unit-tests
+- running static analysis
+- spitting out the container
+- building the app (if applicable)
+
+## Along comes [GNU]Make!
 <!-- TODO: using Makefile + how it fullfils the requiremenets + prior art (Apdziu + Doom) -->
-<!-- TODO: companions and how they fit into the model -->
+
+<!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
 <!-- TODO: in depth description +  -->
 <!-- TODO: some examples - Digitalocean Token Scoper + learning django -->
 <!-- TODO: side effects - scripting / automation culture + README template-->
