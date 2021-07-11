@@ -78,5 +78,8 @@ Furthermore, following standardized features would be required:
 <!-- TODO: call to action! -->
 <!-- TODO: write description -->
 <!--TODO: spec on Github-->
+
+<!--Feedback-->
+<!--TODO: problem wielu środowisk-->
 ## Footnotes
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
