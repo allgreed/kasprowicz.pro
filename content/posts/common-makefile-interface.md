@@ -108,11 +108,22 @@ as an excercise for the reader.
 
 It's not like I woke up some day and decided to do things this way. This a reflection and formalization on what I've been doing myself for the last ~2 years while working for 3 distinct employers[^3].
 
-Make is a mature tool, first appeared in 1976, so around 40+ years ago[^3]. Originated to solve the problem of forgetting to recompile (remember the stuff about C?). It's readily avaible (and might be even preinstalled) on any unix-like platoform. Makefiles are here to stay.
+Furthermore, Make is a mature tool, first appeared in 1976, so around 40+ years ago[^3]. Originated to solve the problem of forgetting to recompile (remember the stuff about C?). It's readily avaible (and might be even preinstalled) on any unix-like platoform. Makefiles are here to stay.
 
 > Quote here.
 >
  —  <cite>Benjamin Franklin</cite>
+
+### Early design notes
+<!--TODO: should this section be here?-->
+I strongly belive that it's the case of agreeing on something rather than bikesheding about the shape of that something
+
+![XKCD 927 / How Standards Proliferate - (See: A/C chargers, character encodings, instant messaging, etc.); Situation: There are 14 competing standards.; Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases. Ponytail: Yeah!; Soon: Situation: There are 15 competing standards.](https://imgs.xkcd.com/comics/standards.png)
+
+yet I hold a firm belief (until proven otherwise) that following concepts are sensible:
+- having the formalized targets begin with a different letters, so that autocomplete experiance is nicer - `make r[tab]` vs `make run`
+- breaking the Makefile convention of the default target being recepie that builds all possible outputs and having it be `help` instead - that'll prevent accidental builds as well as gracefully show the possibilities to someone experianced with Makefiles
+- the formalized targets being simple English words like `run, build, help` rather than `launch, manufacture, assistance`
 
 ## Companions
 <!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
@@ -159,10 +170,16 @@ todo: ## list all TODOs in the project
 
 ## Call to action!
 <!-- TODO: call to action! -->
-<!-- TODO: link to repo template-->
-<!-- TODO: write description -->
-<!--TODO: spec on Github-->
 
+### Implement
+<!-- TODO: link to repo template-->
+<!--TODO: spec on Github - validating -->
+<!-- TODO: do the badge and validator and expose it as a service - commit to both django-example as well as digitalocean token scoper -->
+
+### Contribute
+<!--TODO: spec on Github - issues -->
+
+<!-- TODO: write description -->
 <!--Feedback-->
 <!--TODO: problem wielu środowisk-->
 ## Footnotes
