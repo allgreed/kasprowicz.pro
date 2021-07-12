@@ -68,14 +68,98 @@ Furthermore, following standardized features would be required:
 - building the app (if applicable)
 
 ## Along comes [GNU]Make!
-<!-- TODO: using Makefile + how it fullfils the requiremenets + prior art (Apdziu + Doom) -->
 
+Remember [Make](https://en.wikipedia.org/wiki/Make_(software))? With a [GNU flavour](https://www.gnu.org/software/make/)! Turns out that while it's quite decent a compiling C, but that's not the point - it can be used as a sensible enough-cross platform task runner[^2].
+
+The [`.PHONY:`](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html) directive can be used for defining non-file targets.
+
+```Makefile
+.PHONY: run setup
+
+run: setup ## run the app
+	@echo "Not implemented"; false
+
+setup:
+```
+
+Upon `make run` this will execute `setup` and then `run`. You can obviously put targets that are actual files into the mix.
+
+### Small idea
+```Makefile
+.PHONY: run lint test container build env-up env-down env-recreate 
+```
+
+A defined set of targets for actions that are commonly done with software. Independent of the undeylaying technology, yet interoprable with any concrete task runner (like the aformentioned `yarn`). It's not about *replacement* - those tools work just fine. It's about **adding another layer**.
+
+![developers, manager and devops all use `make run` which can be implmeneted by many different Makefiles for many different apps in development](/unified-action.png)
+
+Imagine all the agents (or stakeholders... or just people) interacting with any project in a well-defined standardized manner. Obviously you may want to tweak the configuration at some point - use different database setup, etc. But there will come a time for anyone invested in the project to just get the app running. For many it will be one of their last encounter with that particullar piece of software.
+
+A devops can be in a hurry to fix a bug, but the project in question is a dependency. She need's to run it with debug tracing enabled. `make run`, then a quick `Makefile` examination to figure out which particular flag to turn. Done!
+
+I'll leave other scenarios like:
+- a manager (technical enough to ran few shell commands) wants to quickly see the very latest pre-staging version
+- an intern is being onboarded into the company
+- open source
+
+as an excercise for the reader.
+
+### Note on prior art
+
+It's not like I woke up some day and decided to do things this way. This a reflection and formalization on what I've been doing myself for the last ~2 years while working for 3 distinct employers[^3].
+
+Make is a mature tool, first appeared in 1976, so around 40+ years ago[^3]. Originated to solve the problem of forgetting to recompile (remember the stuff about C?). It's readily avaible (and might be even preinstalled) on any unix-like platoform. Makefiles are here to stay.
+
+> Quote here.
+>
+ —  <cite>Benjamin Franklin</cite>
+
+## Companions
 <!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
-<!-- TODO: in depth description +  -->
+## Case studies
 <!-- TODO: some examples - Digitalocean Token Scoper + learning django -->
-<!-- TODO: side effects - scripting / automation culture + README template-->
 
+## Misc
+<!-- TODO: intrdouce this section -->
+
+### Self-documentation
+```Makefile
+help: ## print this message
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
+    | awk 'BEGIN {FS = ":.*?## "};
+    {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+.DEFAULT_GOAL := help
+```
+
+### Tooling-culture
+
+
+### Always up to date!
+
+### CI
+
+### Glue - intialization hook
+```Makefile
+init: ## one time setup
+	direnv allow .
+```
+
+### Utilities
+```Makefile
+todo: ## list all TODOs in the project
+	git grep -I --line-number TODO \
+    | grep -v 'list all TODOs in the project' \
+    | grep TODO
+```
+
+### README - not starting from scratch!
+
+<!--stamps-->
+<!--https://www.technovelty.org/tips/the-stamp-idiom-with-make.html-->
+
+## Call to action!
 <!-- TODO: call to action! -->
+<!-- TODO: link to repo template-->
 <!-- TODO: write description -->
 <!--TODO: spec on Github-->
 
@@ -83,3 +167,5 @@ Furthermore, following standardized features would be required:
 <!--TODO: problem wielu środowisk-->
 ## Footnotes
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
+[^2]: here are [some tutorials](https://makefiletutorial.com/)
+[^3]: at the time of writing
