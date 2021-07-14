@@ -82,7 +82,7 @@ run: setup ## run the app
 setup:
 ```
 
-Upon `make run` this will execute `setup` and then `run`. You can obviously put targets that are actual files into the mix.
+For those unfamilliar with Make: Upon `make run` this will execute `setup` (which is empty) and then `run` (which will output "Not implemented" and fail). You can obviously put targets that are actual files into the mix.
 
 ### Small idea
 ```Makefile
@@ -125,10 +125,11 @@ yet I hold a firm belief (until proven otherwise) that following concepts are se
 - breaking the Makefile convention of the default target being recepie that builds all possible outputs and having it be `help` instead - that'll prevent accidental builds as well as gracefully show the possibilities to someone experianced with Makefiles
 - the formalized targets being simple English words like `run, build, help` rather than `launch, manufacture, assistance`
 
-## Companions
-<!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
 ## Case studies
 <!-- TODO: some examples - Digitalocean Token Scoper + learning django -->
+
+## Companions
+<!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
 
 ## Misc
 <!-- TODO: intrdouce this section -->
