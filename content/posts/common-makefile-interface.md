@@ -93,7 +93,7 @@ A defined set of targets for actions that are commonly done with software. Indep
 
 ![developers, manager and devops all use `make run` which can be implmeneted by many different Makefiles for many different apps in development](/unified-action.png)
 
-Imagine all the agents (or stakeholders... or just people) interacting with any project in a well-defined standardized manner. Obviously you may want to tweak the configuration at some point - use different database setup, etc. But there will come a time for anyone invested in the project to just get the app running. For many it will be one of their last encounter with that particullar piece of software.
+Imagine all the agents (or stakeholders... or just people) interacting with any project in a well-defined standardized manner. Obviously you may want to tweak the configuration at some point - use different database setup, etc. But there will come a time for anyone invested in the project to just get the app running. For many it will their last encounter with that particullar piece of software.
 
 A devops can be in a hurry to fix a bug, but the project in question is a dependency. She need's to run it with debug tracing enabled. `make run`, then a quick `Makefile` examination to figure out which particular flag to turn. Done!
 
@@ -114,22 +114,49 @@ Furthermore, Make is a mature tool, first appeared in 1976, so around 40+ years 
 >
  —  <cite>Benjamin Franklin</cite>
 
-### Early design notes
-<!--TODO: should this section be here?-->
-I strongly belive that it's the case of agreeing on something rather than bikesheding about the shape of that something
-
-![XKCD 927 / How Standards Proliferate - (See: A/C chargers, character encodings, instant messaging, etc.); Situation: There are 14 competing standards.; Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases. Ponytail: Yeah!; Soon: Situation: There are 15 competing standards.](https://imgs.xkcd.com/comics/standards.png)
-
-yet I hold a firm belief (until proven otherwise) that following concepts are sensible:
-- having the formalized targets begin with a different letters, so that autocomplete experiance is nicer - `make r[tab]` vs `make run`
-- breaking the Makefile convention of the default target being recepie that builds all possible outputs and having it be `help` instead - that'll prevent accidental builds as well as gracefully show the possibilities to someone experianced with Makefiles
-- the formalized targets being simple English words like `run, build, help` rather than `launch, manufacture, assistance`
-
 ## Case studies
-<!-- TODO: some examples - Digitalocean Token Scoper + learning django -->
+<!-- TODO: introduce this ection -->
+
+### Django
+
+<!--TODO: go bit by bit how would it work with an example django app-->
+
+### Digitalocean Token Scoper
+
+[This project](https://github.com/allgreed/digitalocean-token-scoper) was a spur-of-the-moment product of me having a problem and the desire to finally do something in Golang. It's a real world project, running in production.
+
+<!--TODO: what's interesting-->
+<!--- it's pretty standard-->
+<!--- it's still `git clone`, `make init`, `make run`-->
+<!--- varaible usage ? meh-->
+<!--- has an additional `interact` script-->
+<!--- prepopulates secrets with example values-->
+<!--- this was tested by my friend and colegue Dawid - he found it possible to contribute easily to the project-->
 
 ## Companions
-<!-- TODO: companions (nix, entr, direnv) and how they fit into the model -->
+
+The examples above heavily utilize other tools. They're not the point of this blogpost and deserve an articule in their own right, however it wouldn't be complete without at least pointing out how they all work together. It's not by any means required by the Common Makefile Interface, but it's the best way to do things that I'm aware of.
+
+### Nix
+
+[Nix](https://nixos.org/). Like... where do I even start... For the purpose of what's already said Nix provides reproducible environments in a sensible (so that it's actually reproducible and you don't cure *that* much while setting it up) cross-plaform cross-plaform manner. I say 'cross-plaform' twice, since it works with different development technologies (Node, Haskell, Go, etc.) as well as host OSes (Mac, GNU/Linux, WSL).
+
+You can also use Nix to build Docker images and it's quite decent at it (`FROM scratch` builds, heavily leaveraging image layers). And I'll speak of it in this post no more.
+
+I'll be having a talk about Nix at this year's [Cebula Camp](https://cebula.camp/) [it'll likely be recorded!] and there's tons of recordings from other conferences to introduce you to the subject properly.
+
+### Direnv
+
+[Direnv](https://direnv.net/) along with [direnv-nix](https://github.com/nix-community/nix-direnv) put the 'seam' in 'seamless experiance' - you don't have to type `nix-shell` - this tool will execute certain commands automatically upon entering a directory. Additionally it provides an additional level of caching so that no expression is evaluated twice.
+
+### Entr
+
+[Entr](https://github.com/clibs/entr), though not touched on explicitly is still worth mentioning -> it runs commands upon file changes. So that:
+```bash
+ls main.py | make test
+```
+
+will run unittest every time `main.py` changes. It can be utilized to provide an insanely convenient <abbr title="Test Driven Development">TDD</abbr> loop by running two panes - one with the editor and the other `entr`.
 
 ## Misc
 <!-- TODO: intrdouce this section -->
@@ -171,11 +198,9 @@ todo: ## list all TODOs in the project
 
 ## Call to action!
 <!-- TODO: call to action! -->
+I strongly belive that it's the case of agreeing on something rather than bikesheding
 
-### Implement
-<!-- TODO: link to repo template-->
-<!--TODO: spec on Github - validating -->
-<!-- TODO: do the badge and validator and expose it as a service - commit to both django-example as well as digitalocean token scoper -->
+![XKCD 927 / How Standards Proliferate - (See: A/C chargers, character encodings, instant messaging, etc.); Situation: There are 14 competing standards.; Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases. Ponytail: Yeah!; Soon: Situation: There are 15 competing standards.](https://imgs.xkcd.com/comics/standards.png)
 
 ### Contribute
 <!--TODO: spec on Github - issues -->
@@ -183,6 +208,17 @@ todo: ## list all TODOs in the project
 <!-- TODO: write description -->
 <!--Feedback-->
 <!--TODO: problem wielu środowisk-->
+
+#### Early design notes
+- having the formalized targets begin with a different letters, so that autocomplete experiance is nicer - `make r[tab]` vs `make run`
+- breaking the Makefile convention of the default target being recepie that builds all possible outputs and having it be `help` instead - that'll prevent accidental builds as well as gracefully show the possibilities to someone experianced with Makefiles
+- the formalized targets being simple English words like `run, build, help` rather than `launch, manufacture, assistance`
+
+### Implement
+<!-- TODO: link to repo template-->
+<!--TODO: spec on Github - validating -->
+<!-- TODO: do the badge and validator and expose it as a service - commit to both django-example as well as digitalocean token scoper -->
+
 ## Footnotes
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
 [^2]: here are [some tutorials](https://makefiletutorial.com/)
