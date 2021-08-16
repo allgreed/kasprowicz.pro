@@ -2,10 +2,16 @@
 title = "Common Makefile Interface"
 date = 2021-07-10T19:29:41+02:00
 description = ""
-draft = true
+draft = false
 categories = [""]
 tags = []
+[_build]
+render="always"
+list="never"
+publishResources="true"
 +++
+<!--__-->
+<!--TODO this draft=false is a hack :c-->
 
 > He had eyes all around his head and spoke magic words that could turn the day sky into night sky and night sky into day sky...
 
@@ -154,7 +160,7 @@ I'll be having a talk about Nix at this year's [Cebula Camp](https://cebula.camp
 ### Entr
 
 [Entr](https://github.com/clibs/entr), though not touched on explicitly is still worth mentioning -> it runs commands upon file changes. So that:
-```bash
+```sh
 ls main.py | make test
 ```
 
