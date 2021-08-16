@@ -4,7 +4,7 @@ BUILD_ARTIFACTS_FOLDER := dist
 FTP_DEPLOY_TARGET := ovh
 
 .PHONY: all
-all: static ftp-deploy ## build and deploy!
+all: build ftp-deploy ## build and deploy!
 
 .PHONY: ftp-connect run init
 ftp-connect: ## connect to OVH hosting via ftp
@@ -16,12 +16,12 @@ run: ## fire up development server (drafts included)
 init: ## one time setup
 	direnv allow
 
-.PHONY: ftp-deploy static
+.PHONY: ftp-deploy build
 ftp-deploy: ## deploy to OVH hosting via ftp
 	ncftpput -R $(FTP_DEPLOY_TARGET) . $(BUILD_ARTIFACTS_FOLDER)/*
-static: ## create static artifacts (no postprocessing though)
+build: ## create build artifacts (no postprocessing though)
 	rm -fr $(BUILD_ARTIFACTS_FOLDER)
-	hugo --destination $(BUILD_ARTIFACTS_FOLDER)
+	hugo --destination $(BUILD_ARTIFACTS_FOLDER) --minify
 
 .PHONY: help
 help: ## print this message
