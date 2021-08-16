@@ -7,7 +7,9 @@ categories = [""]
 tags = []
 +++
 
-> He had eyes all around his head and spoke magic words that could turn the day sky in night sky and night sky into day sky...
+> He had eyes all around his head and spoke magic words that could turn the day sky into night sky and night sky into day sky...
+
+—  <cite>Seamingly unrelated opening quote</cite>
 
 ## Rationale
 
@@ -160,8 +162,15 @@ will run unittest every time `main.py` changes. It can be utilized to provide an
 
 ## Misc
 <!-- TODO: intrdouce this section -->
+<!--TODO link the follwing to how bizare makefile can be - mention recursive LISP-like stuff-->
+<!--stamps-->
+<!--https://www.technovelty.org/tips/the-stamp-idiom-with-make.html-->
 
-### Self-documentation
+
+### Self-documentation and tooling culture
+
+The best documentation is self-explanatory code. The second best is self-documenting code. It is possible for a `make` to do reflection on itself and with the folowing piece of `awk` present it sensibly:
+
 ```Makefile
 help: ## print this message
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
@@ -170,20 +179,25 @@ help: ## print this message
 .DEFAULT_GOAL := help
 ```
 
-### Tooling-culture
+with the result looking like[^4]:
 
-
-### Always up to date!
-
-### CI
-
-### Glue - intialization hook
-```Makefile
-init: ## one time setup
-	direnv allow .
+```
+run                            run the app
+build                          create artifact
+lint                           run static analysis
+test                           run all tests
+...
+help                           print this message
 ```
 
-### Utilities
+This enables to recover from standard deviations quickly (so that if you're hell bent on calling `run` for example `launch` it's less of a problem), accounts for old-timers accustomed to `make configure; make; make install` as well as emables discoverability of project-specific functionality not addressed by the standard.
+
+Speaking of dedicated targets - in my opinion the presented appraroch encourages engineers to commit useful hacks to the repository. So instead of creating an oddly named script in arbitrary nested in the project file structure (better) or not subbmitting it at all (worse) there's now a place for storing those scripts (which are really ad-hoc specialized tooling) in a manner that's discoverable, convinient to run and document.
+
+It won't in itself transform your company into an agile-driven non-nonsense KPI-oriented cloud enterprise on it's own, yet people behaviour is a function of their environment.
+
+A generic example of the above could be the TODOfinder I've made:
+
 ```Makefile
 todo: ## list all TODOs in the project
 	git grep -I --line-number TODO \
@@ -191,13 +205,36 @@ todo: ## list all TODOs in the project
     | grep TODO
 ```
 
-### README - not starting from scratch!
+Did I mentioned that it's much easier to keep those scripts **up to date** and prevent wiki-rot when the key scripts are kept next to source code and run daily?
 
-<!--stamps-->
-<!--https://www.technovelty.org/tips/the-stamp-idiom-with-make.html-->
 
-## Call to action!
-<!-- TODO: call to action! -->
+### Not starting from SCRATCH!
+
+Additional things to keep in mind is that most projects are somehow simillar, especially at their initial stages. So most new projects READMEs will tell you how to install dependencies and run the app, maybe with some companion services (think datastore). A CI woudl see if the app buils, passes linters and some basic unit tests. Of course in due time idiosyncracies will grow to the point were they require an explicit presence as a separate CI step (imgae a hierarchy of integration test that run with varying frequency).
+
+But in the begging the basic steps are de-facto the same. And since we've abstracted the specific meaing of those basic steps a README can be prepared against them as well as a CI for a particular platform, since it's `make buil&& make lint && make test` in whatever is the latest flavour of YAML. Read on to see, how some of it might look like!
+
+### Glue - intialization hook
+
+I may be overstating the significance of this part, but I find it insanely cool that I can standardize the hook for one time setup. The need was rooted in security model of `direnv` - basically you have to explicitly enable it initially and every time the code changes (you should read it as well).
+
+Here it is - in all it's glory:
+
+```Makefile
+init: ## one time setup
+	direnv allow .
+```
+
+I've modified it from that form only once so far - to hide the initial direnv warrning (the one that says "direnv is disabled run such and such to enable"):
+```Makefile
+init: ## one time setup
+	-mv --no-clobber _.envrc .envrc 2>/dev/null
+	direnv allow .
+```
+
+Turns out the presence of said warning was confusing some of the devs I was working with.
+
+## Call to action! <!-- TODO: call to action! -->
 I strongly belive that it's the case of agreeing on something rather than bikesheding
 
 ![XKCD 927 / How Standards Proliferate - (See: A/C chargers, character encodings, instant messaging, etc.); Situation: There are 14 competing standards.; Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases. Ponytail: Yeah!; Soon: Situation: There are 15 competing standards.](https://imgs.xkcd.com/comics/standards.png)
@@ -223,3 +260,5 @@ I strongly belive that it's the case of agreeing on something rather than bikesh
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
 [^2]: here are [some tutorials](https://makefiletutorial.com/)
 [^3]: at the time of writing
+[^4]: welp, it displays that in color, though I don't feel like reporducing that on my blog
+[^5]: ble
