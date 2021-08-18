@@ -118,6 +118,8 @@ It's not like I woke up some day and decided to do things this way. This a refle
 
 Furthermore, Make is a mature tool, first appeared in 1976, so around 40+ years ago[^3]. Originated to solve the problem of forgetting to recompile (remember the stuff about C?). It's readily avaible (and might be even preinstalled) on any unix-like platoform. Makefiles are here to stay.
 
+<!--TODO get the quote from Doom-->
+<!--TODO introduce the quote-->
 > Quote here.
 >
  —  <cite>Benjamin Franklin</cite>
@@ -240,31 +242,28 @@ init: ## one time setup
 
 Turns out the presence of said warning was confusing some of the devs I was working with.
 
-## Call to action! <!-- TODO: call to action! -->
-I strongly belive that it's the case of agreeing on something rather than bikesheding
+## Call to action!
+I strongly belive that it's the case of agreeing on something rather than bikesheding (xkcd pic rel)
 
 ![XKCD 927 / How Standards Proliferate - (See: A/C chargers, character encodings, instant messaging, etc.); Situation: There are 14 competing standards.; Cueball: 14?! Ridiculous! We need to develop one universal standard that covers everyone's use cases. Ponytail: Yeah!; Soon: Situation: There are 15 competing standards.](https://imgs.xkcd.com/comics/standards.png)
 
-### Contribute
-<!--TODO: spec on Github - issues -->
-
-<!-- TODO: write description -->
-<!--Feedback-->
-<!--TODO: problem wielu środowisk-->
-
-#### Early design notes
-- having the formalized targets begin with a different letters, so that autocomplete experiance is nicer - `make r[tab]` vs `make run`
-- breaking the Makefile convention of the default target being recepie that builds all possible outputs and having it be `help` instead - that'll prevent accidental builds as well as gracefully show the possibilities to someone experianced with Makefiles
-- the formalized targets being simple English words like `run, build, help` rather than `launch, manufacture, assistance`
+<!--TODO action is the only conclusion -->
 
 ### Implement
-<!-- TODO: link to repo template-->
-<!--TODO: spec on Github - validating -->
-<!-- TODO: do the badge and validator and expose it as a service - commit to both django-example as well as digitalocean token scoper -->
+<!--TODO write some words of encouragement - users -->
+
+- try starting a new project from [this template](https://github.com/allgreed/templates)
+- just give it a shot - in whatever shape or form!
+
+### Contribute
+<!--TODO write some words of encouragement - contributors -->
+
+- commit to the [standard and tooling](https://github.com/allgreed/common-makefile-interface)
+- spread the word - share this article, mention it to your friends, hell, give a talk!
+- talk to me - **tell me it's stupid and why it'll fail miserably**, utter a tale of grand sucess, weave a story full of mystery, betrayal and romance. Or just drop a hint what could be improved in your opinion. Either through Github issues or email me (it's my name, at sign, this domain, all lowercase - suck it, bots).
 
 ## Footnotes
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
 [^2]: here are [some tutorials](https://makefiletutorial.com/)
 [^3]: at the time of writing
 [^4]: welp, it displays that in color, though I don't feel like reporducing that on my blog
-[^5]: ble
