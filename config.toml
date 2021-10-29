@@ -3,7 +3,7 @@ languageCode = "pl"
 
 theme = "ananke"
 title = "Kasprowicz, obviously."
-copyright = "the people"
+copyright = "Olgierd Kasprowicz"
 
 paginate = 5 # Number of posts to show before paginating
 
