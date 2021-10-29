@@ -77,6 +77,8 @@ Furthermore, following standardized features would be required:
 
 ## Along comes [GNU]Make!
 
+<!--TODO "Szczegóły jak to działa to ja nie wiem - feedback od Tomka z pracy-->
+
 Remember [Make](https://en.wikipedia.org/wiki/Make_(software))? With a [GNU flavour](https://www.gnu.org/software/make/)! Turns out that while it's quite decent a compiling C, but that's not the point - it can be used as a sensible enough-cross platform task runner[^2].
 
 The [`.PHONY:`](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html) directive can be used for defining non-file targets.

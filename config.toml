@@ -2,7 +2,8 @@ baseURL = "https://kasprowicz.pro/"
 languageCode = "pl"
 
 theme = "ananke"
-title = "Hi, I'm Olgierd"
+title = "Kasprowicz, obviously."
+copyright = "the people"
 
 paginate = 5 # Number of posts to show before paginating
 
@@ -13,6 +14,7 @@ enableGitInfo = true
 
 [params]
 show_reading_time = true
+logo_text = "btw that was Olgierd"
 
 [menu]
   [[menu.main]]
