@@ -9,5 +9,6 @@ I think the title is a bit misleading, 'cause the first 2 parties never happened
 ## Videos
 Those *MAY* be youtube links. You've been warned.
 
+- [Nixos extravaganza @ Kongres Komunikacyjny Cebula 2021 (in Polish)](https://www.youtube.com/watch?v=snqwpu7ygvA)
 - [Intro to validation @ Sierpień Opensource 2019 (in Polish)](https://www.youtube.com/watch?v=kdl34_xOc78&t=47m30s)
 - [Git internals @ Kongres Komunikacyjny Cebula 2019 (in Polish)](https://www.youtube.com/watch?v=QToZSo14kXg&t=25m30s)

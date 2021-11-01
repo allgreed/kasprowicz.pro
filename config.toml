@@ -37,5 +37,10 @@ logo_text = "btw that was Olgierd"
     url = "/3party"
     weight = 10
 
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 20
+
 [markup.goldmark.renderer]
 unsafe= true
