@@ -2,15 +2,15 @@
 title = "Common Makefile Interface"
 date = 2021-07-10T19:29:41+02:00
 description = ""
-draft = false
+draft = true
 categories = [""]
 tags = []
-[_build]
-render="always"
-list="never"
-publishResources="true"
 +++
 <!--__-->
+<!--[_build]-->
+<!--render="always"-->
+<!--list="never"-->
+<!--publishResources="true"-->
 <!--TODO this draft=false is a hack :c-->
 
 > He had eyes all around his head and spoke magic words that could turn the day sky into night sky and night sky into day sky...
@@ -215,8 +215,29 @@ todo: ## list all TODOs in the project
     | grep TODO
 ```
 
-Did I mentioned that it's much easier to keep those scripts **up to date** and prevent wiki-rot when the key scripts are kept next to source code and run daily?
+Did I mentioned that it's much easier to keep those scripts **up to date** and prevent wiki-rot when the key scripts are kept next to source code and are ran daily?
 
+Additionally, the `make` is flexible enough that the scripts may be embedded into the Makefile itself. Plz no abuse. It can save some anoying arguments passing though.
+
+```make
+.ONESHELL:
+interact: ## helper process to run predefined inputs
+	@while read line
+	do
+		case $$line in 
+		p*)
+			curl ... -H "Authorization: Bearer $(CLIENT_SECRET)"...
+			;;
+		f*)
+			curl http://localhost:$(PORT)...
+			;;
+		*)
+			;;
+		esac
+	done
+```
+
+In the example above I'm using [`ONESHELL` directive](https://www.gnu.org/software/make/manual/make.html#One-Shell) to embedd an interactive shell scripts that heavily depends on Makefile varaibles.
 
 ### Not starting from SCRATCH!
 
@@ -235,7 +256,7 @@ init: ## one time setup
 	direnv allow .
 ```
 
-I've modified it from that form only once so far - to hide the initial direnv warrning (the one that says "direnv is disabled run such and such to enable"):
+I've modified it from that form only once so far - to hide the initial direnv warrning (the one that says "direnv is disabled - run such and such to enable"):
 ```Makefile
 init: ## one time setup
 	-mv --no-clobber _.envrc .envrc 2>/dev/null
