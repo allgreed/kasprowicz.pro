@@ -15,6 +15,7 @@ enableGitInfo = true
 [params]
 show_reading_time = true
 logo_text = "btw that was Olgierd"
+rss="/index.xml"
 
 [menu]
   [[menu.main]]

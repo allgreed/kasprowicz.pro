@@ -5,11 +5,11 @@
   </span>
   bleble
     <div class="nananana_link">
-        {{ partial "social-follow.html" . }}
         <a href="https://github.com/allgreed/kasprowicz.pro" target="_blank" class="nananana_link link-transition slack link dib z-999 pt3 pt0-l mr1" title="Source on Github" rel="noopener" aria-label="view Source on Github——Opens in a new window">
             <span >view source</span>
       {{ partial "svg/github.svg" (dict "size" "32px") }}
       {{- partial "new-window-icon.html" . -}}
+    {{ partial "social-follow.html" . }}
         </a>
     </div>
   </div>
