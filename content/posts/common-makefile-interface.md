@@ -290,3 +290,6 @@ I strongly belive that it's the case of agreeing on something rather than bikesh
 [^2]: here are [some tutorials](https://makefiletutorial.com/)
 [^3]: at the time of writing
 [^4]: welp, it displays that in color, though I don't feel like reporducing that on my blog
+
+TODO - https://news.ycombinator.com/item?id=30137254
+TODO - https://news.ycombinator.com/item?id=30671572
