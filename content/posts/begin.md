@@ -15,7 +15,7 @@ tags = []
 - my presentation slides
 - links, lots of links, I'll treat a part of this page as a giant [structured, I hope] bookmark
 - my values, tech stack, possibly my CV, job history and all the goodies you may find useful when hiring / working / cooperating with me in any meaningful way
-- thoughts on life, the universe and everything, until I move them to [allgreed.pirate](https://allgreed.pirate), arr!
+- thoughts on life, the universe and everything, until I move them somewhere else
 
 ## Ok, but why?
 I've always wanted a webpage, tried a couple times, but had no idea what to put there. And yet, I decided to give it another hit - I had a problem recently that I could duckduckgo an answer to, something terraform-related, and it was a wake-up call for me - I knew this is the right time to start.
