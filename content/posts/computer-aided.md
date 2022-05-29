@@ -17,20 +17,23 @@ A new, shiny [timcode](https://en.wikipedia.org/wiki/Timecode) piece. It's liter
 
 Anyhow, before a shoot I'd like to mount [Tentacle Sync E](https://tentaclesync.com/sync-e) on top of a camera. Yeah, this [shoe mount](https://en.wikipedia.org/wiki/Hot_shoe) thing looks great for that and it's readily avaible on many DSLRs! Surely there is a nice accessory that does just that, right? Erm... right?
 
-Well... [not this](https://shop.tentaclesync.com/product/sync-e-bracket-withcold-shoe-mount/)
+Well... certailny not [this one](https://shop.tentaclesync.com/product/sync-e-bracket-withcold-shoe-mount/). And that's one of the official "solutions". In fact that's the only official solution for mounting tentacle on a female shoe mount (I refuse to call it a cold shoe).
 
+And it's a bit overpriced and overengineered for my taste. See, how I've described it without saying it's flat-out retarded?
 
+Some rationalle to back up the above:
+- the inbuilt velcro works just fine for various scenarios (mounting on the botom of a Zoom H5 attached to my belt, directly camera in various configurations, etc.)
+- why so many moving pieces?
+- why use a tool for something that can be operated successfully by hand?
+- like seriously, what's wrong with velcro to justify a 2-piece modular system?
+- all of that adds to the price and can fail when you least expect it
 
-The only solution I've found is 
-
-TODO:
-- official accessory for X is overpricced
-- and overengineered
-- I can do better
+There was one thought going through my head:
+> I can do better
 
 ## Proof of Concept
 
-Ok, back to first principles. What I need is an adapter between a cold shoe and a velcro pad. At some point in life I was 2 years and a lot of self-respect away from graduating as an electrical engineer. I can certainly do this!
+Ok, back to first principles. What I need is an adapter between a female shoemount and a velcro pad. At some point in life I was 2 years and a lot of self-respect away from graduating as an electrical engineer. I can certainly do this!
 
 So, I've drawn something, and asked my friend, [Rasskabak](https://arasaka.pl/) to create a 3D model in Blender.
 
@@ -92,7 +95,7 @@ The first iteration used a self-measured dimensions, which kindof worked ok, but
 
 Also: Tentacle openly states the dimensions of the device on [their website](https://tentaclesync.com/sync-e) (You'll have to scroll to the bottom, unfortunately there is no css id I could anchor to :c)
 
-The design contains arbitrary margin anyhow, but at least they're with relation to the actual thing! At this point the only self-measured thing is the inbuilt velcro pad (for the dip, which has a margin anyhow). I've contated Tentale with the request to specify the exact dimensions, we'll see what happens.
+The design contains arbitrary margin anyhow, but at least they're with relation to the actual thing! At this point the only self-measured thing is the inbuilt velcro pad (for the dip, which has a margin anyhow). I've contated Tentacle with the request to specify the exact dimensions, we'll see what happens.
 
 ### Real deal
 TODO:
@@ -120,6 +123,13 @@ TODO:
 - overall production cost
 
 TOOD: upload to thingiverse (both 2nd gen and 3rd gen)
+
+TODO: other fun stuff
+https://www.thingiverse.com/thing:5258556
+https://www.thingiverse.com/thing:4666836
+
+TODO: spelling xD
+TODO: proofread
 
 ## Sauce
 
