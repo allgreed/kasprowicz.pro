@@ -28,8 +28,8 @@ Some rationalle to back up the above:
 - like seriously, what's wrong with velcro to justify a 2-piece modular system?
 - all of that adds to the price and can fail when you least expect it
 
-There was one thought going through my head:
-> I can do better
+There was one thought going through my head, the most important words a man can say:
+> I will do better
 
 ## Proof of Concept
 
@@ -48,8 +48,6 @@ He exported the STL and yet another friend printed a few instances for me.
 ![](/tentacle-1st-prototype.jpg)
 
 At this point I've notied that the cuboid to which the velcro is attached to (further reffered to as "table") is waaay too small. Also it was warped as fuck. But with a bit of sanding it fit comfortably (and by that I mean it could be reliably inserted and removed without tools, not that it was a nice process) on top of the camera and worked well through 5 shooting days.
-
-TODO: were there any problemso on 30.05?
 
 ![](/tentacle-1st-prototype-on-camera.jpg)
 ![](/tentacle-1st-prototype-on-camera-detail.jpg)
@@ -97,14 +95,18 @@ Also: Tentacle openly states the dimensions of the device on [their website](htt
 
 The design contains arbitrary margin anyhow, but at least they're with relation to the actual thing! At this point the only self-measured thing is the inbuilt velcro pad (for the dip, which has a margin anyhow). I've contated Tentacle with the request to specify the exact dimensions, we'll see what happens.
 
+### Slicing
+
+Now comes the "M" part of CAM! [Bartek's](https://banachewicz.pl/) help was instrumental in getting this one right. My first instinct was to turn the model upside down (so that there's more surface touching the bed). I was informed that it doesn't work that way and Bartek suggested rotating the model 90 degrees towards the narrower end (see picture) and adding supports. Otherwise I've used the predefined "0.1mm-fine" print profile.
+
+![](/img/computer-aided/gen2mk1-slicing-1.png)
+![](/img/computer-aided/gen2mk1-slicing-2.png)
+
 ### Real deal
-TODO:
+I've printed gen2mk1 on a work printer, here's how it looks on set:
 
-TODO:
-- [not yet] printed on work printer
-- [not yet] add photo of the prototype
-- [not yet] field report + photo
-
+- [not yet] photo from set
+- [not yet] field report - did it work?
 
 ### Iterations
 TODO:
