@@ -79,6 +79,8 @@ TODO - obrazek klapsa z zaznaczą sceną, ujęciem i podejściem
 
 Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy tak: "Scena [numer sceny], ujęcie [numer ujęcia], podejście [numer podejścia]". Niektórzy zamiast "podejście" mówią "dubel". Czy jedna sylaba mniej to właściwa cena za utratę poprawności językowej?
 
+Zazwyczaj ujęcie wyrażane jest numerem, np. 5, czytane jako "pięć". Natomiast dyrektora zdjęć może ponieść fantazja i zdarzają się potworki typu "11.2" albo "7+". Jak to czytać? Nie ma zasady, więc najlepiej najprościej - czyli "jedenaście kropka dwa", "siedem plus".
+
 Opisałęm tutaj system europejski, w amerykańskim jest nieco inaczej.
 
 Zlokalizuj wzrokiem mikrofon i mów do niego. Jak są 2 to wybierz sobie 1. Pierwszy dźwiękowiec asystujący może przesunąć mikrofon w Twoją stronę. Ale nie musi. Im bliżej masz mikrofon tym cieszej możesz mówić (coś tam kwadrat odległości), mów tak, jakby mikrofon był osobą, która ma Cię usłyszeć.
@@ -90,30 +92,58 @@ Jak kamera zmula ("muszę przyostrzyć!"), a dźwięk pisze to można przeczyta�
 
 Jak już musisz coś spartolić to lepiej spartolić to, niż czytanie sceny. I lepiej spartolić czytanie scney, niż ustawienie.
 
-TODO: zawsze otwarte, zamknięte pozostaje zamknięte, wyjaśnić czemu
-TODO: mark
-TODO: multicam
+Klaps zjawia się w kadrze w pozycji otwartej i pozostaje otwarty do momentu klapsnięcia. Po klapsnięciu pozostaje zamknięty aż nie zniknie z kadru. Czemu? Wzięło się to z tego jak synchronizacja była ręczna - montażysta (a konkretnie asystent) wybierał sobie moment i patrzył czy klaps jest zamknięty - jak był zamknięty to znaczy, że klapsnięcie nastąpiło wcześniej - jak otwarty to później. I skacząc jak żabka znajdował szybko właściwe miejsce w klipie video.
+
+Po przeczytaniu sceny, stoją z otwartym klapsem mówisz: "klaps", czekasz sekundę, robisz jebs, czekasz sekundę. Dlaczego? "Klaps" jest po to, żeby montażysta wiedział, że jebs które zaraz nastąpi jest faktycznie klapsem, a dyżurnym, który nie trafił w drzwi. Przerwy są po to, żeby wszystko się poprawnie zarejestrowało i nie zlało w jedno. Czasami klapserzy jeszcze dobrze nie klapsną, a już uciekają. Najpierw klaps, potem zwijak - nie jednocześnie.
 
 ### Jak zawijać?
 
 Szybko. I nie wywal się o kabel, ani statyw. Plan jest zastawiony sprzętem, który kosztuje więcej tysięcy niż masz palców. Ostrożnie!
 
+
 ### Wymysły
 
-- MOS
-- Soft sticks
+Powyższy scenariusz jest najczęstrzy, ale czasem będzie nieco inaczej, np:
+
+#### MOS
+
+TODO - slate z zaznaczonym MOSem
+
+Czyli bez synchronizacji z dźwiękiem (z samą nazwą związana jest ciekawy lore). Nie czytamy sceny, bo nie ma dla kogo. Nie klapiemy, bo nie ma po co. Zwijać można jak tylko dostaniemy werbalne potwierdzenie, że kamera pisze. Ale trzeba się pojawić przed kamerą!
+
+I ważna sprawa: klaps trzymamy za to dolne nieruchome drewienko do robienia jebs. Wtedy montażysta widzi na tej małej miniaturce łapę i wie, że na 100% nie ma co szukać odpowiadającyh plików dźwiękowych.
+
+#### Soft sticks
+
+Czasem klaps będzie bardzo blisko twarzy aktora. Centralnie przed. Zamiast napierdalać drewienkami jak Jagiełło Krzyżaków, bądź pan/pani człowiek i pomyśl o aktorze. Takie jebs dekoncentruje strasznie. Co robić? Powiedz "miękki klaps" [totalnie nie wiem jak lepiej przetłumaczyć "soft sticks"] i zamknij drewienka z takim delikatnym "plop".
+
+TODO:
+- Multicam i common sticks
 - Second sticks
-- Common sticks
 - Klaps końcowy
 
-TODO: Opisać
-TODO: spell check
-TODO: TODO
+## Podstawowe mazanie (podejścia)
 
-## Podstawowe mazanie
-
-### Takt
+TODO: nie ma czasu na przkeazanie clapper loaderowi
+TOOD: basic - czyli take'i
+TODO: SER
+TODO: zorientowanie w sytuacji
 
 ## Wypełnianie klapsa
 
+TODO: czasami clapper loader to Ty
+
+### Takt
+
+## Ustawianie klapsa
+
+TODO: data - to co siedzi długo, etc. protipy
+
 ## Po robocie
+
+TODO: wyczyść klapsa! jak jest dłuższa przerwa to też
+TODO: jeśli nie znasz angielskiego to wbijaj na kurs, najlepszy moment był 10 lat temu, drugi najlepszy jest dzisiaj
+
+TODO: spell check
+TODO: proof read
+TODO: TODO
