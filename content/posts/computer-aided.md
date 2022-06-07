@@ -66,8 +66,6 @@ Lessons learned:
 
 [OpenSCAD](https://openscad.org/) was suggested to me, and oh boy is it wonderfull! After initial confusion (yup, you need to thing in terms of basic shapes and geometric translations) I find it actually very intuitive and fun to work with!
 
-TODO: czy Bartek chce credits?
-
 ```js
 module cold_shoe_insert() {
     cube([18.6, 18, 2], center=true);
@@ -103,10 +101,12 @@ Now comes the "M" part of CAM! [Bartek's](https://banachewicz.pl/) help was inst
 ![](/img/computer-aided/gen2mk1-slicing-2.png)
 
 ### Real deal
-I've printed gen2mk1 on a work printer, here's how it looks on set:
+I've printed gen2mk1 on a work printer, here's how it looks off and on set:
 
-- [not yet] photo from set
-- [not yet] field report - did it work?
+![](/img/computer-aided/gen2mk1-upside.jpg)
+![](/img/computer-aided/gen2mk1-mission.jpg)
+
+It worked even better than gen1! Aside from holding the Tentacle just as fine as the previous generation the mounting experiance if by far improved. The holder fit's the shoe like a glove and it's pleaseant to work with.
 
 ### Iterations
 TODO:
