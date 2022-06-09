@@ -109,31 +109,27 @@ I've printed gen2mk1 on a work printer, here's how it looks off and on set:
 It worked even better than gen1! Aside from holding the Tentacle just as fine as the previous generation the mounting experiance if by far improved. The holder fit's the shoe like a glove and it's pleaseant to work with.
 
 ### Iterations
+
+At this point I've learned more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
+TODO: 
+- document paramter experiments for gen2mk2
+- field report and tests for gen2mk2
+- if it works as expected: stop there
+
+## Conclusions
+
 TODO:
-- parameter experiments [if any]
-
-## 3rd gen
-
-TODO:
-- locking screw
-
-- assembly instruction
-
-- photos + field report
-
 - R&D breakdown (so far: 2-4 hours and had tons of fun!, a bit of ABS, little more of PLA, neglegible amounts of velcro)
-- overall production cost
+- overall production cost (materials)
 
-TOOD: upload to thingiverse (both 2nd gen and 3rd gen)
-
-TODO: other fun stuff
-https://www.thingiverse.com/thing:5258556
-https://www.thingiverse.com/thing:4666836
-
+TODO: TODO
+TOOD: upload to thingiverse (2nd gen)
 TODO: spelling xD
 TODO: proofread
 
-## Sauce
+## Sauce and prior art
 
 - [Designs](https://github.com/allgreed/things)
 - [Local copy of ISO-518 preview](/ISO-518-2006.pdf)
+- [The other way around xD](https://www.thingiverse.com/thing:4666836)
+- [Almost! Too complex for my taste](https://www.thingiverse.com/thing:5258556)
