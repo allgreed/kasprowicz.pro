@@ -25,7 +25,7 @@ Some rationalle to back up the above:
 - the inbuilt velcro works just fine for various scenarios (mounting on the botom of a Zoom H5 attached to my belt, directly camera in various configurations, etc.)
 - why so many moving pieces?
 - why use a tool for something that can be operated successfully by hand?
-- like seriously, what's wrong with velcro to justify a 2-piece modular system?
+- like seriously, what's **so** wrong with velcro to justify a 2-piece modular system?
 - all of that adds to the price and can fail when you least expect it
 
 There was one thought going through my head, the most important words a man can say:
@@ -107,34 +107,63 @@ It worked even better than gen1! Aside from holding the Tentacle just as fine as
 
 ### Iterations
 
+#### Design
+TODO:
+- czy Tomek chce credits? xD
+
 I've learned some more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry (up to the level of `arctangent`) and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
 
 For mark 2 I've reduced the table margin to 3mm [-2] and increased the velcro dip to 1mm [+0.5]. This and the added chamfers allowed to reduce the priting time by over 35% (down to 1:10h) and get rid of the annoying supports on the back. I was affraid that without the supports the accessory would fall during printing, fortunately that wasn't the case.
 
 Turns out the velcro dip is still a litlle off, I've corrected it when designing mark 3. I've also neglected one of the paramterer experiments, so I've altered the table height to 2mm [-1].
 
+Finally, I've doubled the angle of the top edge chamfer, since it doesn't look unifrom with the slope of the left and right edges (I guess due to the manufacturing process) and crafted fancy corners that'd would support that.
+
+I needed a bit of prototyping on the side, as well as [yanking some excellent support functions](https://gusmith.wordpress.com/2015/09/18/simple-tool-for-creating-polyhedrons-in-openscad/).
+
+![](/img/computer-aided/designing-fancy-corener.png)
+
+But I think overall it was worth it!
+
+![](/img/computer-aided/fancy-corners-comparison.png)
+
 TODO: 
-- design and slice mark 3
 - print mark 3
-- document different angled chamfer at the top (so that it looks like 45deg, even though it's not)
-- docuemnt fancy conrners
-- document that the stock velcro fits now
-
-- czy Tomek chce credits? xD
-
-- test it in the field
+- document that the stock velcro fits now - at the end of "design" section
 - it's time to stop (though I had ideas like, making the chamfered corners nicer and using somthing called "adapter reporterski" [a cold shoe adapter, if that term wasn't overloaded enough] for even better fit), there are no annoying problems left with the current design - if it ain't borked - don't fix it!
+
+#### Manufacturing
+
+TODO:
+- mess a bit with the manufacturing! (see notes in the source)
+- test it in the field
 
 ## Conclusions
 
+The R&D expenses so far where:
+- ~10 hours of my time, which is by far the biggest expense, but it was offsetted by the fact that I just loved it every step along the way (and that'd be much less if I knew how to design and 3d print in the first place)!
+- less than 10g of ABS
+- about (8 * $prototype_count)g of PLA
+- neglegible amounts of velcro
+
+by the way each and every prototype needed for design (marks 1-3) is fully functional to this day.
 TODO:
-- R&D breakdown (so far: 2-4 hours and had tons of fun!, a bit of ABS, little more of PLA, neglegible amounts of velcro)
-- overall production cost (materials)
+- is that still true? Still 3 prototypes?
+- comment on manufacturing prototypes
+
+- manufacturing tips: turn model 90 deg over red [TODO: check] axis [so that the surface is visible easily], select stock 0.1mm (fine) profile and enable supports (tested with Cura Ultimaker 2+)
+TOOD: is there a better way of documenting this?
+
+TOOD: comment about how I did better
+TODO: GTa mission acomplished!
 
 TODO: TODO
-TOOD: upload to thingiverse (2nd gen)
+TODO: change repo name, update source link
+TODO: link repo here, add rudamentary README, and like... Makefile maybe?
+TOOD: upload to thingiverse
 TODO: spelling xD
 TODO: proofread
+TODO: publish
 
 ## Sauce and prior art
 
