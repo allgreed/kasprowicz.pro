@@ -80,10 +80,7 @@ The code above corresponds to the blue cold shoe insert visible below
 
 ![](/tentacle-2nd-design.jpg)
 
-TODO:
-- I've learened the scad language better and parametrized the shit out of the code
-- Added a velcro pad dip and rounded corners
-- Realized that if the table would be too long the locking connector couldn't fit in place... fortunately before printing the 2gen mark 1
+Turns out that the OpenSCAD's vernacualr is particullary usefull once you take the time to actually learn it. I've parametrized everything that could be sensibly parametrized. My curiosity only grew and I've learned about `minkowski` sum, which yielded nice, rounded corners. I've also realized that including the dip for velcro would be a nice idea as well as that if the table would be too long the locking connector couldn't fit in place. Fortunately it all happened before printing the first prototype of gen2.
 
 ### Precision
 
@@ -110,11 +107,23 @@ It worked even better than gen1! Aside from holding the Tentacle just as fine as
 
 ### Iterations
 
-At this point I've learned more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
+I've learned some more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry (up to the level of `arctangent`) and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
+
+For mark 2 I've reduced the table margin to 3mm [-2] and increased the velcro dip to 1mm [+0.5]. This and the added chamfers allowed to reduce the priting time by over 35% (down to 1:10h) and get rid of the annoying supports on the back. I was affraid that without the supports the accessory would fall during printing, fortunately that wasn't the case.
+
+Turns out the velcro dip is still a litlle off, I've corrected it when designing mark 3. I've also neglected one of the paramterer experiments, so I've altered the table height to 2mm [-1].
+
 TODO: 
-- document paramter experiments for gen2mk2
-- field report and tests for gen2mk2
-- if it works as expected: stop there
+- design and slice mark 3
+- print mark 3
+- document different angled chamfer at the top (so that it looks like 45deg, even though it's not)
+- docuemnt fancy conrners
+- document that the stock velcro fits now
+
+- czy Tomek chce credits? xD
+
+- test it in the field
+- it's time to stop (though I had ideas like, making the chamfered corners nicer and using somthing called "adapter reporterski" [a cold shoe adapter, if that term wasn't overloaded enough] for even better fit), there are no annoying problems left with the current design - if it ain't borked - don't fix it!
 
 ## Conclusions
 
