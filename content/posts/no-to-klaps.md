@@ -35,6 +35,10 @@ Cele te osiągane są w następujący sposób:
 
 ## Dobra, jak klapsować?
 
+### Kodeks piratów
+
+Po pierwsze jest tylko wskazówką, po drugie dotyczy tylko piratów. Wszystko co jest tutaj opisane jest amalgamatem tego co się naczytałem i naolgądałem oraz moich refleksji nad procesem. Na każdym planie jest nieco inaczej, natomiast jak jesteś niczym zagubione dziecko we megle to będzie to dobry start!
+ 
 ### Pilnuj klapsa!
 W którymś punkcie dostaniesz do ręki wypełnionego klapsa, **pilnuj go**, to Twoje narzędzie pracy.
 
@@ -196,28 +200,49 @@ TODO - przykład zdjęciowy przed i po - jak by to mogło wyglądać
 
 Kiedyś to był fizyczny kawałk światłoczułej folii, teraz używamy kart pamięci albo dysków. Ale luj, numerujemy je tak samo.
 
-TODO: rozpisać się!
+O rolkę z obrazem pytamy w kolejnośći: drugiego asystenta kamery, pierwszego asystenta kamerya, operatora, dyrektora zdjęć. Powinne być w formacie [literka][cyfry], np. "A05", "B01". Jak jest klaps per kamera to na każdym klaspie piszemy rolkę odpowiadającą kamerze. Jak jak jeden klaps to jedna rolka pod drugą.
+
+O rolkę dźwiękową pytamy głównego dźwiękowca, czyli pewnie mnie. Zazwyczaj będzie jedna, ale może być więcej (bo np. jest karta zapasowa, używane jest kilka nagrywarek). Na małych produkcjach warto walnąć rolkę dźwiękową pod rolkami z obrazem na jedynym klapsie. Mniej szukania potem w montażu.
+
+Jak nastąpi zmiania <s>rolki</s> karty w jakimkolwiek urządzeniu, które było wspomniane na klapsie to należy uaktualnić również klapsa.
 
 ### Nazwy i nazwiska
 
-TODO:
+Te rzeczy będą na klapsie w miarę na długo (chociaż od wszystkiego są wyjątki), więc taśma to dobry pomysł.
+
+Nazwa produkcji - ez, to jest nazwa filmu, który jest kręcony właśnie 
+Reżyser - imię i nazwisko reżysera, lepiej nie przekręcić, warto zapytać jak chce być zapisany/zapisana. Niektórzy preferują np. "Zuza", zamiast "Zuzanna" i miło to uszanować. Niektórych wymawia się "Jacek Kowalski", a pisze "Alan Smithee"
+DOP - czasami oznaczone jako "camera" - jak wyżej, tylko, że dyrektor zdjęć
+
+I to jest zgodnie z tradycją. Zapytałem [na Quorze](https://www.quora.com/Is-there-a-practical-reason-for-writing-directors-and-DOPs-names-on-the-clapperboard-slate) czemu to służy. W skrócie:
+- nie zawsze jest oczywiste kto reżyserował i kamerował daną scenę, zwłaszcza po czasie (byłem w projekcie gdzie DOPowały co najmniej 4 osoby)
+- większe produkcje mają więcej niż 1 unit, co dodatkowo komplikuje punkt powyższy
+- jest to zwyczajnie szybsze, niż odnalezienie odpowiedniej osoby przez łańcuszek zależności (np. po dacie i produkcji przez call sheet)
+- jest to dodatkowy backup na wypadek jakby ktoś pomieszał pliki [nie do końca to kupuję]
+- można dopisać "UP" przy nazwisku - jest to dupokryjka, że scena została nakręcona wbrew osobie, przy której stoi "UP"
+
+Są też slate'y, które nie mają tych pól (przykład w wątku na Quorze), więc jak widać jest to dosyć arbitralne. Myślę, że na indie produkcjach można zapisać też zastępstwa za dźwiękowca, zwłaszcza jak jest wolne miejsce i nie ma skrypta.
+
+Ogólnie nie przejmuj się tym jakoś strasznie bardzo.
 
 ### Common sticks
 
-TODO:
+Nie zaszkodzi sprawdzić czy klaps jest oznaczony jako "common sticks", jeżeli jest jedynym klapsem na planie.
 
 ## Po robocie
 
-TODO: wyczyść klapsa! jak jest dłuższa przerwa to też
-TODO: oddaj go do rąk własnych
-TODO: jeśli nie znasz angielskiego to wbijaj na kurs, najlepszy moment był 10 lat temu, drugi najlepszy jest dzisiaj
+Wyczyść klapsa do białości przy pomocy ścierki. Taśmy mogą zostać. Jak są warunki i potrzeba to można też przetrzeć płynem do czysczenia albo wodą z mydłem. Właściciel klapsa na pewno doceni. Warto też to robić podczas dłuższych przerw, takich jak company move albo obiad. Służy to temu, że akryl z którego wykonany jest klaps uszkadza się, jeśli pozostawimi na nim mazak zbyt długo.
+
+Następnie oddaj **do rąk własnych** klapsa właścicielowi klapsa. Nikomu innemu, nie kładź go nigdzie. Do rąk własnych.
+
+Jak już oddasz klapsa i nie znasz angielskiego to zapisz się na kurs - bez tego będzie Ci trudno rozwijać swoją karierę w filmie. Najlepszy moment był 10 lat temu, drugi najlepszy jest teraz.
 
 ## Co można skasztanić (na podstawie własnych obserwacji)?
 
 Tak, da się, przykłady:
 - podczas czytania pomijanie sceny - do identyfikacji klipu scena się przydaje, a na pewno nie zaszkodzi, czytamy: "**scena X**, ujęcie Y, dubel Z", nigdy "ujęcie Y, dubel Z"
 - niesmiałe klapsanie - warto walnąć, zwłaszcza jeśli dźwiękowiec umie into poziomy
-- oznaczanie sceny, ujęcia i podejścia na klapsie literkami ("s", "u", "p") czy nie daj bożu jeszcze inaczej - wygląda max wieśniacko, nie rób tego. Pamięc robocza ma 7 elementów, jesteś w stanie zapamiętać "scena, ujęcie, podejście".
+- oznaczanie sceny, ujęcia i podejścia na klapsie literkami ("s", "u", "p") czy nie daj bożu jeszcze inaczej - wygląda max wieśniacko, nie rób tego. Pamięc robocza ma 7 elementów, jesteś w stanie zapamiętać "scena, ujęcie, podejście". Jak nie jesteś to może odpuść sobie ten film i zapisz się na dżudo. Jakieś *łatwe* dżudo.
 - inicjatywa własna pt. pryskanie klapsa perfumem w celu wyczyszcenia go. Instynk dobry, ale kierunek przeciwny. Alkohol etylowy i inne rzeczy w perfumie uszkadzją akryl i mogą doprawadzić do starcia napisów nadrukowanych na klaps. I ani trochę nie pomagają w czyszczeniu śladów po markerze suchościeralnym!
 
 TODO: TODO
