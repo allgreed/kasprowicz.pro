@@ -257,8 +257,6 @@ Tego używam i to mi się najlepiej sprawdza na czas publikacji:
 - Marker do tablic PENTEL MAXIFLO M czarny (do zmiennych informacji)
 - Klaps filmowy biały akrylowy na mazaki 24,5x30 (tylko: teraz chodzą po 170 CBL, zobacz na Ali, jest taniej, nie daj polaczkowi zarobić na sobie)
 
-TODO: spell check + proof własny
-TODO: publish
 TODO: proof read - Piotr B
 TODO: publish with edits
 TODO: proof read - Emilia
