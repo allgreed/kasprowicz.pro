@@ -128,15 +128,24 @@ But I think overall it was worth it!
 ![](/img/computer-aided/fancy-corners-comparison.png)
 
 TODO: 
-- print mark 3
+- print mark 5
 - document that the stock velcro fits now - at the end of "design" section
 - it's time to stop (though I had ideas like, making the chamfered corners nicer and using somthing called "adapter reporterski" [a cold shoe adapter, if that term wasn't overloaded enough] for even better fit), there are no annoying problems left with the current design - if it ain't borked - don't fix it!
 
 #### Manufacturing
 
+Yup, I know. The timeline drifted a bit. I wanted to include manufacturing and desing experiments in one mark. That obviously backfired and messed up my counting.
+
+The thinner table (and threfore less layer 1 surface) caused a print to shift during the process (I've added a straight red line to ilustrate the drift), therefore warping everything to a molten synthetic hell.
+
+![](/img/computer-aided/mk3.jpg)
+
+For mk4 I've reverted to the original table thickness, however tried the fast printing settings and the print failed as well. 
+
+![](/img/computer-aided/mk4.jpg)
+
 TODO:
 - mess a bit with the manufacturing! (see notes in the source)
-- test it in the field
 
 ## Conclusions
 
@@ -151,8 +160,7 @@ TODO:
 - is that still true? Still 3 prototypes?
 - comment on manufacturing prototypes
 
-- manufacturing tips: turn model 90 deg over red [TODO: check] axis [so that the surface is visible easily], select stock 0.1mm (fine) profile and enable supports (tested with Cura Ultimaker 2+)
-TOOD: is there a better way of documenting this?
+- manufacturing tips (Cura Ultimaker 2+): import .stl, select stock 0.15mm (normal) profile, disable adhesion, slice
 
 TOOD: comment about how I did better
 TODO: GTa mission acomplished!
@@ -163,6 +171,7 @@ TODO: link repo here, add rudamentary README, and like... Makefile maybe?
 TOOD: upload to thingiverse
 TODO: spelling xD
 TODO: proofread
+TODO: link do sprzedaży Rasskabakowi
 TODO: publish
 
 ## Sauce and prior art
