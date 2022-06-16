@@ -8,7 +8,7 @@ draft = false
 > This one will be in Polish. If you'd like to learn how to slate **and** you're capable of supreme language comprehension there are already tons of [interesting](https://www.studiobinder.com/blog/how-to-use-a-film-slate/) [how-to-slate](https://www.youtube.com/watch?v=bd7BPX8oEeE) [resources](https://www.youtube.com/watch?v=UVB_jQ1rsBU).
 
 
-![](/img/no-to-klaps/slate-hero.png)
+![](/img/no-to-klaps/slate-hero.jpg)
 
 Tak, to na obrazku to klaps. *Slate* /sleɪt/. Zaś kadr pochodzi z *Wody Życia (2023)*. Jak zwał tak zwał. Najważniejsze jest to, że jeśli to czytasz - to zostałeś/aś klapserem przy mikrobudżetowej produkcji filmowej z powodu bycia moim/moją znajomą. I nie masz bladego pojęcia, co tak właściwie masz robić...
 
@@ -87,7 +87,7 @@ Jak totalnie nie wiesz, to możesz się zapytać (info o tym, jak się pytać je
 
 ![](/img/no-to-klaps/scene.jpg)
 
-Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy tak: "Scena [numer sceny], ujęcie [numer ujęcia], podejście [numer podejścia]". Niektórzy zamiast "podejście" mówią "dubel". Czy jedna sylaba mniej to właściwa cena za utratę poprawności językowej?
+Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy tak: "Scena [numer sceny], ujęcie [numer ujęcia], podejście [numer podejścia]". Niektórzy zamiast "podejście" mówią "dubel". Czy jedna sylaba mniej to właściwa cena za utratę poprawności językowej? Przykład ze zdjęcia: /Scena czterdziesta szóśta, ujęcie drugie, podejście drugie/
 
 Zazwyczaj ujęcie wyrażane jest numerem, np. 5, czytane jako "pięć". Natomiast dyrektora zdjęć może ponieść fantazja i zdarzają się potworki typu "11.2" albo "7+". Jak to czytać? Nie ma zasady, więc najlepiej najprościej — czyli "jedenaście kropka dwa", "siedem plus".
 
@@ -148,7 +148,7 @@ Dobra, teraz się skup, bo to jest najtrudniejszy scenariusz. Czasami nie jest 
 
 Otóż na samym początku należy przed kamerą pokazać klaps, ale do góry nogami. Może być rozmazany, bajo bongo. To jest sygnał dla montażysty, żeby szukał klapsa na końcu klipu. Przeczytać scenę i się zawinąć. Jak się nie da pokazać klapsa przed kamerą to olej ten krok, po prostu przeczytaj scenę.
 
-Teraz jest gra w przyczajkę. Jak tylko ktoś powie "cięcie" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Pojawiasz się w kadrze z klapsem do góry nogami. Jak kadr się ustabilizuje, to obracasz klapsa (drewienka cały czas otwarte), po czym robisz jebs. Gotowe!
+Teraz jest gra w przyczajkę. Jak tylko ktoś powie "cięcie" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Pojawiasz się w kadrze z klapsem do góry nogami. Jak kadr się ustabilizuje, to obracasz klapsa (drewienka cały czas otwarte), po czym klapsujesz - procedurą standardową. Gotowe!
 
 ## Podstawowe mazanie (podejścia,)
 
@@ -181,7 +181,7 @@ Jak je oznaczać? Prosta sprawa:
 - Day / Night [czasem "Nite"] - oznacza **fabularną** porę dnia w filmie, zazwyczaj oczywiste, a w razie dysput jest napisane w scenariuszu. Jak jest coś w stylu WSCHÓD SŁOŃCA, to walnij taśmę między jedno, a drugie. YOLO
 - Int / Ext - skrót od "interior" / "exterior" - oznacza **lokację kamery** w danym ujęciu. Jeżeli kamera przemieszcza się między wnętrzem, a zewnętrzem to zrób jak wyżej. Zasada kciuka: jak jesteś wystawiony/wystawiona na działanie żywiołów lub bezpośrednio widzisz niebo (w sensie jakbyś był/a na miejscu kamery) to prawdopodobnie jest to zewnętrze, w przeciwnym wypadku wnętrze.
 - MOS / Sync - czy nagrywany jest dźwięk, który wymaga potem synchronizacji. Zasada kciuka: jak dźwiękowiec próbuje wyrwać Twoją koleżankę zamiast stać z kijem w gotowości, to prawdopdoobnie jest to MOS.
-- Filter - filtr używany przez kamerę. Jak żadnej nie jest używany to pusto.
+- Filter - filtr używany przez kamerę. Jak żaden nie jest używany to pusto.
 
 Najważniejsze jest dobre oznaczenie MOS / Sync, w razie wątpliwości koniecznie dopytaj, bo inaczej montażysta będzie szukał plików, których nigdy nie było!
 
@@ -211,9 +211,9 @@ Jak nastąpi zmiana <s>rolki</s> karty w jakimkolwiek urządzeniu, które było 
 
 Te rzeczy będą na klapsie w miarę na długo (chociaż od wszystkiego są wyjątki), więc taśma to dobry pomysł.
 
-Nazwa produkcji - ez, to jest nazwa filmu, który jest kręcony właśnie 
-Reżyser - imię i nazwisko reżysera, lepiej nie przekręcić, warto zapytać, jak chce być zapisany/zapisana. Niektórzy preferują np. "Zuza", zamiast "Zuzanna" i miło to uszanować. Niektórych wymawia się "Jacek Kowalski", a pisze "Alan Smithee"
-DOP - czasami oznaczone jako "camera" - jak wyżej, tylko że dyrektor zdjęć
+- Nazwa produkcji - ez, to jest nazwa filmu, który jest kręcony właśnie 
+- Reżyser - imię i nazwisko reżysera, lepiej nie przekręcić, warto zapytać, jak chce być zapisany/zapisana. Niektórzy preferują np. "Zuza", zamiast "Zuzanna" i miło to uszanować. Niektórych wymawia się "Jacek Kowalski", a pisze "Alan Smithee"
+- DOP - czasami oznaczone jako "camera" - jak wyżej, tylko że dyrektor zdjęć
 
 I to jest zgodnie z tradycją. Zapytałem [na Quorze](https://www.quora.com/Is-there-a-practical-reason-for-writing-directors-and-DOPs-names-on-the-clapperboard-slate) czemu to służy. W skrócie:
 - nie zawsze jest oczywiste, kto reżyserował i kamerował daną scenę, zwłaszcza po czasie (byłem w projekcie gdzie DOPowały co najmniej 4 osoby)
@@ -238,7 +238,7 @@ Następnie oddaj **do rąk własnych** klapsa właścicielowi klapsa. Nikomu inn
 
 Jak już oddasz klapsa i nie znasz angielskiego, to zapisz się na kurs - bez tego będzie Ci trudno rozwijać swoją karierę w filmie. Najlepszy moment był 10 lat temu, drugi najlepszy jest teraz.
 
-Klaps można czyścić dodatkowo specjalnym płynem do czyszczenia albo modą z mydłem, nigdy etanolem czy innym specyfikiem.
+Klaps można czyścić dodatkowo specjalnym płynem do czyszczenia albo wodą z mydłem, nigdy etanolem czy innym specyfikiem.
 
 ## Co można skasztanić (na podstawie własnych obserwacji)?
 
