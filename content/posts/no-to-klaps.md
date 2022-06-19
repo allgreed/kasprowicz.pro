@@ -154,7 +154,7 @@ Teraz jest gra w przyczajkę. Jak tylko ktoś powie "cięcie" to Ty krzyczysz: 
 
 Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie rosną na drzewach! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie.
 
-Podejścia numerujemy od 1, co 1. Czyli 1, 2, 3... i tak dalej. Podejście kończy się w momencie, kiedy usłyszysz "cięcie". W takiej chwili trzeba na szybkości zapamiętać numer podejścia, zmazać go, dodać 1, napisać nowy numer i zasuwać na swoje miejsce.
+Podejścia numerujemy od 1, co 1. Czyli 1, 2, 3... i tak dalej. Podejście zaczyna się kiedy dźwięk zacznie pisać i kończy się w momencie, kiedy usłyszysz "cięcie". W takiej chwili trzeba na szybkości zapamiętać numer podejścia, zmazać go, dodać 1, napisać nowy numer i zasuwać na swoje miejsce.
 
 ## Wypełnianie klapsa
 
