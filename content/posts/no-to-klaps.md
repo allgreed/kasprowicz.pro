@@ -37,7 +37,7 @@ Cele te osiągane są w następujący sposób:
 
 ### Kodeks piratów
 
-Po pierwsze jest tylko wskazówką, po drugie dotyczy tylko piratów. Wszystko, co jest tutaj opisane, jest amalgamatem tego co się naczytałem i naolgądałem oraz moich refleksji nad procesem. Na każdym planie jest nieco inaczej, natomiast jeżeli czujesz się niczym zagubione ślepe dziecko we megle -  to będzie dobry start!
+Po pierwsze jest tylko wskazówką, po drugie dotyczy tylko piratów. Wszystko, co jest tutaj opisane, jest amalgamatem tego co się naczytałem i naolgądałem oraz moich refleksji nad procesem. Na każdym planie jest nieco inaczej, natomiast jeżeli czujesz się niczym zagubione ślepe dziecko we mgle -  to będzie dobry start!
  
 ### Pilnuj klapsa!
 W którymś punkcie dostaniesz do ręki wypełnionego klapsa, **pilnuj go**, to Twoje narzędzie pracy.
