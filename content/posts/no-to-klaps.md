@@ -104,7 +104,7 @@ Jak już musisz coś spartolić to lepiej spartolić to niż czytanie sceny. I 
 
 Klaps zjawia się w kadrze w pozycji otwartej i pozostaje otwarty do momentu klapsnięcia. Po klapsnięciu pozostaje zamknięty, aż nie zniknie z kadru. Czemu? Wzięło się to z tego, że kiedy synchronizacja była ręczna - montażysta (a konkretnie asystent) wybierał sobie moment i patrzył czy klaps jest zamknięty - jak był zamknięty to znaczy, że klapsnięcie nastąpiło wcześniej - jak otwarty to później. I skacząc niczym żabka znajdował szybko właściwe miejsce w klipie video.
 
-Po przeczytaniu sceny, stoją z otwartym klapsem, mówisz: "klaps", czekasz sekundę, robisz jebs (śmiało!), czekasz sekundę. Dlaczego? "Klaps" jest po to, żeby montażysta wiedział, że jebs, które zaraz nastąpi jest faktycznie klapsem, a nie dyżurnym, który pomylił gwiazdy odbite na powierzchni stawu z dzrzwiami. Przerwy są po to, żeby wszystko się poprawnie zarejestrowało i nie zlało w jedno. Czasami klapserzy jeszcze dobrze nie klapsną, a już uciekają. Najpierw klaps, potem zwijka - nie jednocześnie.
+Po przeczytaniu sceny, stoją z otwartym klapsem, mówisz: "klaps", czekasz sekundę, robisz jebs (śmiało!), czekasz sekundę. Dlaczego? "Klaps" jest po to, żeby montażysta wiedział, że jebs, które zaraz nastąpi jest faktycznie klapsem, a nie dyżurnym, który pomylił gwiazdy odbite na powierzchni stawu z drzwiami. Przerwy są po to, żeby wszystko się poprawnie zarejestrowało i nie zlało w jedno. Czasami klapserzy jeszcze dobrze nie klapsną, a już uciekają. Najpierw klaps, potem zwijka - nie jednocześnie.
 
 ### Jak zawijać?
 
