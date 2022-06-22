@@ -127,10 +127,11 @@ But I think overall it was worth it!
 
 ![](/img/computer-aided/fancy-corners-comparison.png)
 
-TODO: 
-- print mark 5
-- document that the stock velcro fits now - at the end of "design" section
-- it's time to stop (though I had ideas like, making the chamfered corners nicer and using somthing called "adapter reporterski" [a cold shoe adapter, if that term wasn't overloaded enough] for even better fit), there are no annoying problems left with the current design - if it ain't borked - don't fix it!
+After printing mark 6 I've solved the most pressing issue, namely the pad not maching the stock velcro that comes with the Tentacles. I've also verified that my ideas about corners and increased slope were splendid.
+
+I gotta stop somewhere. Though I had ideas like using somthing called "adapter reporterski" [a cold shoe adapter, if that term wasn't overloaded enough] for even better fit. There are no annoying and pressing problems left with the current design. I'll leave you something to imagine.
+
+One last thing (which isn't strictly design-related) was that I've rotated the model, so that the exported STL is slice-ready.
 
 #### Manufacturing
 
@@ -144,35 +145,48 @@ For mk4 I've reverted to the original table thickness, however tried the fast pr
 
 ![](/img/computer-aided/mk4.jpg)
 
-TODO:
-- mess a bit with the manufacturing! (see notes in the source)
+As you can see there wasn't any noticible difference in quality between normal (0.15mm) and fine (0.1mm [layer height]) and the former print in 0:34h, so ~50% less then previously and overall 1/3 of the initial printing time. However brim adhesion was neccessary, no idea why it worked before so well (it's all about the surface touching the build plate, but I don't think that has changed much between mk5 and earlier designs...).
+
+![](/img/computer-aided/fine-vs-normal.jpg)
+
+For mk7 I've tried printing without supports, but that's not really helping. Everything warps and though still usable it's actually more of a problem to print and sand correctly - missing the entire point of the experiment. I wanted to remove the supports so that the holder can be made without any tools beside 3d printer. That has failed, so I'm settling on the manufacturing process the led me to mk6.
+
+![](/img/computer-aided/mk6-vs-mk7.jpg)
+
+The final manufacturing settings used for the following "mass" production were:
+- normal profile
+- 20% infill
+- supports enabled with angle set to 46°
+- z-hop when retracting
+
+![](/img/computer-aided/mass.jpg)
 
 ## Conclusions
 
 The R&D expenses so far where:
-- ~10 hours of my time, which is by far the biggest expense, but it was offsetted by the fact that I just loved it every step along the way (and that'd be much less if I knew how to design and 3d print in the first place)!
-- less than 10g of ABS
-- about (8 * $prototype_count)g of PLA
+- ~10-20 hours of my time, which is by far the biggest expense, but it was offsetted by the fact that I just loved it every step along the way (and that'd be much less if I knew how to design and 3d print in the first place)! Let the rought estimate be a proof of that.
+- less than 10g of ABS filament
+- less than 48g of PLA filament
 - neglegible amounts of velcro
 
-by the way each and every prototype needed for design (marks 1-3) is fully functional to this day.
-TODO:
-- is that still true? Still 3 prototypes?
-- comment on manufacturing prototypes
+and I've managed to produce 4 working prototypes (out of 7 prints). The resulting produc prints in less than about half an hour and costs less than 10 cents in raw material. I my book that's a whooping success!
 
-- manufacturing tips (Cura Ultimaker 2+): import .stl, select stock 0.15mm (normal) profile, disable adhesion, slice
+![](/img/computer-aided/aczomplit.png)
 
-TOOD: comment about how I did better
-TODO: GTa mission acomplished!
+Btw. if you happen to be in Poland and lack a 3d printer you can buy the holder here! At a far more reasonable price.
 
-TODO: TODO
 TODO: change repo name, update source link
-TODO: link repo here, add rudamentary README, and like... Makefile maybe?
+TODO: add rudamentary README to repo, and like... Makefile maybe? / nix
 TOOD: upload to thingiverse
-TODO: spelling xD
-TODO: proofread
+
+TODO: Tomek
 TODO: link do sprzedaży Rasskabakowi
+
 TODO: publish
+TODO: spelling xD
+TODO: fix issues + publish
+TODO: proofread
+TODO: fix issues + publish
 
 ## Sauce and prior art
 
