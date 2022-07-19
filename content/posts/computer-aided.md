@@ -2,7 +2,7 @@
 title = "Computer Aided"
 date = 2022-05-28T02:35:41+02:00
 description = ""
-draft = true
+draft = false
 +++
 
 > All right, I've been thinking, when life gives you lemons, don't make lemonade! Make life take the lemons back! I don't want your damn lemons! What am I supposed to do with these?
@@ -108,10 +108,8 @@ It worked even better than gen1! Aside from holding the Tentacle just as fine as
 ### Iterations
 
 #### Design
-TODO:
-- czy Tomek chce credits? xD
 
-I've learned some more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry (up to the level of `arctangent`) and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
+I've learned some more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry (up to the level of `arctangent`) with [Tomek's](https://github.com/dysio) help and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
 
 For mark 2 I've reduced the table margin to 3mm [-2] and increased the velcro dip to 1mm [+0.5]. This and the added chamfers allowed to reduce the priting time by over 35% (down to 1:10h) and get rid of the annoying supports on the back. I was affraid that without the supports the accessory would fall during printing, fortunately that wasn't the case.
 
@@ -169,20 +167,13 @@ The R&D expenses so far where:
 - less than 48g of PLA filament
 - neglegible amounts of velcro
 
-and I've managed to produce 4 working prototypes (out of 7 prints). The resulting produc prints in less than about half an hour and costs less than 10 cents in raw material. I my book that's a whooping success!
+and I've managed to produce 6 perfectly usable prototypes (out of 10 prints). The resulting product prints in less than about half an hour and costs less than 10 cents in raw material. In my book that's a whooping success!
 
 ![](/img/computer-aided/aczomplit.png)
 
-Btw. if you happen to be in Poland and lack a 3d printer you can buy the holder here! At a far more reasonable price.
+Btw. if you happen to be in Poland and lack a 3d printer you can buy the holder [here!](https://allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-12364365621) At a far more reasonable price.
+[![](/img/computer-aided/buy.png)](https://allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-12364365621)
 
-TODO: change repo name, update source link
-TODO: add rudamentary README to repo, and like... Makefile maybe? / nix
-TOOD: upload to thingiverse
-
-TODO: Tomek
-TODO: link do sprzedaży Rasskabakowi
-
-TODO: publish
 TODO: spelling xD
 TODO: fix issues + publish
 TODO: proofread
@@ -191,6 +182,7 @@ TODO: fix issues + publish
 ## Sauce and prior art
 
 - [Designs](https://github.com/allgreed/things)
+TODO: upload to thingiverse (+ zdjęcia z alledrogo)
 - [Local copy of ISO-518 preview](/ISO-518-2006.pdf)
 - [The other way around xD](https://www.thingiverse.com/thing:4666836)
 - [Almost! Too complex for my taste](https://www.thingiverse.com/thing:5258556)

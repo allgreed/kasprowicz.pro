@@ -152,7 +152,7 @@ Teraz jest gra w przyczajkę. Jak tylko ktoś powie "cięcie" to Ty krzyczysz: 
 
 ## Podstawowe mazanie (podejścia,)
 
-Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie rosną na drzewach! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie.
+Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie spadają z nieba! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie.
 
 Podejścia numerujemy od 1, co 1. Czyli 1, 2, 3... i tak dalej. Podejście zaczyna się kiedy dźwięk zacznie pisać i kończy się w momencie, kiedy usłyszysz "cięcie". W takiej chwili trzeba na szybkości zapamiętać numer podejścia, zmazać go, dodać 1, napisać nowy numer i zasuwać na swoje miejsce.
 
@@ -256,8 +256,3 @@ Tego używam i to mi się najlepiej sprawdza na czas publikacji:
 - Marker z farbą UNI POSCA PC-5M czarny (do stałych informacji, pisania po taśmach - tylko daj mu przeschnąć minutę)
 - Marker do tablic PENTEL MAXIFLO M czarny (do zmiennych informacji)
 - Klaps filmowy biały akrylowy na mazaki 24,5x30 (tylko: teraz chodzą po 170 CBL, zobacz na Ali, jest taniej, nie daj polaczkowi zarobić na sobie)
-
-TODO: proof read - Piotr B
-TODO: publish with edits
-TODO: proof read - Emilia
-TODO: publish with edits
