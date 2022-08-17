@@ -55,7 +55,7 @@ Niestety nie możemy mówić o klapsowaniu, dopóki nie omówimy *roll calla* /r
 - **pozor!** w tym momencie Ty, klapser z nadania, masz już być na miejscu, inaczej kierownik powie "klaps". Ale wtedy przegrałeś/aś. Ty masz już tam być!
 - Kierownik mówi: "Kamera?"
 - Operatorzy kamer odpowiadają po kolei: "Pisze"
-- **tak teraz Ty!** czytasz scenę! Jak będziesz zmulać, to kierownik powie: "scena". Minus 5 punktów dla Gryfindoru wtedy :c
+- **tak teraz Ty!** czytasz scenę! Jak będziesz zmulać, to kierownik powie: "scena" albo "klaps". Minus 5 punktów dla Gryfindoru wtedy :c
 - klapsujesz
 - zawijasz
 - staraj się być cicho i poza kadrem, dopóki nie usłyszysz "cięcie!"
@@ -87,7 +87,11 @@ Jak totalnie nie wiesz, to możesz się zapytać (info o tym, jak się pytać je
 
 ![](/img/no-to-klaps/scene.jpg)
 
-Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy tak: "Scena [numer sceny], ujęcie [numer ujęcia], podejście [numer podejścia]". Niektórzy zamiast "podejście" mówią "dubel". Czy jedna sylaba mniej to właściwa cena za utratę poprawności językowej? Przykład ze zdjęcia: /Scena czterdziesta szóśta, ujęcie drugie, podejście drugie/
+Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy tak: <s>"Scena [numer sceny], ujęcie [numer ujęcia], podejście [numer podejścia]". Niektórzy zamiast "podejście" mówią "dubel". Czy jedna sylaba mniej to właściwa cena za utratę poprawności językowej? Przykład ze zdjęcia: /Scena czterdziesta szóśta, ujęcie drugie, podejście drugie/</s> 
+
+**Lepszy sposób:** "[numer sceny], [numer ujęcia], [numer podejścia]", czyli np.: /Czterdzieści siedem, dwa, dwa/
+
+> W tym punkcie pragnę podziękować *Kamilowi M. Brylowi* z [Wild Wave](https://wildwave.media/) za nauczenie mnie czegoś o klapsowaniu, kiedy myślałem, że wiem już wszystko.
 
 Zazwyczaj ujęcie wyrażane jest numerem, np. 5, czytane jako "pięć". Natomiast dyrektora zdjęć może ponieść fantazja i zdarzają się potworki typu "11.2" albo "7+". Jak to czytać? Nie ma zasady, więc najlepiej najprościej — czyli "jedenaście kropka dwa", "siedem plus".
 
@@ -96,7 +100,6 @@ Opisałem tutaj system europejski, w amerykańskim jest nieco inaczej.
 Zlokalizuj wzrokiem mikrofon i mów do niego. Jak są 2, to wybierz sobie 1. Pierwszy dźwiękowiec asystujący może przesunąć mikrofon w Twoją stronę. Ale nie musi. Im bliżej masz mikrofon, tym ciszej możesz mówić (coś tam kwadrat odległości), mów tak, jakby mikrofon był osobą, która ma Cię usłyszeć.
 
 Jak kamera zmula ("muszę przyostrzyć!"), a dźwięk pisze, to można przeczytać scenę jakby poza swoją kolejnością, żeby nie marnować czasu. To się zdarza rzadko, ale będzie docenione.
-
 
 ### Jak klapsować-klapsować?
 
@@ -120,7 +123,7 @@ Powyższy scenariusz jest najczęstszy, ale czasem będzie nieco inaczej, np.:
 
 ![](/img/no-to-klaps/mos.jpg)
 
-Czyli bez synchronizacji z dźwiękiem (z samą nazwą związana jest ciekawy lore). Nie czytamy sceny, bo nie ma dla kogo. Nie klapiemy, bo nie ma po co. Zwijać można, gdy tylko dostaniemy werbalne potwierdzenie, że kamera pisze. Ale trzeba się pojawić przed kamerą!
+Czyli bez synchronizacji z dźwiękiem (z samą nazwą związana jest ciekawy lore). Nie klapiemy, bo nie ma po co (nawet więcej, klapanie przy MOSie jest potencjalnie szkodliwe!).
 
 I ważna sprawa: klaps trzymamy za to dolne nieruchome drewienko do robienia jebs. Wtedy montażysta widzi na tej małej miniaturce łapę i wie, że na 100% nie ma co szukać odpowiadających plików dźwiękowych.
 
@@ -146,11 +149,11 @@ Czasami się źle jebnie. Zdarza się. Powiedz natychmiast: "drugi klaps" i jebn
 
 Dobra, teraz się skup, bo to jest najtrudniejszy scenariusz. Czasami nie jest praktycznie robić klapsa na początku. Kwestie ostrości czy coś. Nie ważne czemu. Ważne, że ktoś (najprawdopodobniej operator) powie Ci, że robimy tutaj klaps końcowy. Co to znaczy?
 
-Otóż na samym początku należy przed kamerą pokazać klaps, ale do góry nogami. Może być rozmazany, bajo bongo. To jest sygnał dla montażysty, żeby szukał klapsa na końcu klipu. Przeczytać scenę i się zawinąć. Jak się nie da pokazać klapsa przed kamerą to olej ten krok, po prostu przeczytaj scenę.
+Otóż na samym początku należy przed kamerą pokazać klaps, ale do góry nogami. Może być rozmazany, bajo bongo. To jest sygnał dla montażysty, żeby szukał klapsa na końcu klipu. Przeczytać scenę i się zawinąć. Jak się nie da pokazać klapsa przed kamerą to olej ten krok, po prostu przeczytaj scenę i dodaj "klaps końcowy".
 
-Teraz jest gra w przyczajkę. Jak tylko ktoś powie "cięcie" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Pojawiasz się w kadrze z klapsem do góry nogami. Jak kadr się ustabilizuje, to obracasz klapsa (drewienka cały czas otwarte), po czym klapsujesz - procedurą standardową. Gotowe!
+Teraz jest gra w przyczajkę. Jak tylko ktoś powie "stop" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Pojawiasz się w kadrze z klapsem do góry nogami. Jak kadr się ustabilizuje, to obracasz klapsa (drewienka cały czas otwarte), po czym klapsujesz - procedurą standardową (minus czytanie sceny bo to już było!). Gotowe!
 
-## Podstawowe mazanie (podejścia,)
+## Podstawowe mazanie (podejścia)
 
 Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie spadają z nieba! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie.
 
@@ -243,7 +246,7 @@ Klaps można czyścić dodatkowo specjalnym płynem do czyszczenia albo wodą z
 ## Co można skasztanić (na podstawie własnych obserwacji)?
 
 Tak, da się, przykłady:
-- podczas czytania pomijanie sceny - do identyfikacji klipu scena się przydaje, a na pewno nie zaszkodzi, czytamy: "**scena X**, ujęcie Y, dubel Z", nigdy "ujęcie Y, dubel Z"
+- podczas czytania pomijanie sceny - czytamy: "**scena X**, ujęcie Y, dubel Z", nigdy "ujęcie Y, dubel Z", **edit:** a najlepiej "X, Y, Z" po prostu
 - nieśmiałe klapsanie - warto walnąć, zwłaszcza jeśli dźwiękowiec umie into poziomy
 - oznaczanie sceny, ujęcia i podejścia na klapsie literkami ("s", "u", "p") czy nie daj borze jeszcze inaczej - wygląda max wieśniacko, nie rób tego. Pamięc robocza ma 7 elementów, jesteś w stanie zapamiętać "scena, ujęcie, podejście". Jak nie jesteś, to może odpuść sobie ten film i zapisz się na dżudo. Jakieś *łatwe* dżudo.
 - inicjatywa własna pt. pryskanie klapsa perfumem w celu wyczyszczenia go. Instynkt nagi i zabójczy, ale kierunek przeciwny. Alkohol etylowy i inne rzeczy w perfumie uszkadzają akryl i mogą doprowadzić do starcia napisów nadrukowanych na klaps. I ani trochę nie pomagają w czyszczeniu śladów po markerze suchościeralnym!
@@ -256,3 +259,4 @@ Tego używam i to mi się najlepiej sprawdza na czas publikacji:
 - Marker z farbą UNI POSCA PC-5M czarny (do stałych informacji, pisania po taśmach - tylko daj mu przeschnąć minutę)
 - Marker do tablic PENTEL MAXIFLO M czarny (do zmiennych informacji)
 - Klaps filmowy biały akrylowy na mazaki 24,5x30 (tylko: teraz chodzą po 170 CBL, zobacz na Ali, jest taniej, nie daj polaczkowi zarobić na sobie)
+- Losowa skarpeta
