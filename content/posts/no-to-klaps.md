@@ -91,7 +91,7 @@ Przypominam: w miarę wyraźnie, odpowiednio głośno, do mikrofonu. Czytamy ta
 
 **Lepszy sposób:** "[numer sceny], [numer ujęcia], [numer podejścia]", czyli np.: /Czterdzieści siedem, dwa, dwa/
 
-> W tym punkcie pragnę podziękować *Kamilowi M. Brylowi* z [Wild Wave](https://wildwave.media/) za nauczenie mnie czegoś o klapsowaniu, kiedy myślałem, że wiem już wszystko.
+> W tym punkcie pragnę podziękować mojemu przyjacielowi i koledze *Kamilowi M. Brylowi* z [Wild Wave](https://wildwave.media/) za nauczenie mnie czegoś o klapsowaniu, kiedy myślałem, że wiem już wszystko.
 
 Zazwyczaj ujęcie wyrażane jest numerem, np. 5, czytane jako "pięć". Natomiast dyrektora zdjęć może ponieść fantazja i zdarzają się potworki typu "11.2" albo "7+". Jak to czytać? Nie ma zasady, więc najlepiej najprościej — czyli "jedenaście kropka dwa", "siedem plus".
 
