@@ -123,7 +123,7 @@ Powyższy scenariusz jest najczęstszy, ale czasem będzie nieco inaczej, np.:
 
 ![](/img/no-to-klaps/mos.jpg)
 
-Czyli bez synchronizacji z dźwiękiem (z samą nazwą związana jest ciekawy lore). Nie klapiemy, bo nie ma po co (nawet więcej, klapanie przy MOSie jest potencjalnie szkodliwe!).
+Czyli bez synchronizacji z **osobnym** urządzieniem nagrywającym dźwięk (z samą nazwą związana jest ciekawy lore). Nie klapiemy, bo nie ma po co (nawet więcej, klapanie przy MOSie jest potencjalnie szkodliwe!). Przeczytać scenę można, bo kamera często dźwięk nagrywa.
 
 I ważna sprawa: klaps trzymamy za to dolne nieruchome drewienko do robienia jebs. Wtedy montażysta widzi na tej małej miniaturce łapę i wie, że na 100% nie ma co szukać odpowiadających plików dźwiękowych.
 
@@ -250,6 +250,8 @@ Tak, da się, przykłady:
 - nieśmiałe klapsanie - warto walnąć, zwłaszcza jeśli dźwiękowiec umie into poziomy
 - oznaczanie sceny, ujęcia i podejścia na klapsie literkami ("s", "u", "p") czy nie daj borze jeszcze inaczej - wygląda max wieśniacko, nie rób tego. Pamięc robocza ma 7 elementów, jesteś w stanie zapamiętać "scena, ujęcie, podejście". Jak nie jesteś, to może odpuść sobie ten film i zapisz się na dżudo. Jakieś *łatwe* dżudo.
 - inicjatywa własna pt. pryskanie klapsa perfumem w celu wyczyszczenia go. Instynkt nagi i zabójczy, ale kierunek przeciwny. Alkohol etylowy i inne rzeczy w perfumie uszkadzają akryl i mogą doprowadzić do starcia napisów nadrukowanych na klaps. I ani trochę nie pomagają w czyszczeniu śladów po markerze suchościeralnym!
+- pytanie reżysera jak klapsować. Literalnie zapytaj kogokolwiek innego.
+- tworzenie na tyle klapsa malowidł naskalnych
 
 ## Akcesoria
 
