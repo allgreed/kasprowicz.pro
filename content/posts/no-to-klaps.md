@@ -49,7 +49,7 @@ Dopóki nie oddasz go **do rąk własnych osoby, która Ci go dała na początku
 ### Roll call
 Niestety nie możemy mówić o klapsowaniu, dopóki nie omówimy *roll calla* /rol kol/, czyli całej ceremonii związanej z faktycznym kręceniem, a wygląda to tak:
 
-- Kierownik planu mówi: "Dobra, kręcimy" czy coś w tym stylu (np. "Czy jebany reżyser jest w pierdolonej wiosce wideo?"), oznacza to, że trzeba przekierować energię z plotkowania z kolegą / koleżanką, pałaszowania przekąsków czy czego tam się nie robiło na kwestie produktywne. Włączamy skupienie.
+- Kierownik planu mówi: "Będzie ujęcie" czy coś w tym stylu (np. "Czy jebany reżyser jest w pierdolonej wiosce wideo?"), oznacza to, że trzeba przekierować energię z plotkowania z kolegą / koleżanką, pałaszowania przekąsków czy czego tam się nie robiło na kwestie produktywne. Włączamy skupienie.
 - Jak już wszyscy się ustawią, to kierownik mówi: "Dźwięk?"
 - Wtedy głównodowodzący dźwięku, lokacyjny mikser, w skrócie ja, odpowiada, że spoko, poprzez "leci" albo "w zapisie". Od tego momentu oficjalnie się kameruje (to będzie ważne potem).
 - **pozor!** w tym momencie Ty, klapser z nadania, masz już być na miejscu, inaczej kierownik powie "klaps". Ale wtedy przegrałeś/aś. Ty masz już tam być!
@@ -98,8 +98,6 @@ Zazwyczaj ujęcie wyrażane jest numerem, np. 5, czytane jako "pięć". Natomias
 Opisałem tutaj system europejski, w amerykańskim jest nieco inaczej.
 
 Zlokalizuj wzrokiem mikrofon i mów do niego. Jak są 2, to wybierz sobie 1. Pierwszy dźwiękowiec asystujący może przesunąć mikrofon w Twoją stronę. Ale nie musi. Im bliżej masz mikrofon, tym ciszej możesz mówić (coś tam kwadrat odległości), mów tak, jakby mikrofon był osobą, która ma Cię usłyszeć.
-
-Jak kamera zmula ("muszę przyostrzyć!"), a dźwięk pisze, to można przeczytać scenę jakby poza swoją kolejnością, żeby nie marnować czasu. To się zdarza rzadko, ale będzie docenione.
 
 ### Jak klapsować-klapsować?
 
