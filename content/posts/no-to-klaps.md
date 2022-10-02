@@ -99,6 +99,10 @@ Opisałem tutaj system europejski, w amerykańskim jest nieco inaczej.
 
 Zlokalizuj wzrokiem mikrofon i mów do niego. Jak są 2, to wybierz sobie 1. Pierwszy dźwiękowiec asystujący może przesunąć mikrofon w Twoją stronę. Ale nie musi. Im bliżej masz mikrofon, tym ciszej możesz mówić (coś tam kwadrat odległości), mów tak, jakby mikrofon był osobą, która ma Cię usłyszeć.
 
+### Jak trzymać klapsa?
+
+Kiedy nie klapsujesz to za dolne drewienko. Jak klapsujesz to albo jak tacę (jedna ręka pod klapsem, przykładając siłę wektorem pionowym, druga trzyma za górne drewienko) albo wkładając palce pod dolne drewienko i trzymając za górne drewienko. Wyjątkiem jest MOS. Czasem klaps posiada też domontowaną trzymaczkę, to wtedy za trzymaczkę. Ja nie mam trzymaczki, bo stwierdziłem, że biorąc pod uwagę jak ludzie zazywczaj traktują ten klaps to się urwie.
+
 ### Jak klapsować-klapsować?
 
 Jak już musisz coś spartolić to lepiej spartolić to niż czytanie sceny. I lepiej spartolić czytanie sceny niż ustawienie.
@@ -248,8 +252,10 @@ Tak, da się, przykłady:
 - nieśmiałe klapsanie - warto walnąć, zwłaszcza jeśli dźwiękowiec umie into poziomy
 - oznaczanie sceny, ujęcia i podejścia na klapsie literkami ("s", "u", "p") czy nie daj borze jeszcze inaczej - wygląda max wieśniacko, nie rób tego. Pamięc robocza ma 7 elementów, jesteś w stanie zapamiętać "scena, ujęcie, podejście". Jak nie jesteś, to może odpuść sobie ten film i zapisz się na dżudo. Jakieś *łatwe* dżudo.
 - inicjatywa własna pt. pryskanie klapsa perfumem w celu wyczyszczenia go. Instynkt nagi i zabójczy, ale kierunek przeciwny. Alkohol etylowy i inne rzeczy w perfumie uszkadzają akryl i mogą doprowadzić do starcia napisów nadrukowanych na klaps. I ani trochę nie pomagają w czyszczeniu śladów po markerze suchościeralnym!
-- pytanie reżysera jak klapsować. Literalnie zapytaj kogokolwiek innego.
-- tworzenie na tyle klapsa malowidł naskalnych
+- pytanie reżysera jak klapsować. No nie. Literalnie zapytaj kogokolwiek innego.
+- tworzenie na tyle klapsa malowidł naskalnych - ja to potem muszę zmazywać i marnujesz cudzy mazak - nie spoko.
+- zasłanianie ręką informacji na klapsie podczas klapsowania
+- wielokrotne rozmazywanie ręką informacji zapisanych wcześniej na klapsie - wiadomo czasem się zdarza, ale wtedy się szybko poprawia zanim ktoś zauważy ;d
 
 ## Akcesoria
 
