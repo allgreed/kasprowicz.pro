@@ -2,16 +2,15 @@
 title = "Common Makefile Interface"
 date = 2021-07-10T19:29:41+02:00
 description = ""
-draft = true
-categories = [""]
-tags = []
+draft = false
 +++
 <!--__-->
-<!--[_build]-->
-<!--render="always"-->
-<!--list="never"-->
-<!--publishResources="true"-->
+[_build]
+render="always"
+list="never"
+publishResources="true"
 <!--TODO this draft=false is a hack :c-->
+<!--__-->
 
 > He had eyes all around his head and spoke magic words that could turn the day sky into night sky and night sky into day sky...
 
@@ -165,7 +164,7 @@ I'll be having a talk about Nix at this year's [Cebula Camp](https://cebula.camp
 
 [Entr](https://github.com/clibs/entr), though not touched on explicitly is still worth mentioning -> it runs commands upon file changes. So that:
 ```sh
-ls main.py | make test
+ls main.py | entr -c make test
 ```
 
 will run unittest every time `main.py` changes. It can be utilized to provide an insanely convenient <abbr title="Test Driven Development">TDD</abbr> loop by running two panes - one with the editor and the other `entr`.
@@ -283,7 +282,7 @@ I strongly belive that it's the case of agreeing on something rather than bikesh
 
 - commit to the [standard and tooling](https://github.com/allgreed/common-makefile-interface)
 - spread the word - share this article, mention it to your friends, hell, give a talk!
-- talk to me - **tell me it's stupid and why it'll fail miserably**, utter a tale of grand sucess, weave a story full of mystery, betrayal and romance. Or just drop a hint what could be improved in your opinion. Either through Github issues or email me (it's my name, at sign, this domain, all lowercase - suck it, bots).
+- talk to me - **tell me it's stupid and why it'll fail miserably**, utter a tale of grand sucess, weave a story full of mystery, betrayal and romance. Or just drop a hint what could be improved in your opinion. Either through Github issues or email me (it's my first name, at sign, this domain, all lowercase - suck it, bots).
 
 ## Footnotes
 [^1]: the graph and the one below bears an uncanny simillarity to [the meaning of meaning](https://www.researchgate.net/publication/242914013_The_meaning_of_meaning)
@@ -293,3 +292,5 @@ I strongly belive that it's the case of agreeing on something rather than bikesh
 
 TODO - https://news.ycombinator.com/item?id=30137254
 TODO - https://news.ycombinator.com/item?id=30671572
+TODO - https://nullprogram.com/blog/2017/08/20/ <- Makefile target conventions
+TODO potential testimony - https://rosszurowski.com/log/2022/makefiles
