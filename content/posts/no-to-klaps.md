@@ -157,7 +157,7 @@ Teraz jest gra w przyczajkę. Jak tylko ktoś powie "stop" to Ty krzyczysz: "kl
 
 ## Podstawowe mazanie (podejścia)
 
-Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie spadają z nieba! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie.
+Czasem nie ma czasu na przekazanie klapsa clapper loaderowi między podejściami. Szczególnie na małych produkcjach, gdzie sceny nie wymagają wyrafinowanego przygotowania, reżyser nie ma dużo do powiedzenia aktorom w trakcie, etc. W takim wypadku oprócz klapsa dostaniesz mazak suchościeralny oraz szmatę. Szmata może być w kształcie skarpety. **Pilnuj ich**, mazaki nie spadają z nieba! Klaps może też mieć rzep z tyłu do osadzenia mazaka, żeby ułatwić Ci to arcytrudne zadanie. Jeżeli <s>skarpeta</s> szmata ma sznurek i karabińczyk to zaczep karabińczyk o szlufkę spodni czy coś. Tak, ktoś mi zawinął skarpetę, żeby uwolnić Zgredka.
 
 Podejścia numerujemy od 1, co 1. Czyli 1, 2, 3... i tak dalej. Podejście zaczyna się kiedy dźwięk zacznie pisać i kończy się w momencie, kiedy usłyszysz "cięcie". W takiej chwili trzeba na szybkości zapamiętać numer podejścia, zmazać go, dodać 1, napisać nowy numer i zasuwać na swoje miejsce.
 
