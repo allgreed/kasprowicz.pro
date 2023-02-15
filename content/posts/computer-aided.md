@@ -111,7 +111,7 @@ It worked even better than gen1! Aside from holding the Tentacle just as fine as
 
 I've learned some more about the OpenSCAD language (like the `if` statemetns), did some reminiscing about geometry (up to the level of `arctangent`) with [Tomek's](https://github.com/dysio) help and finally managed to add chamfered edges to the velcro dip, as well as the cold shoe (negating the need for supports at that point and further reinforcing the design). 
 
-For mark 2 I've reduced the table margin to 3mm [-2] and increased the velcro dip to 1mm [+0.5]. This and the added chamfers allowed to reduce the priting time by over 35% (down to 1:10h) and get rid of the annoying supports on the back. I was affraid that without the supports the accessory would fall during printing, fortunately that wasn't the case.
+For mark 2 I've reduced the table margin to 3mm [-2] and increased the velcro dip to 1mm [+0.5]. This and the added chamfers allowed to reduce the printing time by over 35% (down to 1:10h) and get rid of the annoying supports on the back. I was affraid that without the supports the accessory would fall during printing, fortunately that wasn't the case.
 
 Turns out the velcro dip is still a litlle off, I've corrected it when designing mark 3. I've also neglected one of the paramterer experiments, so I've altered the table height to 2mm [-1].
 
