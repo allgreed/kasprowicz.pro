@@ -2,8 +2,8 @@
 description = ""
 +++
 
-# How to reach Olgierd
-
-## Physically
+## How to reach
 - drop me an email at olgierd@kasprowicz.pro
-- send me a PM at Libera Chat, my username is allgreed (if I don't respond within a reasonable timeframe that means I've borked my irc boucer again, so go for email)
+
+## Misc
+- Aside from the leading fiat currencies I'll also accept major cryptocurrencies (at the time of writing BTC and ETH) and precious metals (at the time of writing gold and silver)
