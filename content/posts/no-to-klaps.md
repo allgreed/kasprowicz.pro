@@ -5,7 +5,7 @@ description = ""
 draft = false
 +++
 
-> This one will be in Polish. If you'd like to learn how to slate **and** you're capable of supreme language comprehension there are already tons of [interesting](https://www.studiobinder.com/blog/how-to-use-a-film-slate/) [how-to-slate](https://www.youtube.com/watch?v=bd7BPX8oEeE) [resources](https://www.youtube.com/watch?v=UVB_jQ1rsBU).
+> This one will be in Polish. If you'd like to learn how to slate **and** you're capable of supreme bastard tongue comprehension there are already tons of [interesting](https://www.studiobinder.com/blog/how-to-use-a-film-slate/) [how-to-slate](https://www.youtube.com/watch?v=bd7BPX8oEeE) [resources](https://www.youtube.com/watch?v=UVB_jQ1rsBU).
 
 
 ![](/img/no-to-klaps/slate-hero.jpg)
@@ -153,7 +153,9 @@ Dobra, teraz się skup, bo to jest najtrudniejszy scenariusz. Czasami nie jest 
 
 Otóż na samym początku należy przed kamerą pokazać klaps, ale do góry nogami. Może być rozmazany, bajo bongo. To jest sygnał dla montażysty, żeby szukał klapsa na końcu klipu. Przeczytać scenę i się zawinąć. Jak się nie da pokazać klapsa przed kamerą to olej ten krok, po prostu przeczytaj scenę i dodaj "klaps końcowy".
 
-Teraz jest gra w przyczajkę. Jak tylko ktoś powie "stop" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Pojawiasz się w kadrze z klapsem do góry nogami. Jak kadr się ustabilizuje, to obracasz klapsa (drewienka cały czas otwarte), po czym klapsujesz - procedurą standardową (minus czytanie sceny bo to już było!). Gotowe!
+Teraz jest gra w przyczajkę. Jak tylko ktoś powie "stop" to Ty krzyczysz: "klaps końcowy". Obraz i dźwięk powinny lecieć dalej. Jak najszybciej ustawiasz się tak, żeby kamera mogła na Ciebie spojrzeć i przyostrzyć. Klapsujesz normalnie - procedurą standardową (minus czytanie sceny bo to już było!). Gotowe!
+
+W czasach taśmy na końcu odwracało się jeszcze klapsa do góry nogami, żeby było jasne, że to nie jest klaps początkowy następnej sceny, natomiast obecnie każde podejście dostaje swój własny plik, więc nie ma sensu tak robić. Chyba, że bardzo chcesz.
 
 ## Podstawowe mazanie (podejścia)
 
