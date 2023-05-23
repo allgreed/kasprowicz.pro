@@ -292,5 +292,7 @@ I strongly belive that it's the case of agreeing on something rather than bikesh
 
 TODO - https://news.ycombinator.com/item?id=30137254
 TODO - https://news.ycombinator.com/item?id=30671572
+)https://news.ycombinator.com/item?id=35936665
 TODO - https://nullprogram.com/blog/2017/08/20/ <- Makefile target conventions
 TODO potential testimony - https://rosszurowski.com/log/2022/makefiles
+https://bultrowicz.com/continous_validation_with_make_and_entr/
