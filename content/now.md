@@ -41,6 +41,6 @@ During the last few years I've accumulated a lot of cruft. Debris. Sludge. Be it
 
 > autumn, not spring
 
-I've addressed my sleep, new glasses, getting rid of accessories of the past. Instead of everything being someday some things are now and some are never. And I'm at peace with it.
+I've addressed my sleep, new glasses, getting rid of accessories of the past. Instead of everything being "someday" some things are now and some are never. And I'm at peace with it.
 
 The pile of chaos awaits, where all the leaves are gold.
