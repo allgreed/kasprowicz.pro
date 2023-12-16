@@ -19,21 +19,6 @@ rss="/index.xml"
 
 [menu]
   [[menu.main]]
-    name = "Github"
-    url = "https://github.com/allgreed/"
-    weight = -110
-
-  [[menu.main]]
-    name = "Linkedin"
-    url = "https://www.linkedin.com/in/olgierdkasprowicz"
-    weight = -100
-
-  [[menu.main]]
-    name = "Toptal"
-    url = "https://www.toptal.com/resume/olgierd-kasprowicz"
-    weight = -90
-
-  [[menu.main]]
     name = "3rd party"
     url = "/3party"
     weight = 10

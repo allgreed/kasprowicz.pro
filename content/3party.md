@@ -6,6 +6,13 @@ description = ""
 
 I think the title is a bit misleading, 'cause the first 2 parties never happened. Or at least I wasn't invited to them ^^
 
+## Code
+- [Github](https://github.com/allgreed/)
+
+## "Social"
+- [Linkedin](https://www.linkedin.com/in/olgierdkasprowicz)
+- [Toptal](https://www.toptal.com/resume/olgierd-kasprowicz) <- this is essentially signaling, Toptal prides itself on [hiring only the top 3%](https://www.toptal.com/top-3-percent)
+
 ## Videos
 Those *MAY* be youtube links. You've been warned.
 
