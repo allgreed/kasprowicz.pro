@@ -19,6 +19,7 @@ init: ## one time setup
 .PHONY: ftp-deploy build
 ftp-deploy: ## deploy to OVH hosting via ftp
 	ncftpput -R $(FTP_DEPLOY_TARGET) . $(BUILD_ARTIFACTS_FOLDER)/*
+
 build: ## create build artifacts (no postprocessing though)
 	rm -fr $(BUILD_ARTIFACTS_FOLDER)
 	hugo --destination $(BUILD_ARTIFACTS_FOLDER) --minify
