@@ -24,9 +24,14 @@ rss="/index.xml"
     weight = 10
 
   [[menu.main]]
+    name = "Now"
+    url = "/now"
+    weight = 10
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 20
+    weight = 10
 
 [markup.goldmark.renderer]
 unsafe= true
