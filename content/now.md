@@ -28,7 +28,7 @@ This is clearly subpar. Why do I *exactly* want from a job? *Precisely* what are
 I shall record my answers in git, for anything not set in a public blockchain cannot be trusted.
 
 ### Speed
-A theme emerges, one that I'm fondly looking forward to. It's a phenomenon, therefore I cannot quite pinpoint a source. I thing that speed is a virtue. What if instead of writing down ideas, then selecting some maybe for development when the time is right buttimeisnevertright... - how about I just implement them? As they come.
+A theme emerges, one that I'm fondly looking forward to. It's a phenomenon, therefore I cannot quite pinpoint the source. I thing that speed is a virtue. What if instead of writing down ideas, then selecting some maybe for development when the time is right buttimeisnevertright... - how about I just implement them? As they come.
 
 I thought taskwarrior icalendar feed. And then there was [taskwarrior icalendar feed](https://github.com/allgreed/tw-ical-feed/). Not months, not days - hours. Could I get from hours to minutes?
 
