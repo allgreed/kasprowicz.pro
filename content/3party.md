@@ -4,8 +4,6 @@ description = ""
 
 # Olgierd-related 3rd party content
 
-I think the title is a bit misleading, 'cause the first 2 parties never happened. Or at least I wasn't invited to them ^^
-
 ## Code
 - [Github](https://github.com/allgreed/)
 
