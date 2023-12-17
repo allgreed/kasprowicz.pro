@@ -21,16 +21,21 @@ rss="/index.xml"
   [[menu.main]]
     name = "3rd party"
     url = "/3party"
-    weight = 10
+    weight = 40
 
   [[menu.main]]
     name = "Now"
     url = "/now"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
+    weight = 30
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
     weight = 10
 
 [markup.goldmark.renderer]
