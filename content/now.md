@@ -39,6 +39,8 @@ I've spoken with Puss about this. He was quite aghast.
 ## Purge
 During the last few years I've accumulated a lot of cruft. Debris. Sludge. Be it physical or digital. Upon my desk emerged what I call a pile of chaos. It started as a place for things without a place and became the end to end all ends. It'll consume me and everything around me, unless... I consume it first. So far I've taken a half of the pile and sliced it into manageable pieces, while the other half lies dormant in the corner. A lot of other small matters were long overdue, some others require *deliberate* delaying, not this haphazard "later". Think 
 
+> ending, not starting
+
 > autumn, not spring
 
 I've addressed my sleep, new glasses, getting rid of accessories of the past. Instead of everything being "someday" some things are now and some are never. And I'm at peace with it.
