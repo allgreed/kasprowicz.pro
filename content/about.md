@@ -147,7 +147,7 @@ I consider myself not only a special snowflake, but a also particularly complex 
 
 Going forward with the spaceship metaphor: I believe there's a lot to balance and self-regulate, but once that achieved (and I had a bit of practice over the years) I can go where no bike has gone before.
 
-Some keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory
+Some keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system
 
 ## About values
 
