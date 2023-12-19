@@ -10,21 +10,11 @@ There's just something profane and deficient in trying to cast a persona into a 
 
 There are aspects though. Aspects are fair game.
 
-## About specialisation
-> How many years of experience do you have at flopnaxing the ropjar?
-
-Well, that's not a very sophisticated question. First of all, in the last 4 months ropjar was entirely transformed and no longer resembles anything flopnaxable. I've worked with ropjar 2 years ago, I reconfigured the rilkef about 3 times over the course of 6 months, each time it took 5 days. What number is right? 2? 15/365? 0.5? If you want a real number - that'd be Π, but I might have something perfect [for you] - 3!
-
-It doesn't matter. I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
-
-> In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~[Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
-
-I'm a shaman. My specialisation is the generation of insight through the use of pshychotechnologies. One of the practical application may be programming computers to solve problems. What would a writer do without a pen? Use a typewriter or a quill!
-<!--TODO: acquisition of insight?-->
-
-## About traits
+## About personality traits
 
 I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model, since it's the crow jewel of modern psychometry. In fact all other models that depend on self-reporting are Big 5 done poorly. In this section some words, like *extraversion*, although have a meaning in the everyday language, should rather be interpreted as precise terms from said model. Equivocation is the mind-killer.
+
+Personality seems like a good place to start, a foundation.
 
 The quotes are from [Understand Myself](https://www.understandmyself.com/) report of yours truly and the adjectives ("high", etc.) denote "relative to a [non-existing] perfectly average human". I also try to pick out the fragments that apply to me the most.
 
@@ -161,6 +151,17 @@ Some keywords that resonate with me: research, high leverage, open-ended, protot
 
 ## About values
 
+## About profession and specialisation
+> How many years of experience do you have at flopnaxing the ropjar?
+
+Well, that's not a very sophisticated question. First of all, in the last 4 months ropjar was entirely transformed and no longer resembles anything flopnaxable. I've worked with ropjar 2 years ago, I reconfigured the rilkef about 3 times over the course of 6 months, each time it took 5 days. What number is right? 2? 15/365? 0.5? If you want a real number - that'd be Π, but I might have something perfect [for you] - 3!
+
+It doesn't matter. I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
+
+> In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~[Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+
+I'm a shaman. My specialisation is the generation of insight through the use of pshychotechnologies. One of the practical application may be programming computers to solve problems. What would a writer do without a pen? Use a typewriter or a quill!
+<!--TODO: acquisition of insight?-->
 
 ## About ethics
 
