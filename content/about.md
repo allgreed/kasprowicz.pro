@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-I loathe bios. Abouts. Makes me thing about these drones that start a presentation by saying 
+I loathe bios. Abouts. Makes me think about these drones that start a presentation by saying:
 
 > My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. I like mountain biking.
 
