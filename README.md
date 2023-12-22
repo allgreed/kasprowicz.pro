@@ -1,8 +1,17 @@
 # kasprowicz.pro
-My professional webpage
+My semi-professional webpage
 
 ## Usage
-For now go for [dev](#dev)
+No idea why would you want to, but if you must go for [dev](#dev)
+
+## Should you have a personal website
+If you're reading this then yes.
+
+### Should you have a personal website even though you don't have much to convey
+Yes. First say whatever. Then say better things.
+
+### Ok, but how?
+You can totally have a simillar kind of website, for simplicity I recommend a free tier hosting that comes with a domain name (mine from OVH at the time of writting), then somehow generate html files (either by hand or via Hugo) and put them there (manually). There. Iterate, automate, improve.
 
 ## Dev
 
