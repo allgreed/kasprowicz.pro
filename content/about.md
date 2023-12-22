@@ -2,23 +2,42 @@
 title = "About"
 +++
 
-I loathe bios. Abouts. Makes me think about these drones that start a presentation by saying:
+<!--todo: meta-->
+<!--what exactly do I mean by about-->
 
-> My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. I like mountain biking.
+<!--todo: how can I help you-->
 
-There's just something profane and deficient in trying to cast a persona into a few lines of text. So I won't. You want to know me? That's a participatory kind of knowledge - interact! 
+This is not a bio. I loathe bios. Makes me think about these drones that start a presentation by saying:
 
-There are aspects though. Aspects are fair game.
+> My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. In my free time I like to do self-improvement.
+
+There's just something profane and deficient in trying to cast a persona into a few lines of text to provide a false sense of familiarity. So I won't.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg/800px-Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg)
+<!--TODO: do the attribution correctly-->
+<!--TODO: self-host -->
+
+The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. In their flute-induced trance they had no names for they are all Kosh.
+
+I'm the second guy from the left.
+
+Or am I?
+
+<!--todo: for recruiters-->
+<!--Am I a Java monk?-->
+<!--I'm not sure if this section is warranted-->
 
 ## About personality traits
+Now that your tabula has been rasa I invite you on a journey.
+<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
-I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model, since it's the crow jewel of modern psychometry. In fact all other models that depend on self-reporting are Big 5 done poorly. In this section some words, like *extraversion*, although have a meaning in the everyday language, should rather be interpreted as precise terms from said model. Equivocation is the mind-killer.
+Personality traits seems like a reasonable foundation since they're fairly stable and tend to explain a lot.
 
-Personality seems like a good place to start, a foundation.
+I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model, since it's the crow jewel of modern psychometry. In fact all other models that depend on self-reporting are a subset of Big 5 done with varying levels of quality. In this section some words, like *Extroversion*, although have a meaning in the everyday language, should rather be interpreted as precise terms from said model. I'll attempt to capitalise them to further denote that. Equivocation is the mind-killer.
 
-The quotes are from [Understand Myself](https://www.understandmyself.com/) report of yours truly and the adjectives ("high", etc.) denote "relative to a [non-existing] perfectly average human". I also try to pick out the fragments that apply to me the most.
+The quotes in this section, unless stated otherwise, are from [Understand Myself](https://www.understandmyself.com/) report of yours truly and the adjectives ("high", etc.) denote "relative to a [non-existing] perfectly average human". I aimed to pick out the fragments that apply to me the most.
 
-I'd try to highlight the lowlights as well, since traits are neither good or bad.
+I'd try to highlight the lowlights as well - trait manifestations are neither good nor bad, they're a trade-off.
 
 ### High Extroversion
 
@@ -28,10 +47,12 @@ although,
 
 > People high in extraversion are more dominant in social situations, particularly if they are also *low in agreeableness*. Less agreeable extraverts tend to be self-centered. [...] They don’t generally wait for others to lead the way. They can be more impulsive than average, and can act without thinking.
 
-Cue [The Prodigy - Roadblox](https://www.youtube.com/watch?v=aPbZABYQJV8)
-
 In other words: I have a strong bias for action, maybe not [this strong bias for action](https://www.cnbc.com/2023/09/11/elon-musk-moved-twitter-servers-himself-in-the-night-new-biography-details-his-maniacal-sense-of-urgency.html)... yet? I laughed while reading about it though. I may take charge when needed (though actually prefer second-in-command). And "when needed" is often subject to my own interpretation. 
 <!--TODO: add a footnote about that second-in-command -->
+
+> Drive on straight through the roadblox  
+Let me see, let me see what you've got  
+~ [The Prodigy](https://www.youtube.com/watch?v=aPbZABYQJV8)
 
 This means I perform best with either a lot of freedom, autonomy and resources at my disposal ([so much can depend upon a wheel barrow](https://www.youtube.com/watch?v=XeO3jMZphhs&t=46s)) or a strong, competent leader who's not slacking. Preferably both.
 
