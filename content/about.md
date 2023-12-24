@@ -191,7 +191,9 @@ This is how you find madness in methods and methods in madness.
 ## About values
 
 ## About profession and specialisation
-> How many years of experience do you have at flopnaxing the ropjar?
+I've been asked on a number of ocasions:
+
+> How many years of experience do you have flopnaxing the ropjar?
 
 Well, that's not a very sophisticated question. First of all, in the last 4 months ropjar was entirely transformed and no longer resembles anything flopnaxable. I've worked with ropjar 2 years ago, I reconfigured the rilkef about 3 times over the course of 6 months, each time it took 5 days. What number is right? 2? 15/365? 0.5? If you want a real number - that'd be Π, but I might have something perfect [for you] - 3!
 
@@ -199,17 +201,36 @@ It doesn't matter. I've had 0 years of experience with icalendar, but I can read
 
 > In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~[Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
-I'm a shaman. My specialisation is the acquisition of insight through the use of pshychotechnologies. One of the practical application may be programming computers to solve problems. What would a writer do without a pen? Use a typewriter or a quill!
+I'm a shaman. My specialisation is the acquisition of insight through altered states of consciousness. A practical application of that may be solving hard problems. Yes, sometimes by programming a computer.
+
+> A weapon is a tool. A tool for killing and destroying. And there will be times when, as an Envoy, you must kill and destroy. Then you will choose and equip yourself with the tools that you need. But remember the weakness of weapons. They are an extension--you are the killer and destroyer. You are whole, with or without them.  
+> ~ Virginia Vidaura 
 
 ## About what can I do for you
+We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. Though a shaman is not a kitchen appliance - I don't exist with the specific purpose of being useful.
+
+The question "what can I do for you" is loaded. For the people that want to go beyond I'd say: think one thought and then think "acquisition of insight". Think "psychotechnology". If your mind does the mental equivalent of a crisp *ding, ding, ding* - [proceed to the next section](#about-ethics---what-i-wont-do-for-you).
+
+More keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system, learning, knowledge, cognitive, stories, myth, finance
 
 > What does that mean?  
 > ~ Julia
 
-<!--TODO: expand-->
+If you don't get the above (some will, some won't - no worries) let's try this way: **I solve problems**. This is a gross oversimplification, but may be easier to work with. We need to talk markets at this point.
 
-Some keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system, learning, knowledge, conginitive
+There are many general problem solvers on the market. Some have access to vast networks far exceeding mine. Some will be far more efficient at certain classes of problems. Some will be cheaper. Every one of them will have their limitations though. I do too. It might just happen that for a particular endeavour my limitations are the only acceptable ones.
+
+Entering into the realm of probabilities: I think I might help you the most with idiosyncratic problems. Problems that are not very well defined. Where the way forward is by no means obvious. Heavily constrained solution space. Weird. Abstract. Dissipative systems. Because sometimes you just need to
+
+> Make it personal.  
+> ~ Quellcrist Falconer
+
+I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just so happened that so far I've used computers the most.
 
 ## About ethics - what I won't do for you
+<!--Yes,  I need resources and, not too much, mostly fiat currency. We might come to an agreement that you pay me in exchange for services. But not necessarily.-->
+<!--- There's a mercenary component to my actions. I work for money, not because of money. I need money, yet don't desire it. Sometimes we can skip the money part altogether, but don't count on it.-->
+<!--TODO: expand-->
+<!--TODO: does this belong here?-->
 
 ## About what next
