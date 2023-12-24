@@ -2,10 +2,13 @@
 title = "About"
 +++
 
-<!--todo: meta-->
-<!--what exactly do I mean by about-->
+I belive that you came here for a reason. If that reason is mundane enough that you find my job history of high significance you'll be way better serviced by [this page](/3party).
 
-<!--todo: how can I help you-->
+## Meta
+> What is the purpose of this?  
+> ~ Julia
+
+This page exists to set expectations and provide context. You can think of it as a conceptual intro to an operations manual.
 
 This is not a bio. I loathe bios. Makes me think about these drones that start a presentation by saying:
 
@@ -13,23 +16,40 @@ This is not a bio. I loathe bios. Makes me think about these drones that start a
 
 There's just something profane and deficient in trying to cast a persona into a few lines of text to provide a false sense of familiarity. So I won't.
 
+This page is a collection of sections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
+ 
+## Intro
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg/800px-Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg)
 <!--TODO: do the attribution correctly-->
 <!--TODO: self-host -->
 
-The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. In their flute-induced trance they had no names for they are all Kosh.
+The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Interchangable. In their flute-induced trance they had no names for they are all Kosh.
 
 I'm the second guy from the left.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Or am I?
 
-<!--todo: for recruiters-->
-<!--Am I a Java monk?-->
-<!--I'm not sure if this section is warranted-->
+Now that your tabula has been rasa I invite you on a journey.
+<br>
+<br>
+<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
 ## About personality traits
-Now that your tabula has been rasa I invite you on a journey.
-<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
 Personality traits seems like a reasonable foundation since they're fairly stable and tend to explain a lot.
 
@@ -181,8 +201,9 @@ It doesn't matter. I've had 0 years of experience with icalendar, but I can read
 
 > In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~[Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
-I'm a shaman. My specialisation is the generation of insight through the use of pshychotechnologies. One of the practical application may be programming computers to solve problems. What would a writer do without a pen? Use a typewriter or a quill!
-<!--TODO: acquisition of insight?-->
+I'm a shaman. My specialisation is the acquisition of insight through the use of pshychotechnologies. One of the practical application may be programming computers to solve problems. What would a writer do without a pen? Use a typewriter or a quill!
 
-## About ethics
+## About what can I do for you
+
+## About ethics - what I won't do for you
 
