@@ -182,13 +182,11 @@ I've told you a few stories, but what you interact with will be a system. Alan K
 
 > When individuals are extraverted and conscientious, they are more productive than if they are introverted and conscientious.
 
-The stories will influence each other. Twist and tangle in a myriad of colours and swarm of shapes.
+The stories will influence each other. Twist and tangle in a myriad of colours and swarm of shapes. In my case apply one additional spin to the resulting image. I consider myself not only a special snowflake, but a also particularly complex one.
 
-I consider myself not only a special snowflake, but a also particularly complex one. Think spaceship vs bike. Neither is necessarily better. I can think of a synergy where Extraversion and Neuroticism (sensitivity to positive and negative emotions) grant me access to input, which can be studied meticulously [with the support of Conscientiousness and Disagreeableness] in a novel way due to Openness. This is how you find madness in methods and methods in madness. But remember, same affordances are granted to failure modes too.
+I exhibit neurodivergency markers and treat my own sanity as an elaborate balancing act rather than a given.
 
-Going forward with the spaceship metaphor: I believe there's a lot to balance and self-regulate, but once that achieved (and I had a bit of practice over the years) I can go where no bike has gone before.
-
-Some keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system
+This is how you find madness in methods and methods in madness.
 
 ## About values
 
@@ -205,5 +203,13 @@ I'm a shaman. My specialisation is the acquisition of insight through the use of
 
 ## About what can I do for you
 
+> What does that mean?  
+> ~ Julia
+
+<!--TODO: expand-->
+
+Some keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system, learning, knowledge, conginitive
+
 ## About ethics - what I won't do for you
 
+## About what next
