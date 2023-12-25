@@ -207,7 +207,7 @@ I'm a shaman. My specialisation is the acquisition of insight through altered st
 > ~ Virginia Vidaura 
 
 ## About what can I do for you
-We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. Though a shaman is not a kitchen appliance - I don't exist with the specific purpose of being useful.
+We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. A shaman is not a kitchen appliance - I don't exist with the specific purpose of being useful.
 
 The question "what can I do for you" is loaded. For the people that want to go beyond I'd say: think one thought and then think "acquisition of insight". Think "psychotechnology". If your mind does the mental equivalent of a crisp *ding, ding, ding* - [proceed to the next section](#about-ethics---what-i-wont-do-for-you).
 
