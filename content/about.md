@@ -80,7 +80,9 @@ I have 0 problem with talking to people, talking to people on the phone (I'm awa
 
 ### High Neuroticism
 
-> High levels of neuroticism may interfere with both success and satisfaction in relationships and career. [...] They are also more likely to be unhappy, anxious and irritable when just thinking or remembering, and when they encounter a genuine problem. [...] They tend to experience somewhat higher levels of doubt and worry, become embarrassed a bit more easily, are self-conscious and may get discouraged more rapidly in the face of threat and punishment. [...] They can be stirred up and upset and, once angry or irritated, take a longer than average time to calm down. They can be argumentative and lose their composure.
+I have it on good authority, from different sources that it's **not** immediately obvious that I score high on trait Neuroticism.
+
+> High levels of neuroticism may interfere with both success and satisfaction in relationships and career. [...] They are also more likely to be unhappy, anxious and irritable when just thinking or remembering, and when they encounter a genuine problem. [...] They tend to experience somewhat higher levels of doubt and worry, become embarrassed a bit more easily, are self-conscious and may get discouraged more rapidly in the face of threat and punishment. 
 
 Seems awful, right? Well, check this out:
 
@@ -88,9 +90,16 @@ Seems awful, right? Well, check this out:
 
 Now that's pretty useful! Though this gift of sight comes at terrible price. I mean it in some sort of crude sense, which no vulgarity, no humor, no overstatement can quite extinguish.
 
+> They can be stirred up and upset and, once angry or irritated, take a longer than average time to calm down. They can be argumentative and lose their composure.
+
 In practice I'm quite good at handling short-lived, concrete stressful situations (think fire!). I hate perpetual vague sense of something's-not-right though. My working theory is that my negative emotion baseline is elevated so a spike is not as disturbing by comparison, yet and additional constant effect is just too much.
 
 > Individuals high in volatility [an aspect of neuroticism] tend to vary in their mood.
+
+That's accurate. Miłosz Brzeziński defines emotional stability (kindly please notice: lowercase) as the time to recover after reacting to disturbing event. I think mine is significantly lower than average.
+<!--TODO: podcast w związku - link do momentu wypowiedzi-->
+
+I highly encourage reaching out if you belive this part might be problematic in our upcoming venture. It may, that's a fact, but likely in a vastly different area and not nearly as much as you might intially think.
 
 ### Brief intermission
 
