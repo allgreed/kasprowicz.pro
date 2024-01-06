@@ -14,7 +14,7 @@ There's just something profane and deficient in trying to cast a persona into a 
 > I would imagine this about page is supposed to show of mostly your professional side and not all that embodies your humanity.  
 > ~ Matilda Dugan
 
-I believe it doesn't work like that. We live in the age of ubiquitous lenses and amplifiers. In the age when countless machines will multiply and enforce someone's will. Machines rented on demand, by the bushel, following to the letter the orders of their operators. That's why individuals and their interactions matter, now, more than ever. That's why it's so intertwined. It was Galahad questing for the Holy Grail. Not someone else. Not questing for a bacon sandwich. Not Galahad just chillin' in the castle. Nor the castle being chilled in.
+I believe it doesn't work like that. We live in the age of ubiquitous lenses and amplifiers. In the age when countless machines multiply and enforce someone's will billion times a second. Machines rented on demand, by the bushel, following to the letter the orders of their operators. That's why individuals and their interactions matter, now, more than ever. That's why it's so intertwined. It was Galahad questing for the Holy Grail. Not someone else. Not questing for a bacon sandwich. Not Galahad just chillin' in the castle. Nor the castle being chilled in.
 <!--Operators? I'd like to say players but don't quite like it...-->
 
 Finally, this page is a collection of sections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
