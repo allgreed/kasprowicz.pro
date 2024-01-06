@@ -3,7 +3,7 @@ title = "About"
 +++
 
 ## Meta
-This page exists to set the stage or provide context. You can think of it as a conceptual intro to an operations manual. Or a "conclusions" part of a blamesless post-mortem.
+This page exists to set the stage or provide context. You can think of it as a conceptual intro to an operations manual. Or part of a blamesless post-mortem where you finally realize how it could happen.
 
 This is not a bio. I loathe bios. Makes me think about these drones that start a presentation by saying:
 
