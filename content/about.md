@@ -2,21 +2,22 @@
 title = "About"
 +++
 
-I belive that you came here for a reason. If that reason is mundane enough that you find my job history of high significance you'll be way better serviced by [this page](/3party).
-
 ## Meta
-> What is the purpose of this?  
-> ~ Julia
-
-This page exists to set expectations and provide context. You can think of it as a conceptual intro to an operations manual.
+This page exists to set the stage or provide context. You can think of it as a conceptual intro to an operations manual. Or a "conclusions" part of a blamesless post-mortem.
 
 This is not a bio. I loathe bios. Makes me think about these drones that start a presentation by saying:
 
-> My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. In my free time I like to do self-improvement.
+> My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. In my free time I like to do an unspecified, yet bland kind of physical activity.
 
 There's just something profane and deficient in trying to cast a persona into a few lines of text to provide a false sense of familiarity. So I won't.
 
-This page is a collection of sections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
+> I would imagine this about page is supposed to show of mostly your professional side and not all that embodies your humanity.  
+> ~ Matilda Dugan
+
+I believe it doesn't work like that. We live in the age of ubiquitous lenses and amplifiers. In the age when countless machines will multiply and enforce someone's will. Machines rented on demand, by the bushel, following to the letter the orders of their operators. That's why individuals and their interactions matter, now, more than ever. That's why it's so intertwined. It was Galahad questing for the Holy Grail. Not someone else. Not questing for a bacon sandwich. Not Galahad just chillin' in the castle. Nor the castle being chilled in.
+<!--Operators? I'd like to say players but don't quite like it...-->
+
+Finally, this page is a collection of sections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
  
 ## Intro
 
@@ -24,9 +25,23 @@ This page is a collection of sections. The contents of the sections are rather s
 <!--TODO: do the attribution correctly-->
 <!--TODO: self-host -->
 
-The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Interchangable. In their flute-induced trance they had no names for they are all Kosh.
+The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Interchangeable. In their flute-induced trance they had no names for they are all Kosh.
 
-I'm the second guy from the left.
+<!--
+> I would imagine this about page is supposed to show of mostly your professional side and not all that embodies your humanity.  
+> ~ Matilda Dugan
+-->
+<!--What does professional mean exactly? Uniform performers?-->
+
+I'm the second guy from the left. 
+
+<!--What's the highest tenet of corporate social responsibility?-->
+
+<!--I'm the woman taking the picture.-->
+
+<!--Can you holistically optimize interactive networks? How many years of experience?-->
+
+<!--I'm the voice reading this in your head. I'm Jack's unpaid leave. I'm the pickled ginger in a sushi takeout.-->
 <br>
 <br>
 <br>
@@ -43,13 +58,15 @@ I'm the second guy from the left.
 <br>
 <br>
 Or am I?
-
-Now that your tabula has been rasa I invite you on a journey.
 <br>
 <br>
-<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
+<br>
+<br>
+<br>
+Hello, friend. Now that your tabula has been rasa I invite you on a journey. 
 
 ## About personality traits
+<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
 Personality traits seems like a reasonable foundation since they're fairly stable and tend to explain a lot.
 
@@ -105,7 +122,8 @@ I highly encourage reaching out if you belive this part might be problematic in 
 
 Let me interject for a moment. ~~What you guys are referring to as Linux, is in fact, GNU/Linux...~~ You may be reasonably confused at this point. I'll go on more about it at the end. Doesn't positive emotion mean no negative emotions and vice versa? Well, no.
 
-> Being high in scores of positive emotion is generally an element of the independent trait of extraversion. Neurotic extraverts, for example, would experience high levels of both positive and negative emotional states, a kind of "emotional roller coaster". ~ [Wikipedia](https://en.wikipedia.org/wiki/Neuroticism#Definition)
+> Being high in scores of positive emotion is generally an element of the independent trait of extraversion. Neurotic extraverts, for example, would experience high levels of both positive and negative emotional states, a kind of "emotional roller coaster".  
+~ [Wikipedia](https://en.wikipedia.org/wiki/Neuroticism#Definition)
 
 Is it as fun as it sounds, especially when you add low Agreeableness to the mix? [Yes!](https://www.youtube.com/watch?v=hzMWpfHNYf0&t=3785s)
 
@@ -187,17 +205,22 @@ And redundant. And repetitive. And redundant. And repetitive!
 
 ### On systems
 
-I've told you a few stories, but what you interact with will be a system. Alan Kay has put it beautifully in [this keynote](https://www.youtube.com/watch?v=9MqVfzxAp6A&t=745s). A person is a system, in fact it's sometimes useful to think about a persona as a collection of dreadfully distinct subpersonalities.
+I've told you a few stories, but what you interact with will be a system. Alan Kay has put it beautifully in [this keynote](https://www.youtube.com/watch?v=9MqVfzxAp6A&t=745s). A person is a system, more than the sum of parts for the parts have relationships with regards to one aother. In fact it's sometimes useful to think about a persona as a collection of dreadfully distinct subpersonalities.
 
 > When individuals are extraverted and conscientious, they are more productive than if they are introverted and conscientious.
 
-The stories will influence each other. Twist and tangle in a myriad of colours and swarm of shapes. In my case apply one additional spin to the resulting image. I consider myself not only a special snowflake, but a also particularly complex one.
+The stories will twist and tangle in a myriad of colours and swarm of shapes. In my case apply one additional spin to the resulting image. I consider myself not only a special snowflake, but a also particularly complex one.
 
 I exhibit neurodivergency markers and treat my own sanity as an elaborate balancing act rather than a given.
 
-This is how you find madness in methods and methods in madness.
+This is how you find madness in methods and method in madness.
 
 ## About values
+
+TODO
+
+> Never mind computers. Ira, the most sophisticated machine the human mind can build has in it the limitations of the human mind. Anyone who thinks otherwise does not understand the Second Law of Thermodynamics. I asked for your opinion.  
+> ~ Lazarus Long
 
 ## About profession and specialisation
 I've been asked on a number of ocasions:
@@ -208,9 +231,9 @@ Well, that's not a very sophisticated question. First of all, in the last 4 mont
 
 It doesn't matter. I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
 
-> In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~[Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+> In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~ [Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
-I'm a shaman. My specialisation is the acquisition of insight through altered states of consciousness. A practical application of that may be solving hard problems. Yes, sometimes by programming a computer.
+I'm a shaman. My specialisation is the acquisition of insight through altered states of consciousness. A comercial application of that may be solving hard problems. Yes, sometimes by programming a computer.
 
 > A weapon is a tool. A tool for killing and destroying. And there will be times when, as an Envoy, you must kill and destroy. Then you will choose and equip yourself with the tools that you need. But remember the weakness of weapons. They are an extension--you are the killer and destroyer. You are whole, with or without them.  
 > ~ Virginia Vidaura 
