@@ -11,7 +11,7 @@ This is not a bio. I loathe bios. Makes me think about these drones that start a
 
 There's just something profane and deficient in trying to cast a persona into a few lines of text to provide a false sense of familiarity. So I won't.
 
-> I would imagine this about page is supposed to show of mostly your professional side and not all that embodies your humanity.  
+> I would imagine this about page is supposed to show off mostly your professional side and not all that embodies your humanity.  
 > ~ Matilda Dugan
 
 I believe it doesn't work like that. We live in the age of ubiquitous lenses and amplifiers. In the age when countless machines multiply and enforce someone's will billion times a second. Machines rented on demand, by the bushel, following to the letter the orders of their operators. That's why individuals and their interactions matter, now, more than ever. That's why it's so intertwined. It was Galahad questing for the Holy Grail. Not someone else. Not questing for a bacon sandwich. Not Galahad just chillin' in the castle. Nor the castle being chilled in.
@@ -28,7 +28,7 @@ Finally, this page is a collection of sections. The contents of the sections are
 The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Interchangeable. In their flute-induced trance they had no names for they are all Kosh.
 
 <!--
-> I would imagine this about page is supposed to show of mostly your professional side and not all that embodies your humanity.  
+> I would imagine this about page is supposed to show off mostly your professional side and not all that embodies your humanity.  
 > ~ Matilda Dugan
 -->
 <!--What does professional mean exactly? Uniform performers?-->
