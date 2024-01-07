@@ -17,8 +17,9 @@ init: ## one time setup
 	direnv allow
 
 .PHONY: ftp-deploy build
-ftp-deploy: ## deploy to OVH hosting via ftp
+ftp-deploy: vendor/CV.pdf ## deploy to OVH hosting via ftp
 	ncftpput -R $(FTP_DEPLOY_TARGET) . $(BUILD_ARTIFACTS_FOLDER)/*
+	ncftpput $(FTP_DEPLOY_TARGET) vendor vendor/CV.pdf
 
 build: ## create build artifacts (no postprocessing though)
 	rm -fr $(BUILD_ARTIFACTS_FOLDER)
@@ -27,3 +28,8 @@ build: ## create build artifacts (no postprocessing though)
 .PHONY: help
 help: ## print this message
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+
+vendor/CV.pdf:
+	mkdir -p vendor
+	echo Paste latest CV to vendor/CV.pdf and press enter
+	read

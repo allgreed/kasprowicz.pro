@@ -2,3 +2,6 @@
 dist
 resources
 public
+
+# other stuff
+vendor
