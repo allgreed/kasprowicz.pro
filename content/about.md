@@ -257,7 +257,7 @@ Entering into the realm of probabilities: I think I might help you the most with
 > Make it personal.  
 > ~ Quellcrist Falconer
 
-I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just so happened that so far I've used computers the most.
+I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just happened that so far I've used computers the most.
 
 ## About ethics - what I won't do for you
 <!--Yes,  I need resources and, not too much, mostly fiat currency. We might come to an agreement that you pay me in exchange for services. But not necessarily.-->
