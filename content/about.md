@@ -205,22 +205,77 @@ And redundant. And repetitive. And redundant. And repetitive!
 
 ### On systems
 
+> Knowing many stories is wisdom.  
+> Knowing no stories is ignorance.  
+> Knowing only one story is death.  
+> ~ [Past Grand Archdruid John Michael Greer](https://thearchdruidreport-archive.200605.xyz/2006/05/knowing-only-one-story.html)
+
 I've told you a few stories, but what you interact with will be a system. Alan Kay has put it beautifully in [this keynote](https://www.youtube.com/watch?v=9MqVfzxAp6A&t=745s). A person is a system, more than the sum of parts for the parts have relationships with regards to one aother. In fact it's sometimes useful to think about a persona as a collection of dreadfully distinct subpersonalities.
 
 > When individuals are extraverted and conscientious, they are more productive than if they are introverted and conscientious.
 
 The stories will twist and tangle in a myriad of colours and swarm of shapes. In my case apply one additional spin to the resulting image. I consider myself not only a special snowflake, but a also particularly complex one.
 
-I exhibit neurodivergency markers and treat my own sanity as an elaborate balancing act rather than a given.
-
-This is how you find madness in methods and method in madness.
+I exhibit neurodivergency markers and treat my own sanity as an elaborate balancing act rather than a given. This is how you find madness in methods and method in madness.
 
 ## About values
 
-TODO
+What are values and how they're different from beliefs
+-> values are somewhat a predecision
+-> values dictate action
+-> values means you value something more than something else, without comparison it's just a wish
+ 
+### Priority: finding better truth
 
-> Never mind computers. Ira, the most sophisticated machine the human mind can build has in it the limitations of the human mind. Anyone who thinks otherwise does not understand the Second Law of Thermodynamics. I asked for your opinion.  
-> ~ Lazarus Long
+...
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+### Learning/exploring over exploiting
+
+...
+
+### Impact over making money
+
+> The Harkonnens have not water enough to buy the smallest child among us.
+
+...
+
+### Humanity over structure
+
+...
+Fairness is treating different people differently
+...
+
+### Calculation over apperances
+
+People sometimes hold blanket statment belifies, like:
+
+> "Assume good intentions in people."
+
+or
+
+> "Do not waste food."
+
+While I belive it should be a question along the lines of:
+
+!["How does this advance my personal position"](/img/about/gerri.jpg)
+
+I believe in actually understanding the consequences of my future actions and picking the ones I like the most. I belive in giving weird solutions a fair concideration.
+
+I don't care weather someone's title is Assistant Regional Manager or Assitant *to the* Regional Manager. If they're wrong - they're wrong. And vice versa.
+
+> “They say they’ve fortified the graben villages to the point where you cannot harm them. They say they need only sit inside their defenses while you wear yourselves out in futile attack.”  
+> “In a word,” Paul said, “they’re immobilized.”
+
+Caveat: when appearances are a huge part of the equation
+
+### Directness over clever plots
+
+...
+
+Last but not least: important people should wear some kind of accessory designating their status. Like fancy hats. CEOs should wear fancy hats!
 
 ## About profession and specialisation
 I've been asked on a number of ocasions:
@@ -233,13 +288,13 @@ It doesn't matter. I've had 0 years of experience with icalendar, but I can read
 
 > In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~ [Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
-I'm a shaman. My specialisation is the acquisition of insight through altered states of consciousness. A comercial application of that may be solving hard problems. Yes, sometimes by programming a computer.
+or
 
-> A weapon is a tool. A tool for killing and destroying. And there will be times when, as an Envoy, you must kill and destroy. Then you will choose and equip yourself with the tools that you need. But remember the weakness of weapons. They are an extension--you are the killer and destroyer. You are whole, with or without them.  
-> ~ Virginia Vidaura 
+> Specialization is for insects.  
+> ~ Robert Heinlein
 
 ## About what can I do for you
-We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. A shaman is not a kitchen appliance - I don't exist with the specific purpose of being useful.
+I'm a shaman. We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. And a shaman, unlike a kitchen appliance - does not exist with the specific purpose of being useful. 
 
 The question "what can I do for you" is loaded. For the people that want to go beyond I'd say: think one thought and then think "acquisition of insight". Think "psychotechnology". If your mind does the mental equivalent of a crisp *ding, ding, ding* - [proceed to the next section](#about-ethics---what-i-wont-do-for-you).
 
@@ -258,6 +313,9 @@ Entering into the realm of probabilities: I think I might help you the most with
 > ~ Quellcrist Falconer
 
 I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just happened that so far I've used computers the most.
+
+> Never mind computers. Ira, the most sophisticated machine the human mind can build has in it the limitations of the human mind. Anyone who thinks otherwise does not understand the Second Law of Thermodynamics.  
+> ~ Lazarus Long
 
 ## About ethics - what I won't do for you
 <!--Yes,  I need resources and, not too much, mostly fiat currency. We might come to an agreement that you pay me in exchange for services. But not necessarily.-->
