@@ -164,7 +164,7 @@ My "nice" behaviours may be just coming from a different place than the hyperura
 
 In other words:
 
-> In addition, because of their tendency to engage in conflict, at a moment’s notice, people exceptionally low in agreeableness do not sacrifice medium to long-term stability and functionality for the sake of short-term peace.
+> because of their tendency to engage in conflict, at a moment’s notice, people exceptionally low in agreeableness do not sacrifice medium to long-term stability and functionality for the sake of short-term peace.
 
 Better.
 
