@@ -10,7 +10,7 @@ draft = false
 
 ![](/img/no-to-klaps/slate-hero.jpg)
 
-Tak, to na obrazku to klaps. *Slate* /sleɪt/. Zaś kadr pochodzi z *Wody Życia (2023)*. Jak zwał tak zwał. Najważniejsze jest to, że jeśli to czytasz - to zostałeś/aś klapserem przy mikrobudżetowej produkcji filmowej z powodu bycia moim/moją znajomą. I nie masz bladego pojęcia, co tak właściwie masz robić...
+Tak, to na obrazku to klaps. *Slate* /sleɪt/. Zaś kadr pochodzi z *Wody Życia (2024)*. Jak zwał tak zwał. Najważniejsze jest to, że jeśli to czytasz - to zostałeś/aś klapserem przy mikrobudżetowej produkcji filmowej z powodu bycia moim/moją znajomą. I nie masz bladego pojęcia, co tak właściwie masz robić...
 
 ## Po co?
 
