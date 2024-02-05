@@ -11,9 +11,11 @@ Updated February 4th, 2024 from Gdańsk, Poland
 I'm currently not in the process of producing the next thing. I'm in the process of producing *a* next me. This page is a part of it.
 
 ## Unemployment
-Actively landing a job. Preferably infrastructure / admin / (sigh) devops job - to get some solid experience in running production systems.
+Had my taste of freedom, which hencerforth shall be known as my drug of choice.
 
-I'm slowly being affected by the lack of fun money. And by affected I mean constrained. It was insanely worth it to have that time available to me. I had ideas, now I need to fund them.
+I'm slowly being affected by the lack of fun money. And by affected I mean constrained. It was insanely worth it so far, however I feel like now might be a good idea for the tide to turn.
+
+Actively landing a job. One that makes ka-ching. Preferably infrastructure / admin / (sigh) devops job - to get some solid experience in running production systems.
 
 ## Mastermind
 
@@ -55,7 +57,7 @@ Working on my [about page](/about). Personality is done and vetted by 3 people (
 ## Health
 I've discovered Bryan Johnson, been implementing Huberman's routine for a while now. Firstly - it's not worse. Secondly - I think I'm doing better. Fitbit says it's pretty peachy - not perfect, but peachy. Obviously across the tracked biomarkers (VO2Max estimated by resting heart rate, HRV, sleep quality) and given their accuracy. I'm also keeping a steady fat% at ~17.
 
-On the ethyl alcohol consumption side - I'm somewhere between Attia (max 2 drinks / night, max 2 nights / week) and Rutkowski (no point in ever having another drop). I've seen the data first hand (HRV dropping to 18 after New Years Eve) and learned humility.
+On the ethyl alcohol consumption side - I'm somewhere between Attia (max 2 drinks / night, max 2 nights / week) and Rutkowski (no point in ever having another drop). I've seen the data first hand (HRV dropping to 18 after New Years Eve) and learned humility. It is just as bad as they say.
 
 Been watching some doctors on Przemek Górczyk talking about health, diet, sleep, etc. I'm learning a lot and an grateful for how accessible everything is: both the knowledge and the tools. I've added to my shopping list certain blood tests and consultations.
 
