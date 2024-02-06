@@ -25,7 +25,7 @@ Finally, this page is a collection of sections. The contents of the sections are
 <!--TODO: do the attribution correctly-->
 <!--TODO: self-host -->
 
-The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Interchangeable. In their flute-induced trance they had no names for they are all Kosh.
+The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Fungible. In their flute-induced trance they had no names for they are all Kosh.
 
 <!--
 > I would imagine this about page is supposed to show off mostly your professional side and not all that embodies your humanity.  
@@ -64,9 +64,9 @@ Or am I?
 <br>
 <br>
 Hello, friend. Now that your tabula has been rasa I invite you on a journey. 
+<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
 ## About personality traits
-<!--TODO: consult someone who knows enough lating to transalte this correctly xD-->
 
 Personality traits seems like a reasonable foundation since they're fairly stable and tend to explain a lot.
 
@@ -74,7 +74,7 @@ I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Fiv
 
 The quotes in this section, unless stated otherwise, are from [Understand Myself](https://www.understandmyself.com/) report of yours truly and the adjectives ("high", etc.) denote "relative to a [non-existing] perfectly average human". I aimed to pick out the fragments that apply to me the most.
 
-I'd try to highlight the lowlights as well - trait manifestations are neither good nor bad, they're a trade-off.
+I'd try to highlight the **lowlights as well** - trait manifestations are neither good *nor* bad, they're a particular trade-off.
 
 ### High Extroversion
 
@@ -116,14 +116,15 @@ In practice I'm quite good at handling short-lived, concrete stressful situation
 That's accurate. Miłosz Brzeziński defines emotional stability (kindly please notice: lowercase) as the time to recover after reacting to disturbing event. I think mine is significantly lower than average.
 <!--TODO: podcast w związku - link do momentu wypowiedzi-->
 
-I highly encourage reaching out if you belive this part might be problematic in our upcoming venture. It may, that's a fact, but likely in a vastly different area and not nearly as much as you might intially think.
+I highly encourage reaching out if you believe this part might be problematic in our upcoming venture. It may, that's a fact, but likely in a vastly different area and not nearly as much as you might initially think.
 
 ### Brief intermission
 
 Let me interject for a moment. ~~What you guys are referring to as Linux, is in fact, GNU/Linux...~~ You may be reasonably confused at this point. I'll go on more about it at the end. Doesn't positive emotion mean no negative emotions and vice versa? Well, no.
 
 > Being high in scores of positive emotion is generally an element of the independent trait of extraversion. Neurotic extraverts, for example, would experience high levels of both positive and negative emotional states, a kind of "emotional roller coaster".  
-~ [Wikipedia](https://en.wikipedia.org/wiki/Neuroticism#Definition)
+~ [Wikipedia back by a journal](https://en.wikipedia.org/wiki/Neuroticism#Definition)
+<!--Julia says Wikipedia is a bad source, but following the source seems like work...-->
 
 Is it as fun as it sounds, especially when you add low Agreeableness to the mix? [Yes!](https://www.youtube.com/watch?v=hzMWpfHNYf0&t=3785s)
 
@@ -143,20 +144,19 @@ Indeed.
 
 > Very orderly people are uncommonly disturbed and disgusted by mess and chaos. They keep everything neat, tidy and organized. [...] They make and stick to schedules. They like everything exactly where it should be – and very much want to make sure that everything stays where it belongs. They are detail-oriented to a degree that can border on the obsessive. They can be very good at ensuring that complex sensitive processes are managed properly and carefully.
 
-I think this is pretty balanced.
+Pretty balanced IMO.
 
 > They are strikingly rule-abiding, and insist that rules are scrupulously observed. They require and crave routine and predictability. [...] They want to do things by the book. 
 
-Caveat: yes, rules and books, but in my case it's not authoritarian laws rules and mainstream culture books. It's more of "the best rules I could come by" and the platonic heaven book.
+Well now, inflexible much? ~~Au contraire!~~ maybe a bit. I wouldn't say it's exactly "craving" routine. More like ordering the affairs of the day until an optimal blueprint is produced. Same goes for the "rule and book" thingy - it's true, however it is by no means obvious *which* code I'm such a meticulous follower of.
 
 ### Exceptionally low Agreeableness
 
 > Agreeableness is a very complex trait, with marked positive and negative elements all along its distribution. Because of this, higher scores and lower scores need to be explained at the same time. People high in agreeableness are nice: compliant, nurturing, kind, naively trusting and conciliatory. However, because of their tendency to avoid conflict, they often dissemble and hide what they think. People low in agreeableness are not so nice: stubborn, dominant, harsh, skeptical, competitive and, in the extreme, even predatory. However, they tend to be straightforward, even blunt, so you know where they stand. 
 
-I'll reiterate - this is **not** agreeableness as in "getting along", this is Agreeableness the trait. If this sounds hard-core to you it's not as extreme. But it's no picnic either. My Neuroticism and Orderliness keeps me in check more often than not - so don't expect tantrums or scenes.
+If this sounds hard-core to you - it's not as extreme. But no picnic either. My Neuroticism and Orderliness keeps me in check more often than not - so don't expect tantrums or scenes. I'll reiterate - this is **not** agreeableness as in "getting along", this is Agreeableness the trait. 
 
 As mentioned earlier - the traits are relative to the "average" and there are bounds on a person that functions in a society - too agreeable will be clinically codependent, not agreeable enough will end up killed or in jail. What I mean is that the differences aren't that staggering and you'll not see immediately low Agreeableness markers. In fact an appearance study I did (n=6) supports this claim.
-
 
 My "nice" behaviours may be just coming from a different place than the hyperuranic niceness.
 
@@ -164,7 +164,7 @@ My "nice" behaviours may be just coming from a different place than the hyperura
 
 In other words:
 
-> because of their tendency to engage in conflict, at a moment’s notice, people exceptionally low in agreeableness do not sacrifice medium to long-term stability and functionality for the sake of short-term peace.
+> Because of their tendency to engage in conflict, at a moment’s notice, people exceptionally low in agreeableness do not sacrifice medium to long-term stability and functionality for the sake of short-term peace.
 
 Better.
 
@@ -220,6 +220,9 @@ I exhibit neurodivergency markers and treat my own sanity as an elaborate balanc
 
 ## About values
 
+I've mentioned "the code" earlier
+Strong opinions weakly held <- ish?
+    Likely much less stable than personality
 What are values and how they're different from beliefs
 -> values are somewhat a predecision
 -> values dictate action
@@ -235,6 +238,10 @@ the right, we value the items on the left more.
 ### Learning/exploring over exploiting
 
 ...
+
+<!--TODO: don't mistake learning for inaction-->
+> But there was now no man to whom AC might give the answer of the last question. No matter. The answer -- by demonstration -- would take care of that, too.  
+> ~ [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 
 ### Impact over making money
 
@@ -284,7 +291,10 @@ I've been asked on a number of ocasions:
 
 Well, that's not a very sophisticated question. First of all, in the last 4 months ropjar was entirely transformed and no longer resembles anything flopnaxable. I've worked with ropjar 2 years ago, I reconfigured the rilkef about 3 times over the course of 6 months, each time it took 5 days. What number is right? 2? 15/365? 0.5? If you want a real number - that'd be Π, but I might have something perfect [for you] - 3!
 
-It doesn't matter. I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
+> Now it is demanded you are specialist first, generalist second, especially since programming is perceived as this "super hard thing" to learn that most people figure it impossible to know more than a few things at once. While developers understand it isn't, people recruiting them believe such stuff [...].  
+> ~ [hn comment](https://news.ycombinator.com/item?id=39229788)
+
+Aside from being immensly unclear - it doesn't matter! I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
 
 > In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~ [Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
