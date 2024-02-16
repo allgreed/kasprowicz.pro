@@ -285,6 +285,9 @@ Caveat: when appearances are a huge part of the equation
 Last but not least: important people should wear some kind of accessory designating their status. Like fancy hats. CEOs should wear fancy hats!
 
 ## About profession and specialisation
+> Specialization is for insects.  
+> ~ Robert Heinlein
+
 I've been asked on a number of ocasions:
 
 > How many years of experience do you have flopnaxing the ropjar?
@@ -294,14 +297,11 @@ Well, that's not a very sophisticated question. First of all, in the last 4 mont
 > Now it is demanded you are specialist first, generalist second, especially since programming is perceived as this "super hard thing" to learn that most people figure it impossible to know more than a few things at once. While developers understand it isn't, people recruiting them believe such stuff [...].  
 > ~ [hn comment](https://news.ycombinator.com/item?id=39229788)
 
-Aside from being immensly unclear - it doesn't matter! I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
+Aside from being immensly unclear and loaded - it also doesn't matter! I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
 
 > In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~ [Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
-or
-
-> Specialization is for insects.  
-> ~ Robert Heinlein
+Additional recommended: [Master Foo and the Recruiter](http://catb.org/~esr/writings/unix-koans/recruiter.html)
 
 ## About what can I do for you
 I'm a shaman. We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. And a shaman, unlike a kitchen appliance - does not exist with the specific purpose of being useful. 
