@@ -41,7 +41,7 @@ What remains is not chaos by any definition, yet requires my attention. I'll nam
 - Little black book with a purple band
 - Fumes
 - Tanner
-- Gnosis deck
+- ~~Gnosis deck~~
 - Forensics
 - and a vivisected rolodex
 
