@@ -5,8 +5,6 @@ title = "What I’m doing now"
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
 Updated February 4th, 2024 from Gdańsk, Poland
-<!--- TODO: do some build magic so that this is worked out from commit-->
-<!--- or is updating the date part of the fun? :D -->
 
 I'm currently not in the process of producing the next thing. I'm in the process of producing *a* next me. This page is a part of it.
 
@@ -39,11 +37,11 @@ What remains is not chaos by any definition, yet requires my attention. I'll nam
 - Alt wave
 - The spider
 - Little black book with a purple band
-- Fumes
+- ~~Fumes~~
 - Tanner
-- Gnosis deck
+- ~~Gnosis deck~~
 - Forensics
-- and a vivisected rolodex
+- ~~and a vivisected rolodex~~
 
 So I don't think I'm done. Not entirely. But I'm more than than I was 2 months ago and infinitely more done than when I'd stared. Therefore if I see Emily and she asks - I'll have to tell her what I've told her for the past year - "almost".
 
