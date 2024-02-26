@@ -4,59 +4,95 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated February 4th, 2024 from Gdańsk, Poland
+Updated February 26th, 2024 from Gdańsk, Poland
 
-I'm currently not in the process of producing the next thing. I'm in the process of producing *a* next me. This page is a part of it.
+I'm updating this page whenever someone asks me "what's up" and I feel like the information is no longer current. Or before a mastermind group meet (which is ~monthly).
 
-## Unemployment
-Had my taste of freedom, which hencerforth shall be known as my drug of choice.
+This time it was Tymoteusz.
 
-I'm slowly being affected by the lack of fun money. And by affected I mean constrained. It was insanely worth it so far, however I feel like now might be a good idea for the tide to turn.
+## Active funnel
 
-Actively landing a job. One that makes ka-ching. Preferably infrastructure / admin / (sigh) devops job - to get some solid experience in running production systems.
+Just like with deep learning in the 80's - I had the right ideas, just lacking on the part of execution. The pipe was clogged, it couldn't be trusted. And since it couldn't be trusted unclogging it became my 26th priority.
 
-## Mastermind
+Søren had figured it out all along. Sometimes a leap of faith is required.
 
-I've managed to reboot my mastermind group with the help from a long forgotten friend. It's finally as grand as I've imagined it would initially be. And more.
+It's fully operational now. All that was required was [minimal tweaking and configuration](https://github.com/allgreed/dotfiles/commit/13d2aa3d76657cca7de538691d2c038f90a6677f). I'll make a talk about my taskwarrior / GTD / information processing setup someday.
 
-We're currently at peak capacity, however please do contact me if you're local and interested. Exceeding capacity is a good problem to have.
+## Funemployment
+> Before enlightenment, chop wood, carry water.  
+> After enlightenment, chop wood, carry water.
+
+You're clearly not paying attention if you don't consider the fourth fundamental function of money - that of being as system of control. 
+
+I believe this has been so far a formative experience and am grateful for the privilege of not dying in the process.
+
+I'm doing an interview take-home assignment. At this point I don't believe there is a "correct" way to admin, it's just a moving target of being not obviously wrong. It can be first-principled.
+
+I've read Dan Luu, I've thought about the Efficient Market Hypothesis. I have nothing to prove anymore, because this is clearly not conclusive of anything. I'm almost ready now. When it happens I'll be ready.
+
+## Nixification & doing things
+
+[Niko](https://github.com/nrabulinski/) happened. Growth happened. Hypercharged. Catalyst has been applied. Intravenous palladium dichloride. Exercises left for the reader? [I am the reader](https://github.com/allgreed/nixos-config/commit/da650becf6f1af8f46e6b82d87de98b4dd8161b8). [We are the reader](https://github.com/allgreed/digitalocean-token-scoper/commit/f0cce5aa344c3eafdee9eac015a783711d7f5554). The knowledge, the power. [Ripe for the taking](https://github.com/allgreed/dotfiles/commit/53cd36234e0125211bc400b63dc524fefe26ea5b). Antifragile. I AM THE READER. 
+
+Through practice I gain correctness  
+Through correctness I gain speed  
+Through speed I gain practice  
+Supreme ascendency
+
+Money makes money  
+Points garner points  
+Just like I told her  
+It's all fucking moronic
 
 ## Purge (terminal stages)
+Context:
+
 > During the last few years I've accumulated a lot of cruft. Debris. Sludge. Be it physical or digital. Upon my desk emerged what I call a pile of chaos. It started as a place for things without a place and became the end to end all ends.
 
-> I can't quite see the progress I'm making. Eric said I'm slacking. That I could be done in 2 days if I really applied myself. He's onto something definitely, but I don't think that's the whole story. The pile... bear with me... is not static. It appears static but in fact is a powerful pattern in an dissipative system. It's lived through a lot, therefore understandably has experience in survival.
+Update:
 
-The pile has been triaged and refined. Turns out most of it wasn't that chaotic to begin with. It's been dealt with. The pure, enriched chaos I've put in a plastic box, can't deal with it now. The box has a beginning and an end. It is complete. That's my offering. The chaos shall take the box first. The box is transparent so that I have a visual indicator on the chaos to air ratio.
+> Eric said I'm slacking. That I could be done in 2 days if I really applied myself.
 
-> As we speak another pile forms. Snakes. Garden.
+He was right. Partially. The some reasonably bound form of the purge could be done in a short, fixed amount of time. However the computer says no. It'll be done when it's done. And that's ok.
 
-It did, outside the box. It is young and weak, yet a pile nonetheless. I will not repeat mistakes of the past.
+> The pile has been triaged and refined. Turns out most of it wasn't that chaotic to begin with. It's been dealt with. The pure, enriched chaos I've put in a plastic box, can't deal with it now. The box has a beginning and an end. It is complete. That's my offering. The chaos shall take the box first. The box is transparent so that I have a visual indicator on the chaos to air ratio.
 
-What remains is not chaos by any definition, yet requires my attention. I'll name each piece for what you've named you have power over:
-- Merchant's nightmare
+It's working so far.
+
+Remaining:
+- Merchant's nightmare (now all in one place)
 - Alt wave
 - The spider
 - Little black book with a purple band
-- ~~Fumes~~
 - Tanner
-- ~~Gnosis deck~~
-- Forensics
-- ~~and a vivisected rolodex~~
+- Mathew's stuff
 
-So I don't think I'm done. Not entirely. But I'm more than than I was 2 months ago and infinitely more done than when I'd stared. Therefore if I see Emily and she asks - I'll have to tell her what I've told her for the past year - "almost".
+Therefore...
 
-There's also some Mathew's stuff (in a box ofc) and 2 books I won't be needing until April at the earliest. The box is a problem, the books aren't.
+> So I don't think I'm done. Not entirely. But I'm more than than I was 2 months ago and infinitely more done than when I'd stared. Therefore if I see Emily and she asks - I'll have to tell her what I've told her for the past year - "almost".
 
-I have spoken.
+After I've completed the list by a broad definition of complete - then it'll be done. You may have noticed some stuff missing from the list - I'm learning the attitude of the knife - you'll never hear of them again. Guess I can just avoid Emily until then.
 
-## Know thyself / future
-Working on my [about page](/about). Personality is done and vetted by 3 people (need to apply Julia's suggestions though at the time of writing). It's time for values.
+## Secrets
+
+In the past 48 hours I've engaged in 2 secret projects. By a very broad definition of a project.
+
+Also: Simon says I'm thinking I'm Spider Jerusalem.  
+I'm thinking I'm Spider Jerusalem.  
+To be continued.
 
 ## Health
-I've discovered Bryan Johnson, been implementing Huberman's routine for a while now. Firstly - it's not worse. Secondly - I think I'm doing better. Fitbit says it's pretty peachy - not perfect, but peachy. Obviously across the tracked biomarkers (VO2Max estimated by resting heart rate, HRV, sleep quality) and given their accuracy. I'm also keeping a steady fat% at ~17.
+Actually somewhat doing meditation, looking keenly at to the mindfulness exercise.
 
-On the ethyl alcohol consumption side - I'm somewhere between Attia (max 2 drinks / night, max 2 nights / week) and Rutkowski (no point in ever having another drop). I've seen the data first hand (HRV dropping to 18 after New Years Eve) and learned humility. It is just as bad as they say.
+I've tried dead hangs, the muscles near the shoulder blades (probably have a fancy Latin name) hurt af. My massage therapists got sick so I'm not very interested in further experimentation at the moment. Should probably consult with a personal trainer and set up an actual well thought-out routine.
 
-Been watching some doctors on Przemek Górczyk talking about health, diet, sleep, etc. I'm learning a lot and an grateful for how accessible everything is: both the knowledge and the tools. I've added to my shopping list certain blood tests and consultations.
+I've drawn blood to feed the Global Minotaur. I didn't have any petrodollars on hand to feed the Minotaur, but we've came to an agreeable solution. I've drawn blood. My own. Settled on a battery of ~21 tests (some are panels, so do they count as 1 or as the number of subtests) to be done yearly. This is the price for knowledge and I've literally got it at a discount.
 
-Looking keenly at meditation and getting back to the mindfulness exercise.
+I've taken up swing dancing, particularly I think the variety I do is called "Lindy Hop". I've danced to live music. Enrico told me it's good for the soul. I happen to concur.
+
+## Still:
+- Will take on first reasonable paid work offer, with a huge margin for "reasonable". Preferably infrastructure / admin / (sigh) devops job - to get some solid experience in running production systems.
+- Please do contact me if you're local and interested [in a mastermind group].
+- Working on my [about page](/about). Now doing values, though it's on a backburner *right* now.
+- In the process of producing *a* next me.
+- Snakes. Garden.
