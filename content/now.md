@@ -75,16 +75,16 @@ After I've completed the list by a broad definition of complete - then it'll be 
 
 ## Secrets
 
-In the past 48 hours I've engaged in 2 secret projects. By a very broad definition of a project.
+In the past 72 hours I've engaged in 3 secret projects. By a very broad definition of a project.
 
 Also: Simon says I'm thinking I'm Spider Jerusalem.  
 I'm thinking I'm Spider Jerusalem.  
 To be continued.
 
 ## Health
-Actually somewhat doing meditation, looking keenly at to the mindfulness exercise.
+Actually somewhat doing meditation, looking keenly at returning to the mindfulness exercise.
 
-I've tried dead hangs, the muscles near the shoulder blades (probably have a fancy Latin name) hurt af. My massage therapists got sick so I'm not very interested in further experimentation at the moment. Should probably consult with a personal trainer and set up an actual well thought-out routine.
+I've tried dead hangs - the muscles near the shoulder blades (probably have a fancy Latin name) hurt af. My massage therapists got sick so I'm not very interested in further experimentation at the moment. Should probably consult with a personal trainer and set up an actual well thought-out routine.
 
 I've drawn blood to feed the Global Minotaur. I didn't have any petrodollars on hand to feed the Minotaur, but we've came to an agreeable solution. I've drawn blood. My own. Settled on a battery of ~21 tests (some are panels, so do they count as 1 or as the number of subtests) to be done yearly. This is the price for knowledge and I've literally got it at a discount.
 
