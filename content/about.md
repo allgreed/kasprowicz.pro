@@ -9,7 +9,9 @@ This is not a bio. I loathe bios. Makes me think about these drones that start a
 
 > My name is Donald Disposable, I've been working at E-Corp for $wayTooMany years as a glorified paper pusher and or doormat. In my free time I like to do an unspecified, yet bland kind of physical activity.
 
-There's just something profane and deficient in trying to cast a persona into a few lines of text to provide a false sense of familiarity. So I won't.
+There's just something profane and deficient in trying to cast a persona into an information dense-ish short form to provide a false sense of familiarity. [Unless you *really* do it right](https://blog.glyph.im/2015/01/the-glyph.html). I won't.
+
+### Prepare
 
 > I would imagine this about page is supposed to show off mostly your professional side and not all that embodies your humanity.  
 > ~ Matilda Dugan
@@ -17,8 +19,12 @@ There's just something profane and deficient in trying to cast a persona into a 
 I believe it doesn't work like that. We live in the age of ubiquitous lenses and amplifiers. In the age when countless machines multiply and enforce someone's will billion times a second. Machines rented on demand, by the bushel, following to the letter the orders of their operators. That's why individuals and their interactions matter, now, more than ever. That's why it's so intertwined. It was Galahad questing for the Holy Grail. Not someone else. Not questing for a bacon sandwich. Not Galahad just chillin' in the castle. Nor the castle being chilled in.
 <!--Operators? I'd like to say players but don't quite like it...-->
 
-Finally, this page is a collection of sections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
+### Subsection
+
+Finally, this page is a collection of sections with subsections. The contents of the sections are rather shadows on the wall of the cave than the thing-in-itself. There isn't a proper order to the sections (and subsections are often rather unordered and just linearized for the sake of the medium) though I've aimed for the least wrong one on average. This page will never get you *there* - but it will get you closer.
  
+In the future I'll convert it to a standard mind map format, poetry will be made by everyone and there'll be emus in the zone.
+
 ## Intro
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg/800px-Daikokuji-Sasayama_Komus%C5%8D_Shakuhachi_%E5%A4%A7%E5%9B%BD%E5%AF%BA%EF%BC%88%E7%AF%A0%E5%B1%B1%E5%B8%82%EF%BC%89%E4%B8%B9%E6%B3%A2%E8%8C%B6%E7%A5%AD%E3%82%8A_%E8%99%9A%E7%84%A1%E5%83%A7_DSCF1443.jpg)
@@ -27,21 +33,18 @@ Finally, this page is a collection of sections. The contents of the sections are
 
 The komusō - monks of empty, priests of nothingness. They came from rags and from nobility. By the order of shōguns they were granted the right of free travel. They had no faces, no identity. Fungible. In their flute-induced trance they had no names for they are all Kosh.
 
-<!--
-> I would imagine this about page is supposed to show off mostly your professional side and not all that embodies your humanity.  
-> ~ Matilda Dugan
--->
-<!--What does professional mean exactly? Uniform performers?-->
-
 I'm the second guy from the left. 
 
+<!--TODO: make it exist but the color of the background-->
 <!--What's the highest tenet of corporate social responsibility?-->
 
 <!--I'm the woman taking the picture.-->
 
 <!--Can you holistically optimize interactive networks? How many years of experience?-->
 
-<!--I'm the voice reading this in your head. I'm Jack's unpaid leave. I'm the pickled ginger in a sushi takeout.-->
+<!-- While reading this it's my voice that your hear. I'm the voice inside your skull. I'm Jack's unpaid leave. I'm the pickled ginger in a sushi takeout.-->
+
+<!-- Will you please share your updated CV? WILL YOU PLEASE SHARE YOUR UPDATED CV?!! -->
 <br>
 <br>
 <br>
@@ -322,7 +325,7 @@ Entering into the realm of probabilities: I think I might help you the most with
 > Make it personal.  
 > ~ Quellcrist Falconer
 
-I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just happened that so far I've used computers the most.
+I have some expertise in programming computers. I can think; and write what I think; and speak what I wrote. I know how to do a few other things. Apparently I'm [an engineer](https://www.hillelwayne.com/post/are-we-really-engineers/) after all. And will learn whatever is necessary to get the job done. I hope by now you see know how missing the point "what *exactly* do you do" is. It just happened that so far I've used computers the most.
 
 > Never mind computers. Ira, the most sophisticated machine the human mind can build has in it the limitations of the human mind. Anyone who thinks otherwise does not understand the Second Law of Thermodynamics.  
 > ~ Lazarus Long
