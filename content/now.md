@@ -39,11 +39,6 @@ Through correctness I gain speed
 Through speed I gain practice  
 Supreme ascendency
 
-Money makes money  
-Points garner points  
-Just like I told her  
-It's all fucking moronic
-
 ## Purge (terminal stages)
 Context:
 
