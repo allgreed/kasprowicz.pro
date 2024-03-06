@@ -55,7 +55,7 @@ He was right. Partially. The some reasonably bound form of the purge could be do
 It's working so far.
 
 Remaining:
-- Merchant's nightmare (now all in one place)
+- Merchant's nightmare
 - Alt wave
 - The spider
 - Little black book with a purple band
@@ -67,6 +67,15 @@ Therefore...
 > So I don't think I'm done. Not entirely. But I'm more than than I was 2 months ago and infinitely more done than when I'd stared. Therefore if I see Emily and she asks - I'll have to tell her what I've told her for the past year - "almost".
 
 After I've completed the list by a broad definition of complete - then it'll be done. You may have noticed some stuff missing from the list - I'm learning the attitude of the knife - you'll never hear of them again. Guess I can just avoid Emily until then.
+
+### Merchant's nightmare
+
+I have the following item for sale, asking price without shipping, items are used:
+- "Bang!" game in Polish with Doge City expansion, all cards sleeved, 80 PLN
+- "Ca$h'n Gun$" game in Polish, all cards sleeved, 120 PLN
+- The Godfather: Corleone's Empire game in Polish, all cards sleeved, 400 PLN 
+- Certina Ds Action Diver Powermatic C032.607.11.091.00, 3500 PLN
+- Waterman Allure Black GT, but the **old one in matte black precision finish**, not this crap that's currently marketed as Allure, afaik no longer produced / officialy sold, 700 PLN due to the rarity factor
 
 ## Secrets
 
