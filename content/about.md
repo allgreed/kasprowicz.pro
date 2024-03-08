@@ -260,19 +260,11 @@ Fairness is treating different people differently
 
 ### Calculation over apperances
 
-People sometimes hold blanket statment belifies, like:
+See also: [consequentialism](https://en.wikipedia.org/wiki/Consequentialism)
 
-> "Assume good intentions in people."
+I believe in actually understanding the consequences of my future actions and picking the ones I like the most. I belive in giving weird solutions a fair concideration. Actually I might be biased slightly towards weird solutions for their cool factor, but that's not strictly part of a value I hold.
 
-or
-
-> "Do not waste food."
-
-While I belive it should be a question along the lines of:
-
-!["How does this advance my personal position"](/img/about/gerri.jpg)
-
-I believe in actually understanding the consequences of my future actions and picking the ones I like the most. I belive in giving weird solutions a fair concideration.
+It's like time travel when you think about it. You have your chance to affect the future-that-will-be-your-past-later-but-sooner-than-you-think.
 
 I don't care weather someone's title is Assistant Regional Manager or Assitant *to the* Regional Manager. If they're wrong - they're wrong. And vice versa.
 
