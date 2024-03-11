@@ -92,6 +92,8 @@ I've tried dead hangs - the muscles near the shoulder blades (probably have a fa
 
 I've drawn blood to feed the Global Minotaur. I didn't have any petrodollars on hand to feed the Minotaur, but we've came to an agreeable solution. I've drawn blood. My own. Settled on a battery of ~21 tests (some are panels, so do they count as 1 or as the number of subtests) to be done yearly. This is the price for knowledge and I've literally got it at a discount.
 
+Relevant biomarkers seem nominal. Guess I could improve on the RHR and HRV front. So... cardio? :D
+
 I've taken up swing dancing, particularly I think the variety I do is called "Lindy Hop". I've danced to live music. Enrico told me it's good for the soul. I happen to concur.
 
 ## Still:
