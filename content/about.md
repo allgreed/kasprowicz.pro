@@ -329,3 +329,6 @@ I have some expertise in programming computers. I can think; and write what I th
 <!--TODO: does this belong here?-->
 
 ## About what next
+
+> I've been thinking about this stuff very seriously for over a decade, and I love that you're the first person who's really let me implement it.  
+> ~ [Sean Coates on Matter's privacy approach](https://seancoates.com/blogs/matter-and-privacy)
