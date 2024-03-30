@@ -4,7 +4,7 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated March 30th, 2024 from Gdańsk, Poland
+Updated March 30th, 2024 from Gdańsk, Poland  
 Reason d'update: mostly Pavel, also it was about a month now and also there's the mastermind meet incoming
 
 ## Open to Work
@@ -22,7 +22,7 @@ I don't care about the next quarter - I care how many preconceptions about life 
 ~~Holywoo Stars and Celebrities...~~ Radical workplace transformation - can it work? Will it work? Let's find out!
 
 ## Health
-Tried to sing up for swing dance classes, but hit a snag (not enough people to start a new group), trying again in April.
+Tried to sign up for swing dance classes, but hit a snag (not enough people to start a new group), trying again in April.
 
 Working on my sleep now with a bit of professional help, turns out it greatly improved my HRV initially. It prompts a lot of changes to my day, which are at least to say interesting. For example I should be outside for an hour after waking up, which turns out  puts a lot of pressure on one's day. That's marvelous though - strong opposing force can result in a stable balance. I hope.
 
