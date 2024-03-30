@@ -1,6 +1,5 @@
 .DEFAULT_GOAL := help
 
-BUILD_ARTIFACTS_FOLDER := dist
 FTP_DEPLOY_TARGET := ovh
 
 .PHONY: all
@@ -18,19 +17,25 @@ init: ## one time setup
 	direnv allow
 
 .PHONY: ftp-deploy build
-ftp-deploy: vendor/CV.pdf ## deploy to OVH hosting via ftp
-	lftp -e "mirror -R  --parallel=8 --verbose dist www; exit" $(FTP_DEPLOY_TARGET)
-	lftp -e "mirror -R  --verbose vendor www/vendor; exit" $(FTP_DEPLOY_TARGET)
+ftp-deploy: vendor/CV.pdf dist ## deploy to OVH hosting via ftp
+	lftp -e "mirror -R  --parallel=8 dist www; exit" $(FTP_DEPLOY_TARGET)
+	lftp -e "mirror -R  vendor www/vendor; exit" $(FTP_DEPLOY_TARGET)
 
-build: ## create build artifacts (no postprocessing though)
-	rm -fr $(BUILD_ARTIFACTS_FOLDER)
-	hugo --destination $(BUILD_ARTIFACTS_FOLDER) --minify
+build: dist ## create build artifacts (no postprocessing though)
 
-.PHONY: help
-help: ## print this message
-	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+dist: clean_dist
+	hugo --destination dist --minify
+
+.PHONY: clean_dist
+clean_dist:
+	rm -fr dist
+	mkdir -p dist
 
 vendor/CV.pdf:
 	mkdir -p vendor
 	echo Paste latest CV to vendor/CV.pdf and press enter
 	read
+
+.PHONY: help
+help: ## print this message
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
