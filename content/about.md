@@ -73,7 +73,7 @@ Hello, friend. Now that your tabula has been rasa I invite you on a journey.
 
 Personality traits seems like a reasonable foundation since they're fairly stable and tend to explain a lot.
 
-I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model, since it's the crow jewel of modern psychometry. In fact all other models that depend on self-reporting are a subset of Big 5 done with varying levels of quality. In this section some words, like *Extroversion*, although have a meaning in the everyday language, should rather be interpreted as precise terms from said model. I'll attempt to capitalise them to further denote that. Equivocation is the mind-killer.
+I'm referring to the [Big 5 or O.C.E.A.N.](https://en.wikipedia.org/wiki/Big_Five_personality_traits) model, since it's the crown jewel of modern psychometry. In fact all other models that depend on self-reporting are a subset of Big 5 done with varying levels of quality. In this section some words, like *Extroversion*, although have a meaning in the everyday language, should rather be interpreted as precise terms from said model. I'll attempt to capitalise them to further denote that. Equivocation is the mind-killer.
 
 The quotes in this section, unless stated otherwise, are from [Understand Myself](https://www.understandmyself.com/) report of yours truly and the adjectives ("high", etc.) denote "relative to a [non-existing] perfectly average human". I aimed to pick out the fragments that apply to me the most.
 
