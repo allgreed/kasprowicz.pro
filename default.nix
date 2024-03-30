@@ -1,10 +1,8 @@
 let
   nixpkgs = builtins.fetchGit {
-    name = "nixos-unstable-2021-03-17";
     url = "https://github.com/nixos/nixpkgs/";
     ref = "refs/heads/nixos-unstable";
-    rev = "266dc8c3d052f549826ba246d06787a219533b8f";
-    # obtain via `git ls-remote https://github.com/nixos/nixpkgs nixos-unstable`
+    rev = "b8697e57f10292a6165a20f03d2f42920dfaf973"; # 4-03-2024
   };
   pkgs = import nixpkgs { config = {}; };
 in
@@ -14,5 +12,6 @@ pkgs.mkShell {
     git
     gnumake 
     ncftp
+    lftp
   ];
 }

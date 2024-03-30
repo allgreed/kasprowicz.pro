@@ -1,3 +1,6 @@
+# I does locking now
+.hugo_build.lock
+
 # build artifacts
 dist
 resources
