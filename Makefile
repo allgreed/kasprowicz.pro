@@ -8,7 +8,8 @@ all: build ftp-deploy ## build and deploy!
 
 .PHONY: ftp-connect run init
 ftp-connect: ## connect to OVH hosting via ftp
-	ncftp $(FTP_DEPLOY_TARGET)
+	lftp $(FTP_DEPLOY_TARGET)
+
 run: ## fire up development server (drafts included)
 	sleep 3 && xdg-open http://localhost:1313/ & # this is a hax - the browser opens before hugo dev server does, but the dev server starts so fast that it works ;d
 	hugo server -w --buildDrafts --buildFuture --bind 0.0.0.0
@@ -18,8 +19,8 @@ init: ## one time setup
 
 .PHONY: ftp-deploy build
 ftp-deploy: vendor/CV.pdf ## deploy to OVH hosting via ftp
-	ncftpput -R $(FTP_DEPLOY_TARGET) . $(BUILD_ARTIFACTS_FOLDER)/*
-	ncftpput $(FTP_DEPLOY_TARGET) vendor vendor/CV.pdf
+	lftp -e "mirror -R  --parallel=8 --verbose dist www; exit" $(FTP_DEPLOY_TARGET)
+	lftp -e "mirror -R  --verbose vendor www/vendor; exit" $(FTP_DEPLOY_TARGET)
 
 build: ## create build artifacts (no postprocessing though)
 	rm -fr $(BUILD_ARTIFACTS_FOLDER)

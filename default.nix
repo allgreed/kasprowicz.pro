@@ -11,7 +11,6 @@ pkgs.mkShell {
     hugo
     git
     gnumake 
-    ncftp
     lftp
   ];
 }
