@@ -15,7 +15,7 @@ I think I'm ready now. I'm missing something and it's not just gargantuan dispos
 
 There are more interesting companies than ever before. Just a few days ago I had a Northvolt recruiter talk to me about Fourth Industrial Revolution and vanilla culture. They're actually using proper psychometrics. I know - Wojtek and Peterson were trying to do it a decade ago, but hey - it's finally happening!
 
-I've been thinking a lot about how the Olgierd-capitalism interface should look like. The [Mark Manson - Cal Newport podcast](https://www.youtube.com/watch?v=KMXjyzNs17k) resonated with me immensely. I don't want to be doing 9-5 Monday-Friday or whatever compromise my socialist ancestors has negotiated with the factory owners. PSA: knowledge economy is so much different from industrial factory work that applying the latter's productivity measure to the former is misguided. It looks reasonable at first glance, however just think about it for a second.
+I've been thinking a lot about how the Olgierd-capitalism interface should look like. The [Mark Manson - Cal Newport podcast](https://www.youtube.com/watch?v=KMXjyzNs17k) resonated with me immensely. I don't want to be doing 9-5 Monday-Friday or whatever compromise my factory owning ancestors had negotiated with the olden days unios. PSA: knowledge economy is so much different from industrial factory work that applying the latter's productivity measure to the former is misguided. It looks reasonable at first glance, however just think about it for a second.
 
 I don't care about the next quarter - I care how many preconceptions about life I can profitably challenge in the next 10 years. We should be having flying cars and mail-order immortality for fuck sake.
 
