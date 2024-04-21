@@ -233,6 +233,9 @@ What are values and how they're different from beliefs
 -> values are somewhat a predecision
 -> values dictate action
 -> values means you value something more than something else, without comparison it's just a wish
+
+> I can do an infinite amount of no work in no time at all
+
  
 ### Priority: finding better truth
 
@@ -275,6 +278,8 @@ I don't care weather someone's title is Assistant Regional Manager or Assitant *
 > “In a word,” Paul said, “they’re immobilized.”
 
 Caveat: when appearances are a huge part of the equation
+
+[works is motion fallacy](http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html?m=1)
 
 ### Directness over clever plots
 
