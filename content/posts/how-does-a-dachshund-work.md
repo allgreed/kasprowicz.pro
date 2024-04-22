@@ -102,6 +102,6 @@ Though short - it illustrates how a hacker might go about solving problems. Down
 
 There's a third way **between** ignoring low business value, yet fascinating issue **and** throwing 8 more woman at a pregnancy project with the hope of speeding it up 8 times.
 
-I sometimes struggle to given an example of how a hacker or a shaman might benefit someone's endeavour. This chess one - not a *great* example - needs more audacity and impact. I'm not there yet, but it's one of the best personal ones I've had lately. 
+I sometimes struggle to give an example of how a hacker or a shaman might benefit someone's endeavour. This chess one - not a *great* case study - a better one would need more audacity and impact, yet it's personal. And sometimes we need to make it personal.
 
 The next best approximation is an animation from the 70s: [How Does a Dachshund Work](https://www.youtube.com/watch?v=r16GL3N4PdM)
