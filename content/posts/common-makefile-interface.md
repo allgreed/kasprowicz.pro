@@ -119,20 +119,9 @@ It's not like I woke up some day and decided to do things this way. This a refle
 
 Furthermore, Make is a mature tool, first appeared in 1976, so around 40+ years ago[^3]. Originated to solve the problem of forgetting to recompile (remember the stuff about C?). It's readily avaible (and might be even preinstalled) on any unix-like platoform. Makefiles are here to stay.
 
-<!--TODO get the quote from Doom-->
-<!--TODO introduce the quote-->
-> Quote here.
->
- —  <cite>Benjamin Franklin</cite>
+There's a number of friends [and strangers](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/) already using them!
 
-## Case studies
-<!-- TODO: introduce this ection -->
-
-### Django
-
-<!--TODO: go bit by bit how would it work with an example django app-->
-
-### Digitalocean Token Scoper
+## Case studiy - Digitalocean Token Scoper
 
 [This project](https://github.com/allgreed/digitalocean-token-scoper) was a spur-of-the-moment product of me having a problem and the desire to finally do something in Golang. It's a real world project, running in production.
 
