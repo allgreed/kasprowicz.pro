@@ -76,7 +76,7 @@ Jeżeli stoisz źle, to operator Cię ustawi. Słuchaj się go/jej. Jego lewo t
 
 Nie zasłaniaj ręką informacji na klapsie, ponieważ patrz punkt pierwszy.
 
-Jak na planie jest focus puller, to czasami ujdzie też stanięcie na centralnie przed kamerą i danie mu przeostrzyć, ale obecność focus pullera nie jest częsta, więc nie licz na to.
+Jak na planie jest focus puller, to czasami ujdzie też stanięcie na centralnie przed kamerą i danie mu przeostrzyć - tylko upewnij się że jest na to zgoda.
 
 Jak totalnie nie wiesz, to możesz się zapytać (info o tym, jak się pytać jest zawarte dalej) gdzie się ustawić. Kogo:
 - tego, kto dał Ci wypełniony klaps (clapper loader)
