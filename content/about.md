@@ -311,7 +311,10 @@ I'm a shaman. We live in a capitalist, nominally meritocratic, somewhat classles
 
 The question "what can I do for you" is loaded. For the people that want to go beyond I'd say: think one thought and then think "acquisition of insight". Think "psychotechnology". If your mind does the mental equivalent of a crisp *ding, ding, ding* - [proceed to the next section](#about-ethics---what-i-wont-do-for-you).
 
+According to Inner War Saga, shamans were (also?) [circumventing the analytical mind](https://www.youtube.com/watch?v=V9sc3nOnFHA) to either explain the world or to allow the aformentioned insight to actually *reach* a person. There are writen records of native people of Australia *ignoring* HMS Endeavour when it first came, because it was so radically different from anything they've ever seen.
+
 More keywords that resonate with me: research, high leverage, open-ended, prototype, interactive, participatory, meaning, system, learning, knowledge, cognitive, stories, myth, finance
+
 
 > What does that mean?  
 > ~ Julia
