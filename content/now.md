@@ -19,7 +19,7 @@ I'm doing the evaluation period at Reef at the moment - having the time of my li
 
 Continuing the chocolate experiment - my heart-related biomarkers look splendid, I'm not sure I can attribute this to chocolate, learned recently that out of the 2kk USD that Bryan spends most goes towards measurements, however all is looking well. I'm not super happy about fat being at >=17% - it makes sense though with my reduced physical activity.
 
-I've been implementing [this](https://www.youtube.com/watch?v=lFhUacH63g8) (careful, in Polish!) as a part of my daily routine - feels good! It might've been less energy expenditure (as per my previous point), however it's easier to be consistent with a ready-made exercise plan that doesn't require any equipment
+I've been implementing [this exercise set](https://www.youtube.com/watch?v=lFhUacH63g8) (careful, in Polish!) as a part of my daily routine - feels good! It might've been less energy expenditure (as per my previous point), however it's easier to be consistent with a ready-made exercise plan that doesn't require any equipment
 
 I'm fascinated by how much progress I've made by only taking 2 months of swing dance classes, there are no courses during the holiday season, yet maybe some workshops?
 
