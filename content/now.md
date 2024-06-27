@@ -11,7 +11,7 @@ Reason d'update: Tymoteusz/Puss/people asking 'sup
 
 Is here, it's just not evenly distributed. I've seen firsthand how [great a recruitment process](https://www.youtube.com/watch?v=lDJA8ZTbVT8) can be. I felt empowered by it. I've learned from it.
 
-I would love to pronounce that in 10 years the bad recruitment companies will be out completed, but I've read enough Dan Luu to know that it might not be the case. But... great process *is* possible!
+I would love to pronounce that in 10 years the bad recruitment companies will be outcompeted, but I've read enough Dan Luu to know that it might not be the case. But... great process *is* possible!
 
 I'm doing the evaluation period at Reef at the moment - having the time of my life :D
 
