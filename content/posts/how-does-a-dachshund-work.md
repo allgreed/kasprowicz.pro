@@ -96,12 +96,10 @@ After tiny bit of manual snags, namely: whitespace around promotion notation o.0
 
 And it was worth it, interesting game - from computer chess history perspective at least. Gotta appreciate the proto-[bongcloud](https://en.wikipedia.org/wiki/Bongcloud_Attack) on move 6!
 
-Why this write-up even exists? It's not exactly groundbreaking.
-
-Though short - it illustrates how a hacker might go about solving problems. Down a rabbit hole, evaluating trade-offs, repurposing tools. There's also the *aikido* notion of leverage. I felt like through minimal force I've cause an effect comparable to writing a custom chess frontend.
+Why this write-up even exists? It's not exactly groundbreaking. Though short - it illustrates how a hacker might go about solving problems. Down a rabbit hole, evaluating trade-offs, repurposing tools. There's also the *aikido* notion of leverage. I felt like through minimal force I've cause an effect comparable to writing a custom chess frontend.
 
 There's a third way **between** ignoring low business value, yet fascinating issue **and** throwing 8 more woman at a pregnancy project with the hope of speeding it up 8 times.
 
 I sometimes struggle to give an example of how a hacker or a shaman might benefit someone's endeavour. This chess one - not a *great* case study - a better one would need more audacity and impact, yet it's personal. And sometimes we need to make it personal.
 
-The next best approximation is an animation from the 70s: [How Does a Dachshund Work](https://www.youtube.com/watch?v=r16GL3N4PdM)
+The next best approximation of "how a hacker" I could think of is this animation from the 70s: [How Does a Dachshund Work](https://www.youtube.com/watch?v=r16GL3N4PdM)
