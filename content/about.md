@@ -346,3 +346,6 @@ I have some expertise in programming computers. I can think; and write what I th
 
 > When I let go of what I am, I become what I might be.
 > ~ Lao Tzu
+
+v- TODO: a page like this
+https://chelseatroy.com/are-you-hiring/
