@@ -46,10 +46,14 @@ There is much joy in reuniting. Remembering. Becoming a member again.
 
 ![](/img/now/track.jpg)
 
+## Addendum: on what I'm actually doing now
+
+I've realised I omitted that bit initially. I think I'm roughly going through the same motions as previously. Except I wouldn't necessarily call it a job search - yes, I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it. I'm completing personal tasks, except now I see tangential progress. I entertain the idea of building something, conducting some research. Right now? I'm performing a balancing act in the electric circus of life. 
+
 ## Call to action!
 Please do contact me if you:
 - have successfully implemented "job placeholder"
-- know about a personal CRM other than [Monica](https://www.monicahq.com) or used Monica. 
+- know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica. 
 - remain intrigued by my approach to work. Offer insight. Desire nuanced conversation on the matter
 - are local and
     - interested in joining a mastermind group (although it *slowly* starts to look like we're having a good problem of too many people)
@@ -62,7 +66,7 @@ Have the following item for sale, asking price without shipping, items are used:
 - The Godfather: Corleone's Empire game in Polish, all cards sleeved, 400 PLN 
 - Certina Ds Action Diver Powermatic C032.607.11.091.00, 3500 PLN
 - Waterman Allure Black GT, but the **old one in matte black precision finish**, not this crap that's currently marketed as Allure, afaik no longer produced / officialy sold, 700 PLN due to the rarity factor
-- Espresso making set - Delonghi Dedica machine with a custom botomless portafilter, IMS basket, tamper with a mat (wood finish matches the portafilter), distribution tool, dosing sleeve, 1200 PLN
+- Espresso making set - Delonghi Dedica machine with a custom botomless portafilter, IMS basket, tamper (wood finish matches the portafilter), dosing sleeve, 1100 PLN
 
 And still:
 - Not yet done with cleaning my room (if Emily asks)
