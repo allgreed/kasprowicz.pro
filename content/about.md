@@ -349,3 +349,5 @@ I have some expertise in programming computers. I can think; and write what I th
 
 v- TODO: a page like this
 https://chelseatroy.com/are-you-hiring/
+v- TODO: approach to work
+https://alexanderobenauer.com/work/
