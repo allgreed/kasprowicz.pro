@@ -48,7 +48,7 @@ There is much joy in reuniting. Remembering. Becoming a member again.
 
 ## Addendum: on what I'm actually doing now
 
-I've realised I omitted that bit initially. I think I'm roughly going through the same motions as previously. Except I wouldn't necessarily call it a job search - yes, I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it. I'm completing personal tasks, except now I see tangential progress. I entertain the idea of building something, conducting some research. Right now? I'm performing a balancing act in the electric circus of life. 
+I've realised I omitted that bit initially. I think I'm roughly going through the same motions as previously. Except I wouldn't necessarily call it a job search - yes, I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it. I'm completing personal tasks, except now I see tangible progress. I entertain the idea of building something, conducting some research. Right now? I'm performing a balancing act in the electric circus of life. 
 
 ## Call to action!
 Please do contact me if you:
