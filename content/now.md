@@ -36,7 +36,7 @@ Good question! Sounds reasonable at first, but I don't think it would work well 
 
 ## On friends, networks and relationships
 
-I've just played Ticket to Ride online with Alice. I think it's important to manage how often you see certain people and be deliberate about it. Recently I've changed the occurrence of two encounters. There's this theory that you have 5 friends slots and it takes 2+ hours a week to maintain such a friendship. And a single romantic relationship takes 2 of those slots ('sup, my poly people?!). Can't remember where I've seen this.
+I've just played Ticket to Ride online with Alice. I think it's important to manage how often you see certain people and be deliberate about it. Recently I've changed the cadence of two recurring encounters. There's this theory that you have 5 friends slots and it takes 2+ hours a week to maintain such a friendship. And a single romantic relationship takes 2 of those slots ('sup, my poly people?!). Can't remember where I've seen this.
 
 My point - it starts to look like something that could benefit from a tracking system. Personal CRM for a lack of a better word. I don't think that I quite need a bit of [Monica](https://www.monicahq.com) in my life - there's something off about making private notes about someone. Or is it? It might be a foundation of something profoundly cool. I imagine having big5 profiles on each person, combining this with time tracking to see what kind of traits am I exposed to how often. I also imagine this data falling into the wrong hands.
 
