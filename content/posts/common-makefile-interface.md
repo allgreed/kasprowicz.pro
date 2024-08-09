@@ -285,3 +285,6 @@ TODO - https://news.ycombinator.com/item?id=30671572
 TODO - https://nullprogram.com/blog/2017/08/20/ <- Makefile target conventions
 TODO potential testimony - https://rosszurowski.com/log/2022/makefiles
 https://bultrowicz.com/continous_validation_with_make_and_entr/
+TODO - https://www.bitecode.dev/p/doit-the-goodest-python-task-runner
+also: just
+TODO - what do I even think of this? - https://redo.readthedocs.io/en/latest/
