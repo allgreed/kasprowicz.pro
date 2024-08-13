@@ -60,15 +60,14 @@ Please do contact me if you:
     - want to do some low transaction-cost sport together
 - want to share some expertise on how to do low-effort portfolio management for people who can't yet afford a portfolio manager
 
-## Still:
+## Bazaar
 Have the following item for sale, asking price without shipping, items are used:
-- "Ca$h'n Gun$" game in Polish, all cards sleeved, 120 PLN
 - The Godfather: Corleone's Empire game in Polish, all cards sleeved, 400 PLN 
 - Certina Ds Action Diver Powermatic C032.607.11.091.00, 3500 PLN
 - Waterman Allure Black GT, but the **old one in matte black precision finish**, not this crap that's currently marketed as Allure, afaik no longer produced / officialy sold, 700 PLN due to the rarity factor
 - Espresso making set - Delonghi Dedica machine with a custom botomless portafilter, IMS basket, tamper (wood finish matches the portafilter), dosing sleeve, 1100 PLN
 
-And still:
+## Still
 - Not yet done with cleaning my room (if Emily asks)
 - Working on my [about page](/about). Writing down values.
 - Snakes. Garden.
