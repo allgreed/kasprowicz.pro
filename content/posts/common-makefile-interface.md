@@ -288,3 +288,4 @@ https://bultrowicz.com/continous_validation_with_make_and_entr/
 TODO - https://www.bitecode.dev/p/doit-the-goodest-python-task-runner
 also: just
 TODO - what do I even think of this? - https://redo.readthedocs.io/en/latest/
+uwaga Pusia: i przez makefile nie przekażesz łatwo specjalnych flag konfiguracyjnych, które chcesz sobie pozmieniać - dopisać
