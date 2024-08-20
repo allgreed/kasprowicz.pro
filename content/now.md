@@ -4,58 +4,47 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated July 25th, 2024 from Gdańsk, Poland  
-Reason d'update: incoming Mastermind meetup
+Updated August 21th, 2024 from Aerodream, Antakalnis, Lithuania  
+Reason d'update: feeling in the moment, also: wanted to post an update from abroad
 
-## On writing
+## On entrepreneurship
 
-How much I've been writing? Not enough  
-How much I've been writing? At least once a month  
-I'm writing now.  
+I'm currently at [Cycle Lithuania](https://www.cyclefreedom.lt/) - a freedom entrepreneurial camp. I've thought I'm neither an entrepreneur nor a businessmen. Turns out I'm definitely an entrepreneur, in fact in entere the shit out of the preneur, and I'm a businessmen (and you are too!), in fact a successful businessmen. What I'm turning my attention towards now is becoming a consistently and repeatably successful businessmen.
+ 
+I cannot recommend the camp enough, I'll send personal invitations, but if either of us misses it... you know what to do! Entrepreneurship is about making things happen!
 
-Seems like an underrated feature of the whole endeavour.
+## Cognitive ability measurement
 
-## On the right sacrifice
+> Why don't you just do it then?  
+> ~ Artūras
 
-Rel: https://www.henrikkarlsson.xyz/p/sacrifice
+I've made the call, Jakub agreed, the first steps commence on Thursday. Stay tuned!
 
-Reef is no more. Very well, will try again next year. I'm back on the market, now trying a smarter approach.
+## On income generation
 
-- My brother was making fun out of the fact that  
-    - it's challenging for me to  
-        - do 4 hours of actual work per day  
+Had plenty of discussions, thought and insights at the camp. I've saunaed for the first time in a long time - and saunaed correctly for the first time ever, used "summer" as a verb, tried out breathing strips, ridden a Segway.
 
-Complex sentences should be laid out as what they are - a function composition, see also: [lojban](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US). This is the right sacrifice.
+> I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it.
 
-Anyway, where was I - "4 hours", yes. I don't think anyone [in knowledge work] actually works 8. I think that people work either 1, 2, 4 or 12. Some well paid mercenaries work 6. This is my challenge now - reintegrate work into life.
+Very funny.
 
-> You should start by treating a job search like a job. Get up at 8 and work 8 hours every day of the week. Lengthy interviews are great as you wont have to struggle figuring out what useful task to spend the hours on.  
-> ~ [theendisney](https://news.ycombinator.com/item?id=40990731)
+I'll be alright.
 
-Good question! Sounds reasonable at first, but I don't think it would work well for me now. There is not point in *actually* spending 6h a day applying to jobs. Apparently it's not how it works at the moment. Also I feel like there's a lot of value to performing some of the higher priority tasks or sometimes just taking it slow. Having said that - the idea of a "job placeholder" is a decent one.
+## On watching fire go brrrrrrrr
 
-## On friends, networks and relationships
+![](/img/now/fire.jpg)
 
-I've just played Ticket to Ride online with Alice. I think it's important to manage how often you see certain people and be deliberate about it. Recently I've changed the cadence of two recurring encounters. There's this theory that you have 5 friends slots and it takes 2+ hours a week to maintain such a friendship. And a single romantic relationship takes 2 of those slots ('sup, my poly people?!). Can't remember where I've seen this.
-
-My point - it starts to look like something that could benefit from a tracking system. Personal CRM for a lack of a better word. I don't think that I quite need a bit of [Monica](https://www.monicahq.com) in my life - there's something off about making private notes about someone. Or is it? It might be a foundation of something profoundly cool. I imagine having big5 profiles on each person, combining this with time tracking to see what kind of traits am I exposed to how often. I also imagine this data falling into the wrong hands.
-
-There is much joy in reuniting. Remembering. Becoming a member again.
-
-## On watching horses go brrrrrrrrrr
-
-![](/img/now/track.jpg)
-
-## Addendum: on what I'm actually doing now
-
-I've realised I omitted that bit initially. I think I'm roughly going through the same motions as previously. Except I wouldn't necessarily call it a job search - yes, I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it. I'm completing personal tasks, except now I see tangible progress. I entertain the idea of building something, conducting some research. Right now? I'm performing a balancing act in the electric circus of life. 
 
 ## Call to action!
 Please do contact me if you:
-- have successfully implemented "job placeholder"
+- need great people to work **with** at a great company
+- want to build a great company
+    - especially with a potential to quickly get to sustainable cash levels
+- have an idea about how to ethically monetize the cognitive ability measurement. Subscriptions obviously, but c'mon - is there any other way? If not: at what price?
+
+### Still do contact me if you:
 - know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica. 
-- remain intrigued by my approach to work. Offer insight. Desire nuanced conversation on the matter
-- are local and
+- are local [Gdańsk] and
     - interested in joining a mastermind group (although it *slowly* starts to look like we're having a good problem of too many people)
     - want to do some low transaction-cost sport together
 - want to share some expertise on how to do low-effort portfolio management for people who can't yet afford a portfolio manager
