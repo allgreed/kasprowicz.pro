@@ -9,7 +9,7 @@ Reason d'update: feeling in the moment, also: wanted to post an update from abro
 
 ## On entrepreneurship
 
-I'm currently at [Cycle Lithuania](https://www.cyclefreedom.lt/) - a freedom entrepreneurial camp. I've thought I'm neither an entrepreneur nor a businessmen. Turns out I'm definitely an entrepreneur, in fact in entere the shit out of the preneur, and I'm a businessmen (and you are too!), in fact a successful businessmen. What I'm turning my attention towards now is becoming a consistently and repeatably successful businessmen.
+I'm currently at [Cycle Lithuania](https://www.cyclefreedom.lt/) - a freedom entrepreneurial camp. I've thought I'm neither an entrepreneur nor a businessmen. Turns out I'm definitely an entrepreneur, in fact I *entere* the shit out of the *preneur*, and I'm a businessmen (and you are too!) - a successful one. The goal is successing a) more predicatbly b) more consistently.
  
 I cannot recommend the camp enough, I'll send personal invitations, but if either of us misses it... you know what to do! Entrepreneurship is about making things happen!
 
