@@ -17,7 +17,7 @@ init: ## one time setup
 	direnv allow
 
 .PHONY: ftp-deploy build
-ftp-deploy: vendor/CV.pdf dist ## deploy to OVH hosting via ftp
+ftp-deploy: vendor/CV.pdf vendor/CV-d.pdf dist ## deploy to OVH hosting via ftp
 	lftp -e "mirror -R  --parallel=8 dist www; exit" $(FTP_DEPLOY_TARGET)
 	lftp -e "mirror -R  vendor www/vendor; exit" $(FTP_DEPLOY_TARGET)
 
@@ -31,10 +31,16 @@ clean_dist:
 	rm -fr dist
 	mkdir -p dist
 
-vendor/CV.pdf:
-	mkdir -p vendor
+vendor/CV.pdf: vendor
 	echo Paste latest CV to vendor/CV.pdf and press enter
 	read
+
+vendor/CV-d.pdf: vendor
+	echo Paste latest CV to vendor/CV-d.pdf and press enter
+	read
+
+vendor:
+	mkdir -p vendor
 
 .PHONY: help
 help: ## print this message
