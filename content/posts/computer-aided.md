@@ -33,7 +33,7 @@ There was one thought going through my head, the most important words a man can 
 
 ## Proof of Concept
 
-Ok, back to first principles. What I need is an adapter between a female shoemount and a velcro pad. At some point in life I was 2 years and a lot of self-respect away from graduating as an electrical engineer. I can certainly do this!
+Ok, back to first principles. What I need is an adapter between a female shoemount and a velcro pad. At some point in life I was 2 years and a lot of self-respect away from graduating as an electronics engineer. I can certainly do this!
 
 So, I've drawn something, and asked my friend, [Rasskabak](https://arasaka.pl/) to create a 3D model in Blender.
 
@@ -162,7 +162,7 @@ The final manufacturing settings used for the following "mass" production were:
 ## Conclusions
 
 The R&D expenses so far where:
-- ~10-20 hours of my time, which is by far the biggest expense, but it was offsetted by the fact that I just loved it every step along the way (and that'd be much less if I knew how to design and 3d print in the first place)! Let the rought estimate be a proof of that.
+- ~10-20 hours of my time, which is by far the biggest expense, but it was offsetted by the fact that I just loved it every step along the way (and that'd be much less if I knew how to design and 3d print in the first place)! Let the rough estimate be a testament to that.
 - less than 10g of ABS filament
 - less than 48g of PLA filament
 - neglegible amounts of velcro
