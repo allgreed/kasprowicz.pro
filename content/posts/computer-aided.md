@@ -171,8 +171,8 @@ and I've managed to produce 6 perfectly usable prototypes (out of 10 prints). Th
 
 ![](/img/computer-aided/aczomplit.png)
 
-Btw. if you happen to be in Poland and lack a 3d printer you can buy the holder [here!](https://allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-12364365621) At a far more reasonable price.
-[![](/img/computer-aided/buy.png)](https://allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-12364365621)
+Btw. if you happen to be in Poland and lack a 3d printer you can buy the holder [here!](https://archiwum.allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-i14573469842.html) At a far more reasonable price.
+[![](/img/computer-aided/buy.png)](https://archiwum.allegro.pl/oferta/tentacle-sync-e-adapter-zimnej-stopki-i14573469842.html)
 
 TODO: spelling xD
 TODO: fix issues + publish
