@@ -1,7 +1,7 @@
 +++
 title = "Who Owns the Future Open Source Contributions"
 date = 2024-09-29T20:56:13+02:00
-description = ""
+description = "Practical, real-world ways of contributing to open source + some musings"
 draft = true
 +++
 
@@ -10,9 +10,9 @@ draft = true
 —  <cite>John Seymour, also: **not** John Seymour</cite>
 <!--TODO: description?-->
 
-## Drone
+## Drone - perseverance
 
-## <s>Hot</s>Hubstuff
+## <s>Hot</s>Hubstuff - communication
 
 ## The future
 Idea: removing stuff is creating value - Opal

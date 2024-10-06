@@ -31,13 +31,10 @@ clean_dist:
 	rm -fr dist
 	mkdir -p dist
 
-vendor/CV.pdf: vendor
-	echo Paste latest CV to vendor/CV.pdf and press enter
+vendor/%.pdf: vendor
+	echo Paste latest CV to $@ and press enter
 	read
-
-vendor/CV-d.pdf: vendor
-	echo Paste latest CV to vendor/CV-d.pdf and press enter
-	read
+	touch $@
 
 vendor:
 	mkdir -p vendor
