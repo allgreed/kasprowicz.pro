@@ -4,36 +4,33 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated August 21th, 2024 from Aerodream, Antakalnis, Lithuania  
-Reason d'update: feeling in the moment, also: wanted to post an update from abroad
+Updated October 7th, 2024 from Gdańsk, Poland  
 
-## On entrepreneurship
+## On oil
 
-I'm currently at [Cycle Lithuania](https://www.cyclefreedom.lt/) - a freedom entrepreneurial camp. I've thought I'm neither an entrepreneur nor a businessmen. Turns out I'm definitely an entrepreneur, in fact I *entere* the shit out of the *preneur*, and I'm a businessmen (and you are too!) - a successful one. The goal is successing a) more predicatbly b) more consistently.
- 
-I cannot recommend the camp enough, I'll send personal invitations, but if either of us misses it... you know what to do! Entrepreneurship is about making things happen!
+Blood, again. This time to see my Omega 3:6 ratio. Awaiting results. Started taking Zinzino oil.
 
-## Cognitive ability measurement
+## On money
 
-> Why don't you just do it then?  
-> ~ Artūras
+Started a freelancing cooperation, likely less coin that working full time at a company, but also less work. Sustainable levels though. Will see how it works out, I'm hopeful. It's all talk until a transfer hits a wire.
 
-I've made the call, Jakub agreed, the first steps commence on Thursday. Stay tuned!
+There's also money in oil apparently. Exploring that avenue as well, cautiously.
 
-## On income generation
+## On love
 
-Had plenty of discussions, thought and insights at the camp. I've saunaed for the first time in a long time - and saunaed correctly for the first time ever, used "summer" as a verb, tried out breathing strips, ridden a Segway.
+In the words of Sara: "I though it'll be full of ambiguity therefore I was surprised it could be so... simple"
 
-> I look for opportunities to trade skills for money, but there's an entrepreneurial vibe to it.
+## On trash
 
-Very funny.
+I have a trash buffer, which I though was useless. Anything but. Trash buffer is an idea that for some items if you're not sure they can be discarded you put them in a box labeled with a current date + time t (year, month). If you don't reach for the item until the resulting date you throw it away. Last weekend was the first time I've retrieved an item from the box and was relieved that it was there. All hail trash buffer!
 
-I'll be alright.
+## On wires
 
-## On watching fire go brrrrrrrr
+I've been watching lots of youtube pertaining to what electricians do. Cautiously thinking about exploring that avenue as well.
 
-![](/img/now/fire.jpg)
+## On making my Jewish ancestors proud
 
+![](/img/now/szakszi.png)
 
 ## Call to action!
 Please do contact me if you:
@@ -41,6 +38,7 @@ Please do contact me if you:
 - want to build a great company
     - especially with a potential to quickly get to sustainable cash levels
 - have an idea about how to ethically monetize the cognitive ability measurement. Subscriptions obviously, but c'mon - is there any other way? If not: at what price?
+- are **not** poor and would like to improve your health
 
 ### Still do contact me if you:
 - know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica. 
