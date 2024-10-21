@@ -97,7 +97,7 @@ In other words: I have a strong bias for action, maybe not [this strong bias for
 Let me see, let me see what you've got  
 ~ [The Prodigy](https://www.youtube.com/watch?v=aPbZABYQJV8)
 
-This means I perform best with either a lot of freedom, autonomy and resources at my disposal ([so much can depend upon a wheel barrow](https://www.youtube.com/watch?v=XeO3jMZphhs&t=46s)) or a strong, competent leader who's not slacking. Preferably both.
+This means I perform best with either a lot of freedom, autonomy and resources at my disposal ([so much can depend upon a wheel barrow](https://www.youtube.com/watch?v=XeO3jMZphhs&t=75s)) or a strong, competent leader who's not slacking. Preferably both.
 
 I have 0 problem with talking to people, talking to people on the phone (I'm aware that some folks hate that), talking to a lot of people at once ([see my talks!](https://kasprowicz.pro/3party/)). Also: I *need* to talk to people. Participate. Interact.
 
@@ -224,6 +224,12 @@ The stories will twist and tangle in a myriad of colours and swarm of shapes. In
 
 I exhibit neurodivergency markers and treat my own sanity as an elaborate balancing act rather than a given. This is how you find madness in methods and method in madness.
 
+---
+
+**Going forward it's more of a loose collection of notes rather than a coherent page - work in process, though**
+
+---
+
 ## About values
 
 I've mentioned "the code" earlier
@@ -333,6 +339,8 @@ I have some expertise in programming computers. I can think; and write what I th
 > Never mind computers. Ira, the most sophisticated machine the human mind can build has in it the limitations of the human mind. Anyone who thinks otherwise does not understand the Second Law of Thermodynamics.  
 > ~ Lazarus Long
 
+TODO: The deal from the end of-&gt; to my page -&gt; https://paulgraham.com/gh.html
+
 ## About ethics - what I won't do for you
 <!--Yes,  I need resources and, not too much, mostly fiat currency. We might come to an agreement that you pay me in exchange for services. But not necessarily.-->
 <!--- There's a mercenary component to my actions. I work for money, not because of money. I need money, yet don't desire it. Sometimes we can skip the money part altogether, but don't count on it.-->
@@ -351,3 +359,6 @@ v- TODO: a page like this
 https://chelseatroy.com/are-you-hiring/
 v- TODO: approach to work
 https://alexanderobenauer.com/work/
+https://www.leanessays.com/2019/04/what-if-your-team-wrote-code-for-737.html?m=1 gardener, but also an engineer xD
+http://chrisaitchison.com/2011/05/03/you-are-not-a-software-engineer/
+also explain: raven ring
