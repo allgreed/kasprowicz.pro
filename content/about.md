@@ -362,3 +362,6 @@ https://alexanderobenauer.com/work/
 https://www.leanessays.com/2019/04/what-if-your-team-wrote-code-for-737.html?m=1 gardener, but also an engineer xD
 http://chrisaitchison.com/2011/05/03/you-are-not-a-software-engineer/
 also explain: raven ring
+
+v- TODO: inspiration of sorts?
+https://aliceininternet.medium.com/who-am-i-what-do-i-do-1e496c4222cf
