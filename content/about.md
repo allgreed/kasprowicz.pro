@@ -365,3 +365,5 @@ also explain: raven ring
 
 v- TODO: inspiration of sorts?
 https://aliceininternet.medium.com/who-am-i-what-do-i-do-1e496c4222cf
+
+Interaction points, np: zinzino
