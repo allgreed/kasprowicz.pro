@@ -367,3 +367,8 @@ v- TODO: inspiration of sorts?
 https://aliceininternet.medium.com/who-am-i-what-do-i-do-1e496c4222cf
 
 Interaction points, np: zinzino
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took all of them.
