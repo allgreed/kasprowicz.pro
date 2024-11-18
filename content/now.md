@@ -4,44 +4,34 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated October 7th, 2024 from Gdańsk, Poland  
+Updated November 18th, 2024 from Gdańsk, Poland  
 
 ## On oil
 
-Blood, again. This time to see my Omega 3:6 ratio. Awaiting results. Started taking Zinzino oil.
+Fact: ever since I've started taking oil almost any aspect of my life I can think of has improved. Also: the lab said I should
 
-## On money
+The oil business is decent as well
 
-Started a freelancing cooperation, likely less coin that working full time at a company, but also less work. Sustainable levels though. Will see how it works out, I'm hopeful. It's all talk until a transfer hits a wire.
+## On [redefining operational excellence in manufacturing](https://ethon.ai/)
 
-There's also money in oil apparently. Exploring that avenue as well, cautiously.
+Back from Zürich, plan on coming back in January, this time for realsies. My mental points are still there after a whole day's work, I'm learning a crapload and hope to contribute ever more value on a daily basis! Amazing people as well!
+
+Currently focusing on reconciling full time occupation with other aspects of my life. Removing what can be removed. But no more
 
 ## On love
 
-In the words of Sara: "I though it'll be full of ambiguity therefore I was surprised it could be so... simple"
+Shaken, not stirred
 
-## On trash
+## On business hours
 
-I have a trash buffer, which I though was useless. Anything but. Trash buffer is an idea that for some items if you're not sure they can be discarded you put them in a box labeled with a current date + time t (year, month). If you don't reach for the item until the resulting date you throw it away. Last weekend was the first time I've retrieved an item from the box and was relieved that it was there. All hail trash buffer!
+![](/img/now/closed.jpg)
 
-## On wires
-
-I've been watching lots of youtube pertaining to what electricians do. Cautiously thinking about exploring that avenue as well.
-
-## On making my Jewish ancestors proud
-
-![](/img/now/szakszi.png)
-
-## Call to action!
-Please do contact me if you:
-- need great people to work **with** at a great company
-- want to build a great company
-    - especially with a potential to quickly get to sustainable cash levels
-- have an idea about how to ethically monetize the cognitive ability measurement. Subscriptions obviously, but c'mon - is there any other way? If not: at what price?
-- are **not** poor and would like to improve your health
+## Call to inaction
+Please don't ask my opinions about things
 
 ### Still do contact me if you:
-- know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica. 
+- are **not** poor and would like to improve your health
+- know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica
 - are local [Gdańsk] and
     - interested in joining a mastermind group (although it *slowly* starts to look like we're having a good problem of too many people)
     - want to do some low transaction-cost sport together
