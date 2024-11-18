@@ -24,7 +24,9 @@ ftp-deploy: vendor/CV.pdf vendor/CV-d.pdf dist ## deploy to OVH hosting via ftp
 build: dist ## create build artifacts (no postprocessing though)
 
 dist: clean_dist
+	chmod -R +r static
 	hugo --destination dist --minify
+
 
 .PHONY: clean_dist
 clean_dist:
