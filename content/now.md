@@ -34,7 +34,6 @@ Please don't ask my opinions about things
 - know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica
 - are local [Gdańsk] and
     - interested in joining a mastermind group (although it *slowly* starts to look like we're having a good problem of too many people)
-    - want to do some low transaction-cost sport together
 - want to share some expertise on how to do low-effort portfolio management for people who can't yet afford a portfolio manager
 
 ## Bazaar
