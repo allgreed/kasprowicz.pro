@@ -347,6 +347,8 @@ TODO: The deal from the end of-&gt; to my page -&gt; https://paulgraham.com/gh.h
 <!--TODO: expand-->
 <!--TODO: does this belong here?-->
 
+Also: I'm unbelievably bad at enumerating past events in a chronological order. It's just how my mind works. If the past is connected to something it is there - it's just doesn't stand quite well on it's own for me. So I totally abhor the practice of status reports. I've got no idea ["what's up"](/now). I can use tools to probably reconstruct it. Don't love it.
+
 ## About what next
 
 > I've been thinking about this stuff very seriously for over a decade, and I love that you're the first person who's really let me implement it.  
