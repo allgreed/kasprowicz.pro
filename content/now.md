@@ -4,37 +4,44 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated November 18th, 2024 from Gdańsk, Poland  
+Updated January 4th, 2025 from Gdańsk, Poland  
 
-## On oil
+## On the latest Ticket to Ride extension
+We're moving to Zurich. In mid-February if the very nice realtor people are convinced enough by our long motivation letter in German. Pretty please, we want that appartmanet ;) Until then still working remotely.
 
-Fact: ever since I've started taking oil almost any aspect of my life I can think of has improved. Also: the lab said I should
+## On carless whisper
+I'm never gonna dance again. For the next month or so. I've heared the lindy scene in Zurich is pretty active though ;) 
 
-The oil business is decent as well
+Right now I've signed up for personal traninig to learn how to use kettlebells, so that I can train by myself after the move. Also: this cuts off enough excercise-related commute that even though I'll be training twice a week instead of dancing once a week it's still a net 2h gain.
 
-## On [redefining operational excellence in manufacturing](https://ethon.ai/)
+I'm adapting to full-time work better than I've expected - I have enough mental points after a whole day's work and the energy levels seem to rise to the ocasion (o.0) rather than crumble under pressure. I eat more though - most of the days are 3 meals a day now, not sure it it's winter, increased load or both. **I can do less but somehow it's... more overall**! I'm rambling.
 
-Back from Zürich, plan on coming back in January, this time for realsies. My mental points are still there after a whole day's work, I'm learning a crapload and hope to contribute ever more value on a daily basis! Amazing people as well!
+## On family events
 
-Currently focusing on reconciling full time occupation with other aspects of my life. Removing what can be removed. But no more
+I've had four Christmas dinners over 3 days. Three of them were actually entertaining.
 
-## On love
+I was Dideroted (in good faith) into learning about how cutting board hardness affects knife sharpness over time. It's fun though. My friend said that "a good kitchen is one you want to cook in". Santoku means three virtues.
 
-Shaken, not stirred
+## On using a tablet computer
 
-## On business hours
+I feel complete now. Laptop is a too-large and immboile tablet and phone is a too-small tablet. Turns out I needed all 3 [and an e-ink reader, but sush]. It's mostly for reading, mostly hacker news, however I feel I finally have the environment to dive into those fancy pdfs.
 
-![](/img/now/closed.jpg)
+## On random thoughs
+- Showing singles in Spotify artist's discography is annoying, and while revealing of a trend, it should defnitely have a section of it's own
+- To the next person wishing someone "the best in your job search and future endeavors" - fuck you. I hope you fail and die. (I'm covered in the moneymaking deperatament, so this is not a spiteful post-haste ragepost, also: [read this](https://interviewing.io/blog/no-engineer-has-ever-sued-a-company-because-of-constructive-post-interview-feedback-so-why-dont-employers-do-it))
+- Kłącze bez roszczeń i bez dążeń
+
+## On showing one's face on the internet
+
+![](/img/now/see-no-evil.jpg)
 
 ## Call to inaction
-Please don't ask my opinions about things
+Please don't
 
 ### Still do contact me if you:
+- have a way of staying up to date with the state of security as an SRE (newsletter, tweeter feeds, etc.)
 - are **not** poor and would like to improve your health
 - know about a personal CRM other than [Monica](https://www.monicahq.com) or have used Monica
-- are local [Gdańsk] and
-    - interested in joining a mastermind group (although it *slowly* starts to look like we're having a good problem of too many people)
-- want to share some expertise on how to do low-effort portfolio management for people who can't yet afford a portfolio manager
 
 ## Bazaar
 Have the following item for sale, asking price without shipping, items are used:
@@ -44,6 +51,5 @@ Have the following item for sale, asking price without shipping, items are used:
 - Espresso making set - Delonghi Dedica machine with a custom botomless portafilter, IMS basket, tamper (wood finish matches the portafilter), dosing sleeve, 1100 PLN
 
 ## Still
-- Not yet done with cleaning my room (if Emily asks)
-- Working on my [about page](/about). Writing down values.
+- Not yet done with cleaning my room (if Emily asks). There's tangible progress though and now I have a kind of deadline.
 - Snakes. Garden.
