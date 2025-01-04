@@ -1,4 +1,4 @@
-# I does locking now
+# it does locking now
 .hugo_build.lock
 
 # build artifacts
@@ -8,3 +8,6 @@ public
 
 # other stuff
 vendor
+
+# eh...
+.htaccess
