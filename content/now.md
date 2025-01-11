@@ -4,13 +4,13 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated January 4th, 2025 from Gdańsk, Poland  
+Updated January 11th, 2025 from Gdańsk, Poland  
 
-## On the latest Ticket to Ride extension
-We're moving to Zurich. In mid-February if the very nice realtor people are convinced enough by our long motivation letter in German. Pretty please, we want that appartmanet ;) Until then still working remotely.
+## On the latest Ticket to Ride expansion
+We're moving to Zurich, sometime in February, until then working remotely. Looking for an apartament.
 
 ## On carless whisper
-I'm never gonna dance again. For the next month or so. I've heared the lindy scene in Zurich is pretty active though ;) 
+I'm never gonna dance again. For the next month or so. I've heared the Lindy scene in Zurich is pretty active though ;) 
 
 Right now I've signed up for personal traninig to learn how to use kettlebells, so that I can train by myself after the move. Also: this cuts off enough excercise-related commute that even though I'll be training twice a week instead of dancing once a week it's still a net 2h gain.
 
@@ -34,6 +34,13 @@ I feel complete now. Laptop is a too-large and immboile tablet and phone is a to
 ## On showing one's face on the internet
 
 ![](/img/now/see-no-evil.jpg)
+
+## (Introducing) My current stack:
+- Holistic vitamin D (3.5k IU) - have to emulate 3.2k by taking 2k and 5k interchangeably due to supply chain issues
+- Zotter Labooko 100% (18.75g)
+- Zinzino BalanceOil+ (10ml)
+- wallnuts (20g every other day)
+- (introducing) Zinzino ZinoBiotic+ (6g)
 
 ## Call to inaction
 Please don't
