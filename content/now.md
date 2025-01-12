@@ -39,7 +39,7 @@ I feel complete now. Laptop is a too-large and immboile tablet and phone is a to
 - Holistic vitamin D (3.5k IU) - have to emulate 3.2k by taking 2k and 5k interchangeably due to supply chain issues
 - Zotter Labooko 100% (18.75g)
 - Zinzino BalanceOil+ (10ml)
-- wallnuts (20g every other day)
+- walnuts (20g every other day)
 - (introducing) Zinzino ZinoBiotic+ (6g)
 
 ## Call to inaction
