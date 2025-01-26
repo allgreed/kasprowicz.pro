@@ -25,7 +25,7 @@ build: dist ## create build artifacts (no postprocessing though)
 
 dist: clean_dist
 	chmod -R +r static
-	hugo --destination dist --minify
+	HUGO_ENV="production" hugo --destination dist --minify
 
 
 .PHONY: clean_dist
