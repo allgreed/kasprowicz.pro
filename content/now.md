@@ -4,18 +4,20 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated ~~April 19th~~ May 13th, 2025 from ~~Inowrocław, Poland~~ Zürich, Switzerland
+Updated June 24th, 2025 from Zürich, Switzerland
 
-## On not having one's shit together
-```
-warning: Pranie: overdue!
-warning: Pranie: was supposed to happen on 2025-03-09 - in the past, skipping
-warning: Pranie: was supposed to happen on 2025-03-16 - in the past, skipping
-warning: Pranie: was supposed to happen on 2025-03-23 - in the past, skipping
-warning: Pranie: was supposed to happen on 2025-03-30 - in the past, skipping
-warning: Pranie: was supposed to happen on 2025-04-06 - in the past, skipping
-warning: Pranie: was supposed to happen on 2025-04-13 - in the past, skipping
-```
+## Home alone
+
+## Divinations and acausality
+- https://divination.com/iching/lookup/23-2/
+- do the LLM chat
+
+## Notebook in the park, less.
+
+## Equilibrium search, reconnecting
+
+?
+READ the other stuff, see how this relates
 
 ## On Behavioral Randomization (Isaac Asimov)
 
@@ -99,24 +101,23 @@ The journey proved to be an engaging experiment, one I find worthwhile to recomm
 I don't even sound like that  
 Also rel: https://news.ycombinator.com/item?id=43888803*
 
-## On accidentally creating a car commercial
+## On 
 
-![](/img/now/accidental-car-comercial.jpg)
+TOOD: new image
+![](/img/now/)
 
 ## My current stack:
-- Holistic vitamin D (2k IU) - decrease from 3.2k [emulated], since the trend was growing and approaching 70 pg/mL
 - Zotter Labooko 100% (18.75g)
 - Zinzino BalanceOil+ (10ml)
 - Zinzino ZinoBiotic+ (6g)
+- ~~Holistic vitamin D (2k IU)~~ (on hold because of sun)
 
-Wallnuts are dropped from the stack, but we almost always have some on hand at home, I eat when I remember about them. Martyna has bought a tiny blue bowl to remind me.
-
-My yearly suite of tests turned out nominal. Considering performing additional one for heavy metals.
+TODO: activity
 
 ## Call to inaction
 Please don't
 
 ### Still do contact me if you:
 - are **not** poor and would like to improve your health
-- think "AI" is a fad and yet still utilize the advancements made in the sphere. I want a nuanced view - not a polarised simplistic one.
+- 
 - are passing by
