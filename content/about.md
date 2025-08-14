@@ -42,6 +42,7 @@ I'm the second guy from the left.
 
 <!--Can you holistically optimize interactive networks? How many years of experience?-->
 
+
 <!-- While reading this it's my voice that your hear. I'm the voice inside your skull. I'm Jack's unpaid leave. I'm the pickled ginger in a sushi takeout.-->
 
 <!-- Will you please share your updated CV? WILL YOU PLEASE SHARE YOUR UPDATED CV?!! -->
@@ -301,16 +302,13 @@ I've been asked on a number of ocasions:
 
 > How many years of experience do you have flopnaxing the ropjar?
 
-Well, that's not a very sophisticated question. First of all, in the last 4 months ropjar was entirely transformed and no longer resembles anything flopnaxable. I've worked with ropjar 2 years ago, I reconfigured the rilkef about 3 times over the course of 6 months, each time it took 5 days. What number is right? 2? 15/365? 0.5? If you want a real number - that'd be Π, but I might have something perfect [for you] - 3!
+> [“Yes, but this floor is new to me.”](https://soda.privatevoid.net/foo/arc/09.html)
+> ~ Master Foo
 
 > Now it is demanded you are specialist first, generalist second, especially since programming is perceived as this "super hard thing" to learn that most people figure it impossible to know more than a few things at once. While developers understand it isn't, people recruiting them believe such stuff [...].  
 > ~ [hn comment](https://news.ycombinator.com/item?id=39229788)
 
-Aside from being immensly unclear and loaded - it also doesn't matter! I've had 0 years of experience with icalendar, but I can read RFCs, so ~3 hours later I've produced [this](https://github.com/allgreed/tw-ical-feed/). Don't focus on the Python thing. It could've been LISP or Haskell or...
-
-> In software, things change so often and so rapidly that you need people that can succeed at just about any programming task that you throw at them. ~ [Joel](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
-
-Additional recommended: [Master Foo and the Recruiter](http://catb.org/~esr/writings/unix-koans/recruiter.html)
+Well, that's not a very sophisticated question, you should use the [experimental rilkef](https://xeiaso.net/blog/experimental-rilkef-2018-11-30/) anyway.
 
 ## About what can I do for you
 I'm a shaman. We live in a capitalist, nominally meritocratic, somewhat classless, post-industrial society. And a shaman, unlike a kitchen appliance - does not exist with the specific purpose of being useful. 
