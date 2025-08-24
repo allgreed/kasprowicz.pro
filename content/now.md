@@ -4,68 +4,64 @@ title = "What I’m doing now"
 
 (This is a [now page](https://nownownow.com/about), and if you have your own site, you ~~should~~ can make one, too.) 
 
-Updated Ju~~ne~~ly ~~27~~ ~~6~~ 13th, 2025 from ~~Zürich~~ ~~Gdańsk~~ a moving train, Po~~Switzer~~land
+Updated August 24th, 2025 from a cabin near Trakai, Lithuania
 
-## Home alone
+## Cycle [Freedom](https://www.cyclefreedom.lt/)
 
-Periods of togetherness weaved with a strand of solitude. I had some space to reflect, some breathing room from the daily grind. It was a fruitfull week by myself.
+## [Calm](https://www.theschooloflife.com/shop/calm-paperback/)
 
-I was aware that, in principle, I'm a fully-functioning grown-up - what the grown-ups call adult and pronoune "*ah*-dult". Food procurement and preparation process has such a wide tolerances that basically anything goes.
+## Allergy
+My nemesis. We meet again. During my mandatory medical exam for military qualification a doctor said:
 
-But some things have to be witnessed. Another great example of non-propositional knowledge.
+> "Allergy is not a disease"
 
-## [Divinations](https://divination.com/iching/lookup/23-2/) and acausality
-Read more [Dukaj](https://pl.wikipedia.org/wiki/Jacek_Dukaj#Tw%C3%B3rczo%C5%9B%C4%87_literacka)
+To which in an alternate universe I've replied:  
+fuck you.  
+fuck you.  
+fuck you.  
+fuck you.  
+fuck you.  
+fuck you.  
+fuck you.  
 
-## NSA-proof Notebook in the park, less.
+it's one of the few diseases capable of killing in minutes. I've just realised how much toll it has taken over my existence and what I've learned to endure with, what I've started to treat as normal. As "my thing".
 
-I went to the park because I wished to live deliberately, to front only the essential facts of life. No VR, no AR, just... R.
+I shall make a doctor's appointment and in the mean time do some experiments on my own. My brother had inspired me.
 
->  \- what number have I written down in my notebook?  
->  \- I don't know  
->  \- and **they** don't know either!  
+And when the allergy has gone past, I will turn the inner eye to see its path.
 
-What followed is even further input reduction:
-- blocked Discord (expcet for Sunday when I have reminder to check it)
-- blocked the orange industry webiste [except for Saturdays - when anything goes]
-- romancing with Beeper again - as an attempt to block Messanger app habit ques. Although: they've removed the "updates" tab for me, which is nice already.
+# Ad absurdium
+> Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here.'
 
-[Opal](https://www.opal.so/) with all their shitfuckery, is one of the most powerfull apps I have on my phone, even though it does the opposite of doing anything - it prevents me from doing some things sometimes.
+I find some kind of perverse joy in the opposition of addition. I remove. I delete. Slash, axe, weed out. Purge.
 
-I don't recommend them it, but I also do.
+I will **not** read this, I will **never** watch this. It's a rehash *and* a cognitive warfare blip anyway. I maintain a curated playlist of Youtube videos I will watch next. As type this I go through the list and delete a few items. I'm agile like a lizard and sharp as a cutter.
 
-This and meditation - only ways to attempt resiting the tides of cognitive warfare.
+I do this in the service of calm, some shreds of sanity. I do this, because in some sense I'm no longer curious, with the backlog looming over me. I do this, because, and I say this without hubris, what had happened so far is enough.
 
-## is here, just not equally distributed.
+## On random
+ChatGPT is the right doctor form factor.  
+Insiders trading should not be a crime.
 
-We live in a techo-vc bubble
-
-I've had some contact with general population lately. Pure R. Refreshingly random. Offers a perspective.
-
-## On goals [and aims]
-
-> Sheryl Sandberg is better than focus   
-
-> finished is about saying "no" to good ideas
-
-![](/img/now/goal-and-aims.jpg)
+![](/img/now/aerodream-router.jpg)
 
 ## My current stack:
-- Zotter Labooko 100% (18.75g)
-    - also experimenting with coca powder in kale shakes, currently using 100% Cocoa from Cailler, unfortunettely it's Dutch processed - we'll need to look for another supplier 
 - Zinzino BalanceOil+ (10ml)
-- Zinzino ZinoBiotic+ (6g, romancing with 12g)
+- **Zinzino Viva+ (2 tablets, 28 mg of saffron extract)**
+- Zotter Labooko 100% (18.75g)
+    - also putting coca powder in kale shakes [while maintaining total dose], found something undutched finally - [SHINE Rohes Kakaopulver](https://www.coopvitality.ch/de/p/shine-rohes-kakaopulver-bio-btl-100-g-7340667)
 - ~~Holistic vitamin D (2k IU)~~ (on hold because of the sun)
+- Zinzino ZinoBiotic+ (6g, will drop after I ran out of supply, all my other interventions are backed by solid paper results, this might be not the right cost/effect tradeoff for my current stage)
 
 ### Pracitces
-- Acupresure mat. Cheap, portable (Martini took it on the plane as her personal item), does wonders for my back after sitting at a desk for the whole day.
-- SPF face cream daily (I have to do more research into whether I'm not harming myself with the ingredients)
-- Some kind of motion. It's the best place to start as whenver I look someone is doing some kind of sport [and you can ask the name of the sport and they'll proudly tell you "spikeball"]. Currently: trying running, 50/50 walk:run. 3 min intervals. Surprisingly fun.
+- Acupressure mat
+- Skinimal SPF50 face cream daily
+- Some kind of motion. Wondering how to incorporate this into my routine / week template. Currently it's spur of the moment "let's go running!", which often is accompanied by "let's!" and lack of further followup.
 
 ## Call to inaction
 Please don't
 
 ### Still do contact me if you:
+- have good ideas on the point above
 - are **not** poor and would like to improve your health
-- offer support for my position
-- are reding this page and considering if you should.
+- are reeding this page and considering if you should.
