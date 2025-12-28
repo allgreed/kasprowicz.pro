@@ -38,4 +38,4 @@ Lastly, the creation it it's entireity:
 ![](/img/how-to-go-outside/full.jpg)
 
 ## Results
-It worked flawlessly for me for 2+ years, surviving 2 harsh Polish winters, as well as for my brother for about ~year. The only reason I've stopped using it is dueto the contract cancellation with an ISP that required an outside aerial to work. But that's another story ;)
+It worked flawlessly for me for 2+ years, surviving 2 harsh Polish winters, as well as for my brother for about ~year. The only reason I've stopped using it is due to the contract cancellation with an ISP that required an outside aerial to work. But that's another story ;)
